@@ -81,7 +81,7 @@ function guidmap(Guid){
   }else
     if(!Guid.musiconoroff && Guid.date==mTime(0) && !Guid.date_date){
 
-       return `<li>${Guid.date}>> <font color="000000">No ${Guid.musicname} music show</font></li>`;
+       return `<li>${Guid.date}>> <font color="#adadb8">No ${Guid.musicname} music show</font></li>`;
   }
 }
 
@@ -91,7 +91,7 @@ function guidtmrmap(Guidtmr){
        `;
   }else
     if(!Guidtmr.musiconoroff && Guidtmr.date==mTime(1) && !Guidtmr.date_date ){
-       return `<li>${Guidtmr.date}>> <font color="000000">No ${Guidtmr.musicname} music show</font></li>`;
+       return `<li>${Guidtmr.date}>> <font color="#adadb8">No ${Guidtmr.musicname} music show</font></li>`;
   }
 }
 
