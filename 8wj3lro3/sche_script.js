@@ -1,7 +1,7 @@
 const musicGuid =[
   {
     "mair": "nomal",
-    "date": "xMonday",
+    "date": "xMon.",
     "musiconoroff" : false,
     "musicname": " ",
     "musictime": "KST",
@@ -9,7 +9,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Tuesday", 
+    "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "316회",
@@ -18,7 +18,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Wednesday",
+    "date": "Wed.",
     "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "461회",
@@ -27,7 +27,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Thursday",
+    "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "779회",
@@ -37,7 +37,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Friday",
+    "date": "Fri.",
     "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1146회",
@@ -46,7 +46,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Saturday",
+    "date": "Sat.",
     "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "Highlight회",
@@ -56,7 +56,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Sunday",
+    "date": "Sun.",
     "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1166회",
@@ -64,7 +64,7 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:`
   },  ////SP_GUIDE/////
   {
-    "date": "Saturday",
+    "date": "Sat.",
     "date_date": "01.7",
     "musicname": "37th GOLDEN DISC AWARDS",
     "musicEP": "",
@@ -111,7 +111,7 @@ function DateTimezone(offset) {
 }
 
 function mTime(nowadd){
-  let weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday","Monday"];
+  let weekday = ["Sunday","Mon.","Tue.","Wed.","Thu.","Fri.","Sat.","Sun.","Mon."];
   let mday = new Date();
   return weekday[DateTimezone(9).getDay()+nowadd];
 
@@ -119,6 +119,6 @@ function mTime(nowadd){
 }
 
 function setup(){
-    document.getElementById("app_guid").innerHTML =`${musicGuid.map(guidmap).join("")}Tomorrow<BR/> ${musicGuid.map(guidtmrmap).join("")}`;
+    document.getElementById("app_guid").innerHTML =`${musicGuid.map(guidmap).join("")}<font color=Red>Tomorrow</font><BR/> ${musicGuid.map(guidtmrmap).join("")}`;
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 }
