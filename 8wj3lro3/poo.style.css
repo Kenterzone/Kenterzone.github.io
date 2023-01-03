@@ -189,8 +189,8 @@ ul.tabs li.active {background: #FFFFFF;border-bottom: 1px solid #FFFFFF;border: 
 
 #app_guid ul{
     font-family: 'Sansita One', cursive;
-    color:red;
-    
+	color:red;
+}
 #app_guid li{
-    color:blue;
+    color:#3E7FA8;
 }

@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "316회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,45 +23,45 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "461회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "779회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1146회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "Highlight회",
+    "musicEP": "792회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1166회",
     "musictime": "15:43KST",
-    "musicsetlist":`ShowGuest:`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
@@ -69,7 +69,7 @@ const musicGuid =[
     "musicname": "37th GOLDEN DISC AWARDS",
     "musicEP": "",
     "musictime": "20:00KST",
-    "musicsetlist":`ShowGuest:NewJeans, LE SSERAFIM, IVE, (G)I-DLE, YOUNHA, BIG Naughty, BE'O, J-HOPE(BTS), SEVENTEEN, ENHYPEN, Stray Kids, TREASURE, PSY<BR/><font color="green">MC:SUNG SIKYUNG, Lee DaHee, Nichkhun(2PM), Park Sodam</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NewJeans, LE SSERAFIM, IVE, (G)I-DLE, YOUNHA, BIG Naughty, BE'O, J-HOPE(BTS), SEVENTEEN, ENHYPEN, Stray Kids, TREASURE, PSY</font><BR/><font color="green">MC:SUNG SIKYUNG, Lee DaHee, Nichkhun(2PM), Park Sodam</font>`
   }
 ];
 
@@ -77,7 +77,7 @@ const musicGuid =[
 function guidmap(Guid){
   if( (Guid.musiconoroff && Guid.date==mTime(0)) || (Guid.date_date == mDaycheck(0)&& Guid.date==mTime(0))  ){
 
-       return `<ui><li>${Guid.date}>> ${Guid.musicname}-${Guid.musicEP}(${Guid.musictime})<BR /><font color="000000">${Guid.musicsetlist}</font></li><ui>`;
+       return `<ui><li>${Guid.date}>> ${Guid.musicname}-${Guid.musicEP}(${Guid.musictime})<BR /><font color="#3E7FA8">${Guid.musicsetlist}</font></li><ui>`;
   }else
     if(!Guid.musiconoroff && Guid.date==mTime(0) && !Guid.date_date){
 
@@ -87,7 +87,7 @@ function guidmap(Guid){
 
 function guidtmrmap(Guidtmr){
   if((Guidtmr.musiconoroff && Guidtmr.date==mTime(1)) || (Guidtmr.date_date == mDaycheck(1)&& Guidtmr.date==mTime(1)) ){
-       return `<ui><li>${Guidtmr.date}>> ${Guidtmr.musicname}-${Guidtmr.musicEP}(${Guidtmr.musictime})<BR /><font color="000000">${Guidtmr.musicsetlist}</font></li><ui>
+       return `<ui><li>${Guidtmr.date}>> ${Guidtmr.musicname}-${Guidtmr.musicEP}(${Guidtmr.musictime})<BR /><font color="#3E7FA8">${Guidtmr.musicsetlist}</font></li></ui>
        `;
   }else
     if(!Guidtmr.musiconoroff && Guidtmr.date==mTime(1) && !Guidtmr.date_date ){
@@ -114,7 +114,6 @@ function mTime(nowadd){
   let weekday = ["Sunday","Mon.","Tue.","Wed.","Thu.","Fri.","Sat.","Sun.","Mon."];
   let mday = new Date();
   return weekday[DateTimezone(9).getDay()+nowadd];
-
   //return weekday[3];   //for test
 }
 
