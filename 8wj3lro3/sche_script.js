@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "792회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ILY：1, woo!ah!, Lee AYoung, TO1, WeNU, BUMJIN, Double Decker, Espero, Jeong Dong Won, DKZ, Moonbin & Sanha(ASTRO), ATEEZ, WayV,</font>`
   },
 
   {
