@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1146회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">H1-KEY, ILY:1, woo!ah!, Lee A Young, Park Hyeon Seo, BUMJIN, Espero, Double Decker, DKZ, TO1, WeNU, Moonbin & Sanha(ASTRO), ATEEZ, WayV</font>`
   },
   {
     "mair": "nomal",
