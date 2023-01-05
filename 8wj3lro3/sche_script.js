@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "792회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ILY：1, woo!ah!, Lee AYoung, TO1, WeNU, BUMJIN, Double Decker, Espero, Jeong Dong Won, DKZ, Moonbin & Sanha(ASTRO), ATEEZ, WayV,</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ILY：1, woo!ah!, Lee AYoung, TO1, WeNU, BUMJIN, Double Decker, Espero, Jeong Dong Won, DKZ, Moonbin & Sanha(ASTRO), ATEEZ, WayV</font>`
   },
 
   {
@@ -111,7 +111,7 @@ function DateTimezone(offset) {
 }
 
 function mTime(nowadd){
-  let weekday = ["Sunday","Mon.","Tue.","Wed.","Thu.","Fri.","Sat.","Sun.","Mon."];
+  let weekday = ["Sun.","Mon.","Tue.","Wed.","Thu.","Fri.","Sat.","Sun.","Mon."];
   let mday = new Date();
   return weekday[DateTimezone(9).getDay()+nowadd];
   //return weekday[3];   //for test
