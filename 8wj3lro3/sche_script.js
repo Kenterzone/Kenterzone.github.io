@@ -40,13 +40,13 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1146회",
+    "musicEP": "1147회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">H1-KEY, ILY:1, woo!ah!, Lee A Young, Park Hyeon Seo, BUMJIN, Espero, Double Decker, DKZ, TO1, WeNU, Moonbin & Sanha(ASTRO), ATEEZ, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
-    "date": "Sat.",
+    "date": "xSat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "792회",
@@ -118,6 +118,10 @@ function mTime(nowadd){
 }
 
 function setup(){
-    document.getElementById("app_guid").innerHTML =`${musicGuid.map(guidmap).join("")}<font color=Red>Tomorrow</font><BR/> ${musicGuid.map(guidtmrmap).join("")}`;
+	var  channel_id = "vo0ckeqp" ;
+	document.getElementById("app_guid").innerHTML =`${musicGuid.map(guidmap).join("")}<font color=Red>Tomorrow</font><BR/> ${musicGuid.map(guidtmrmap).join("")}`;
+	document.getElementById("v_channel").innerHTML =`<iframe width="100%" height="100%" src="https://player.twitch.tv/?channel=${channel_id}&parent=Kenterzone.github.io" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>`;
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 }
+
+
