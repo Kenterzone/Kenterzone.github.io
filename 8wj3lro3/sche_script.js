@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "xSat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "792회",
+    "musicEP": "793회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ILY：1, woo!ah!, Lee AYoung, TO1, WeNU, BUMJIN, Double Decker, Espero, Jeong Dong Won, DKZ, Moonbin & Sanha(ASTRO), ATEEZ, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,16 +60,16 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1166회",
-    "musictime": "15:43KST",
+    "musictime": "15:33KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">MC SPECIAL STAGE, H1-KEY, ILY:1, HEEO, Park Hyeon Seo, Lee A Young, Espero, TO1, Jeong Dong Won, WeNU, Double Decker, DKZ, ATEEZ, Moonbin & Sanha(ASTRO), WayV</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
     "date_date": "01.7",
-    "musicname": "37th GOLDEN DISC AWARDS",
+    "musicname": "",
     "musicEP": "",
     "musictime": "20:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NewJeans, LE SSERAFIM, IVE, (G)I-DLE, YOUNHA, BIG Naughty, BE'O, J-HOPE(BTS), SEVENTEEN, ENHYPEN, Stray Kids, TREASURE, PSY</font><BR/><font color="green">MC:SUNG SIKYUNG, Lee DaHee, Nichkhun(2PM), Park Sodam</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
 ];
 
