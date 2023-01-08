@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1166회",
+    "musicEP": "1167회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MC SPECIAL STAGE, H1-KEY, ILY:1, HEEO, Park Hyeon Seo, Lee A Young, Espero, TO1, Jeong Dong Won, WeNU, Double Decker, DKZ, ATEEZ, Moonbin & Sanha(ASTRO), WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
