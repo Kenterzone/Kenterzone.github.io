@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "779회",
     "musictime": "17:00KST",
