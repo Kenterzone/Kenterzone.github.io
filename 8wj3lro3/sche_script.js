@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "779회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Lee A Young, Park Hyeon Seo, H1-KEY, ILY:1, woo!ah!, BUM JIN, Espero, TO1, Forestella, DKZ, Jeong Dong Won, ATEEZ, SF9, MONSTA X</font>`
   },
 
   {
