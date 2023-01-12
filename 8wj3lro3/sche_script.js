@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1147회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Park Hyeon Seo, ILY:1, H1-KEY, HEEO, woo!ah!, BUMJIN, Espero, Choi Suhwan, TO1, ATEEZ, MONSTA X, SF9</font>`
   },
   {
     "mair": "nomal",
