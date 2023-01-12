@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "793회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Lee Ji Young, ILY:1, Park Hyeon Seo, NMIXX, woo!ah!, TO1, BUMJIN, Espero, HONGJOONG & MINGI(ATEEZ), ATEEZ, MONSTA X, SF9</font>`
   },
 
   {
