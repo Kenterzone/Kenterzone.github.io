@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1167회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Lee Jiyoung, PRIMROSE, ILY:1, Park Hyeon Seo, H1-KEY, NewJeans, TO1, Espero, BUMJIN, ATEEZ, MOONBIN & SANHA(ASTRO), MONSTA X, SF9</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
