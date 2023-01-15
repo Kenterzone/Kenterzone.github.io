@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "779회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Lee A Young, Park Hyeon Seo, H1-KEY, ILY:1, woo!ah!, BUM JIN, Espero, TO1, Forestella, DKZ, Jeong Dong Won, ATEEZ, SF9, MONSTA X</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1147회",
+    "musicEP": "1148회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Park Hyeon Seo, ILY:1, H1-KEY, HEEO, woo!ah!, BUMJIN, Espero, Choi Suhwan, TO1, ATEEZ, MONSTA X, SF9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "793회",
+    "musicEP": "794회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Lee Ji Young, ILY:1, Park Hyeon Seo, NMIXX, woo!ah!, TO1, BUMJIN, Espero, HONGJOONG & MINGI(ATEEZ), ATEEZ, MONSTA X, SF9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1167회",
+    "musicEP": "1168회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, Lee Jiyoung, PRIMROSE, ILY:1, Park Hyeon Seo, H1-KEY, NewJeans, TO1, Espero, BUMJIN, ATEEZ, MOONBIN & SANHA(ASTRO), MONSTA X, SF9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
