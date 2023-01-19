@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "779회",
+    "musicEP": "780회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">(PROWDMON, LAS), Double Decker, PRIMROSE, ILY:1, H1-KEY, Park Hyeon Seo, Lee Jiyoung, cignature, GOT the beat, TANAKA, Espero, Choi Suhwan, MOONBIN & SANHA(ASTRO), VIXX(LEO,KEN,HYUK), MONSTA X, SF9</font>`
   },
