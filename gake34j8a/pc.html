@@ -1,0 +1,52 @@
+<head>
+	<title>SONE『K』娛樂ᴴᴰ</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="x-dns-prefetch-control" content="on" />
+	<meta property="og:title" content="SONE『K』娛樂ᴴᴰ" />
+	<meta property="og:description" content="SONE『K』娛樂ᴴᴰ" />
+	<meta property="og:image" content="logo_1.jpg" />
+	<link rel="stylesheet" href="poo.style.css" type="text/css" />
+	<link rel="icon" href="logo_1.jpg" type="image/x-icon" / >
+	<script src="sche_script.js"></script>
+</head>
+
+<body class="responsive is-pc" onload="setup()" >
+<div class="wrapper ko ">
+<div class="outer" id="outer">
+	<div id="a" class="split split-horizontal left">
+	<div id="main-content" class="bg-main main-content" style="margin-left: 0;">
+	<div class="main-wrapper nano">
+	<div class="nano-content">
+	<div class="bd-content-area">
+	<div class="videoarea" id="videoarea">
+	<div class="vidInner" id="v_channel">
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+</div>
+</div>
+
+	<div id="b" class="split split-horizontal right" style="overflow-y: hidden;">
+	<div class="content-right sidebar">
+	<div class="tab_container" style="height: 100%; background-color:#18181B;" >
+		<div id="livechat"></div>
+		<div id="app_guid" style="font-Size:x-small ; background-color:#18181B; width:100% "></div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+
+<script src="poo.split.min.js"></script>
+<script>
+    Split(['#a', '#b'], {
+      gutterSize: 3,
+      sizes: [75,25],
+      minSize: [5, 5],
+      cursor: 'col-resize'
+    })
+</script>
+
+</body>
