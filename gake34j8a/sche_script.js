@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1148회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Double Decker, ILY:1, Lee Jiyoung, PRIMROSE, H1-KEY, HEEO, Park Hyeon Seo, cignature, woo!ah!, NewJeans, Espero, MOONBIN & SANHA(ASTRO), MONSTA X, SF</font>`
   },
   {
     "mair": "nomal",
