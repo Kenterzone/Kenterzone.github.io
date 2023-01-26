@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : false,
     "musicname": "M!CountDown",
-    "musicEP": "781회",
+    "musicEP": "782회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
