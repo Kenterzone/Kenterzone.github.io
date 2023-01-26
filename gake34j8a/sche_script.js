@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "794회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MAVE:, PRIMROSE, Ryu jihyun, Lee Jiyoung, XG, HEEO, ILY:1, Na yeong, cignature, Espero, AIMERS, YESUNG, LEE SEUNG YOON</font>`
   },
 
   {
