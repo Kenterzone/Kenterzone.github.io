@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1168회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, ILY:1, H1-KEY, XG, Ryu JiHyun, Lee Jiyoung, cignature, NewJeans, AIMERS, Espero, YESUNG, LEE SEUNG YOON, KIM JONG SEO, MONSTA X, TOMORROW X TOGETHER</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
