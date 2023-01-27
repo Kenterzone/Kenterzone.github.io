@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1149회",
+    "musicEP": "1150회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ILY:1, H1-KEY, RYU JIHYUN, XG, Lee Jiyoung, cignature, Weeekly, NewJeans, AIMERS, Espero, YESUNG, KIM JONG SEO, LEE SEUNG YOON, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
