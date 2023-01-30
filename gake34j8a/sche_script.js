@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "794회",
+    "musicEP": "795회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MAVE:, PRIMROSE, Ryu jihyun, Lee Jiyoung, XG, HEEO, ILY:1, Na yeong, cignature, Espero, AIMERS, YESUNG, LEE SEUNG YOON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1168회",
+    "musicEP": "1169회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, ILY:1, H1-KEY, XG, Ryu JiHyun, Lee Jiyoung, cignature, NewJeans, AIMERS, Espero, YESUNG, LEE SEUNG YOON, KIM JONG SEO, MONSTA X, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
