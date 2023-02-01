@@ -28,11 +28,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "782회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, H1-KEY, RYU JIHYUN, Lee Jiyoung, XG, cignature, VIVIZ, AIMERS, 8TURN, KIM JONG SEO, LEE SEUNG YOON, TOMORROW X TOGETHER, NCT 127</font>`
   },
 
   {
