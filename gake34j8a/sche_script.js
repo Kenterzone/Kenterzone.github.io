@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "795회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, ILY:1, XG, Kyoung Seo, Lee Jiyoung, Ryu jihyun, cignature, VIVIZ, 8TURN, AIMERS, LEE SEUNG YOON, KIM JONG SEO, NCT 127</font>`
   },
 
   {
