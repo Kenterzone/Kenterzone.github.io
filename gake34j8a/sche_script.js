@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "782회",
+    "musicEP": "783회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, H1-KEY, RYU JIHYUN, Lee Jiyoung, XG, cignature, VIVIZ, AIMERS, 8TURN, KIM JONG SEO, LEE SEUNG YOON, TOMORROW X TOGETHER, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1150회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, ILY:1, H1-KEY, RYU JIHYUN, cignature, VIVIZ, AIMERS, 8TURN, Choi Suhwan, LEE SEUNG YOON, TOMORROW X TOGETHER, NCT 127</font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1169회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, Lee Jiyoung, H1-KEY, ILY:1, XG, cignature, RYU JIHYUN, VIVIZ, AIMERS, 8TURN, LEE SEUNG YOON, TOMORROW X TOGETHER, NCT 127</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
