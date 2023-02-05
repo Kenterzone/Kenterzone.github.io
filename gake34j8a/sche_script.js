@@ -19,9 +19,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "461회",
+    "musicEP": "462회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1150회",
+    "musicEP": "1151회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, ILY:1, H1-KEY, RYU JIHYUN, cignature, VIVIZ, AIMERS, 8TURN, Choi Suhwan, LEE SEUNG YOON, TOMORROW X TOGETHER, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "795회",
+    "musicEP": "796회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, ILY:1, XG, Kyoung Seo, Lee Jiyoung, Ryu jihyun, cignature, VIVIZ, 8TURN, AIMERS, LEE SEUNG YOON, KIM JONG SEO, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1169회",
+    "musicEP": "1170회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, PRIMROSE, Lee Jiyoung, H1-KEY, ILY:1, XG, cignature, RYU JIHYUN, VIVIZ, AIMERS, 8TURN, LEE SEUNG YOON, TOMORROW X TOGETHER, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
