@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "462회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MC SPECIAL STAGE, uni, ARTBEAT, PRIMROSE, Lee Jiyoung, H1-KEY, ILY:1, HEEO, XG, cignature, VIVIZ, 8TURN, BUMJIN, KIM JONG SEO, Choi Suhwan</font>`
   },
   {
     "mair": "nomal",
