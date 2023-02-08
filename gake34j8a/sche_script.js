@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "783회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, H1-KEY, HEEO, ARTBEAT, XG, cignature, VIVIZ, 8TURN, Espero, AIMERS, IM CHANG JUNG, Choi Suhwan, BSS(SEVENTEEN), TOMORROW X TOGETHER, NCT 127</font>`
   },
 
   {
