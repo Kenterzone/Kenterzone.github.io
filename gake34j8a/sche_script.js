@@ -64,7 +64,7 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
-    "date": "Sat.",
+    "date": "Fri.",
     "date_date": "02.10",
     "musicname": "30th Anniversary Hanteo Music Awards 2022",
     "musicEP": "DAY1",
