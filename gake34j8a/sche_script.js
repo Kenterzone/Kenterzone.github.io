@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "796회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, XG, cignature, VIVIZ, AIMERS, Espero, 8TURN, KIM JAEHWAN, KIM JONG SEO, IM CHANG JUNG, NCT 127</font>`
   },
 
   {
