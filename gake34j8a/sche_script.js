@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1151회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HONG EUNCHAE X LEE CHAEMIN, ARTBEAT, uni, PRIMROSE, cignature, VIVIZ, AIMERS, Kang Butter, BSS(SEVENTEEN), IM CHANG JUNG, Choi Suhwan, NCT 127, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
