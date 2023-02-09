@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "462회",
+    "musicEP": "463회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MC SPECIAL STAGE, uni, ARTBEAT, PRIMROSE, Lee Jiyoung, H1-KEY, ILY:1, HEEO, XG, cignature, VIVIZ, 8TURN, BUMJIN, KIM JONG SEO, Choi Suhwan</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "783회",
+    "musicEP": "784회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, H1-KEY, HEEO, ARTBEAT, XG, cignature, VIVIZ, 8TURN, Espero, AIMERS, IM CHANG JUNG, Choi Suhwan, BSS(SEVENTEEN), TOMORROW X TOGETHER, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
