@@ -65,11 +65,19 @@ const musicGuid =[
   },  ////SP_GUIDE/////
   {
     "date": "Sat.",
-    "date_date": "01.7",
-    "musicname": "",
-    "musicEP": "",
-    "musictime": "20:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "date_date": "02.10",
+    "musicname": "30th Anniversary Hanteo Music Awards 2022",
+    "musicEP": "DAY1",
+    "musictime": "18:45KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, cignature, Younha, STAYC, Kep1er, Yuju, fromis_9, DREAMCATCHER, EVERGLOW, Billlie, CHOI YENA, Park YoungTak, Kim Ho Joong, Jeong DongWon, CIX, WEi, BE'O, TEMPEST, LUCY, EPEX, VERIVERY, TNX, , JUST B, BLANK2Y, BLITZERS, TAN, SF9, WE DEM BOYZ, KANG DANIEL, NCT DREAM</font>;<font color="Green">MC:Eugene(S.E.S.), HYUNSUK(CIX), BaekSeung(EPEX)</font>`
+  },
+  {
+    "date": "Sat.",
+    "date_date": "02.11",
+    "musicname": "30th Anniversary Hanteo Music Awards 2022",
+    "musicEP": "DAY2",
+    "musictime": "18:45KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, cignature, Younha, STAYC, Kep1er, Yuju, fromis_9, DREAMCATCHER, EVERGLOW, Billlie, CHOI YENA, Park YoungTak, Kim Ho Joong, Jeong DongWon, CIX, WEi, BE'O, TEMPEST, LUCY, EPEX, VERIVERY, TNX, , JUST B, BLANK2Y, BLITZERS, TAN, SF9, WE DEM BOYZ, KANG DANIEL, NCT DREAM</font>;<font color="Green">MC:Eugene(S.E.S.), Shin DongYub</font>`
   }
 ];
 
