@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1170회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, uni, XG, H1-KEY, cignature, VIVIZ, 8TURN, AIMERS, Kang Butter, Espero, IM CHANG JUNG, BSS(SEVENTEEN), TOMORROW X TOGETHER, NCT 127</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
