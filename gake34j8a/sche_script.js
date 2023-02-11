@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1151회",
+    "musicEP": "1152회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HONG EUNCHAE X LEE CHAEMIN, ARTBEAT, uni, PRIMROSE, cignature, VIVIZ, AIMERS, Kang Butter, BSS(SEVENTEEN), IM CHANG JUNG, Choi Suhwan, NCT 127, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
-    "date": "Sat.",
+    "date": "xSat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "796회",
+    "musicEP": "797회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">uni, XG, cignature, VIVIZ, AIMERS, Espero, 8TURN, KIM JAEHWAN, KIM JONG SEO, IM CHANG JUNG, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -63,14 +63,6 @@ const musicGuid =[
     "musictime": "15:33KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, uni, XG, H1-KEY, cignature, VIVIZ, 8TURN, AIMERS, Kang Butter, Espero, IM CHANG JUNG, BSS(SEVENTEEN), TOMORROW X TOGETHER, NCT 127</font>`
   },  ////SP_GUIDE/////
-  {
-    "date": "Fri.",
-    "date_date": "02.10",
-    "musicname": "30th Anniversary Hanteo Music Awards 2022",
-    "musicEP": "DAY1",
-    "musictime": "18:45KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, cignature, Younha, STAYC, Kep1er, Yuju, fromis_9, DREAMCATCHER, EVERGLOW, Billlie, CHOI YENA, Park YoungTak, Kim Ho Joong, Jeong DongWon, CIX, WEi, BE'O, TEMPEST, LUCY, EPEX, VERIVERY, TNX, , JUST B, BLANK2Y, BLITZERS, TAN, SF9, WE DEM BOYZ, KANG DANIEL, NCT DREAM</font>;<font color="Green">MC:Eugene(S.E.S.), HYUNSUK(CIX), BaekSeung(EPEX)</font>`
-  },
   {
     "date": "Sat.",
     "date_date": "02.11",
