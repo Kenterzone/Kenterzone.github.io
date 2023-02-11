@@ -64,7 +64,7 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, uni, XG, H1-KEY, cignature, VIVIZ, 8TURN, AIMERS, Kang Butter, Espero, IM CHANG JUNG, BSS(SEVENTEEN), TOMORROW X TOGETHER, NCT 127</font>`
   },  ////SP_GUIDE/////
   {
-    "date": "Sat.",
+    "date": "xSat.",
     "date_date": "02.11",
     "musicname": "30th Anniversary Hanteo Music Awards 2022",
     "musicEP": "DAY2",
