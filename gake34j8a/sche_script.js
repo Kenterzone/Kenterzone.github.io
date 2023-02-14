@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "463회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HEEO, ARTBEAT, XG, CSR, Song Min Kyung, cignature, woo!ah!, 8TURN, Im Yoon Seong, Kang Butter, Choi Suhwan, IM CHANG JUNG</font>`
   },
   {
     "mair": "nomal",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1170회",
+    "musicEP": "1171회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, uni, XG, H1-KEY, cignature, VIVIZ, 8TURN, AIMERS, Kang Butter, Espero, IM CHANG JUNG, BSS(SEVENTEEN), TOMORROW X TOGETHER, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
