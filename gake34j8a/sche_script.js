@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "784회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, ARTBEAT, XG, LIMELIGHT, STAYC, TRI.BE, PURPLE KISS, Kang Butter, TNX, JUST JERK, Choi Suhwan, Im Yoon Seong, KEY</font>`
   },
 
   {
