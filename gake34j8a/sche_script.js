@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "463회",
+    "musicEP": "464회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HEEO, ARTBEAT, XG, CSR, Song Min Kyung, cignature, woo!ah!, 8TURN, Im Yoon Seong, Kang Butter, Choi Suhwan, IM CHANG JUNG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "797회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, Kang Yeseul, MAVE:, PURPLE KISS, TRI.BE, STAYC, Nam Dong Hyun, TNX, KEY</font>`
   },
 
   {
