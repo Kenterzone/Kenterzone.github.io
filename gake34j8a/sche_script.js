@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "784회",
+    "musicEP": "785회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, ARTBEAT, XG, LIMELIGHT, STAYC, TRI.BE, PURPLE KISS, Kang Butter, TNX, JUST JERK, Choi Suhwan, Im Yoon Seong, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,11 +42,11 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1152회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, tripleS, LIMELIGHT, Park Su Jin, H1-KEY, PURPLE KISS, TRI.BE, STAYC, Kang Butter, TNX, Nam Dong Hyun, Im Yoon Seong, KEY</font>`
   },
   {
     "mair": "nomal",
-    "date": "xSat.",
+    "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "797회",
