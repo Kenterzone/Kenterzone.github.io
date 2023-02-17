@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1171회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, tripleS, Kang Yeseul, LIMELIGHT, STAYC, PURPLE KISS, TRI.BE, TNX, Im Yoon Seong, KEY</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
