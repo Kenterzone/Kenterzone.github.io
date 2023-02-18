@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1152회",
+    "musicEP": "1153회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, tripleS, LIMELIGHT, Park Su Jin, H1-KEY, PURPLE KISS, TRI.BE, STAYC, Kang Butter, TNX, Nam Dong Hyun, Im Yoon Seong, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "797회",
-    "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, Kang Yeseul, MAVE:, PURPLE KISS, TRI.BE, STAYC, Nam Dong Hyun, TNX, KEY</font>`
+    "musicEP": "798회",
+    "musictime": "15:26KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1171회",
-    "musictime": "15:33KST",
+    "musictime": "15:28KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, tripleS, Kang Yeseul, LIMELIGHT, STAYC, PURPLE KISS, TRI.BE, TNX, Im Yoon Seong, KEY</font>`
   },  ////SP_GUIDE/////
   {
