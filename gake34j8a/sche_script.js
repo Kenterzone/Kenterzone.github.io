@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "316회",
     "musictime": "18:00KST",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1171회",
+    "musicEP": "1172회",
     "musictime": "15:28KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT, tripleS, Kang Yeseul, LIMELIGHT, STAYC, PURPLE KISS, TRI.BE, TNX, Im Yoon Seong, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
