@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "316회",
+    "musicEP": "317회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, tripleS, Kang Yeseul, LIMELIGHT, TRI.BE, STAYC, PURPLE KISS, 8TURN, Espero, Im Yoon Seong, TNX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
