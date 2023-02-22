@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "785회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, tripleS, LIMELIGHT, PURPLE KISS, TRI.BE, STAYC, 8TURN, JUST B, TNX, Nam Dong Hyun, THE BOYZ, LUCY, JOOHONEY X MIYEON</font>`
   },
 
   {
