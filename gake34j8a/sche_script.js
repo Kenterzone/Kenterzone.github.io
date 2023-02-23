@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "798회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, tripleS, LIMELIGHT, Kang Yeseul, STAYC, PURPLE KISS, 8TURN, LEE CHAN WON, TNX, THE BOYZ, LUCY</font>`
   },
 
   {
