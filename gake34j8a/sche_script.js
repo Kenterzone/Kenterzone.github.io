@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "464회",
+    "musicEP": "465회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, XG, LIMELIGHT, PARK ROSSI, Song Min Kyung, Kang Yeseul, TRI.BE, STAYC, PURPLE KISS, LEE CHAN WON, TNX, 8TURN, Nam Dong Hyun</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "785회",
+    "musicEP": "786회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, tripleS, LIMELIGHT, PURPLE KISS, TRI.BE, STAYC, 8TURN, JUST B, TNX, Nam Dong Hyun, THE BOYZ, LUCY, JOOHONEY X MIYEON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1153회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, tripleS, LIMELIGHT, PURPLE KISS, TRI.BE, STAYC, 8TURN, Postmen, HAWW, TNX, Im Yoon Seong, THE BOYZ</font>`
   },
   {
     "mair": "nomal",
