@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1172회",
-    "musictime": "15:28KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:33KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, Park Rossi, tripleS, LIMELIGHT, Song Min Kyung, TRI.BE, PURPLE KISS, STAYC, HAWW, TNX, 8TURN, Nam Dong Hyun, LEE CHAN WON, THE BOYZ</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
