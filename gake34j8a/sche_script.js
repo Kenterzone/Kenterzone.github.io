@@ -66,10 +66,10 @@ const musicGuid =[
   {
     "date": "xSat.",
     "date_date": "02.11",
-    "musicname": "30th Anniversary Hanteo Music Awards 2022",
-    "musicEP": "DAY2",
-    "musictime": "18:45KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, cignature, Younha, STAYC, Kep1er, Yuju, fromis_9, DREAMCATCHER, EVERGLOW, Billlie, CHOI YENA, Park YoungTak, Kim Ho Joong, Jeong DongWon, CIX, WEi, BE'O, TEMPEST, LUCY, EPEX, VERIVERY, TNX, , JUST B, BLANK2Y, BLITZERS, TAN, SF9, WE DEM BOYZ, KANG DANIEL, NCT DREAM</font>;<font color="Green">MC:Eugene(S.E.S.), Shin DongYub</font>`
+    "musicname": "-",
+    "musicEP": "-",
+    "musictime": "--:--KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
 ];
 
