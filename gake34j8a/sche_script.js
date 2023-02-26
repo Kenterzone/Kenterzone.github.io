@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1153회",
+    "musicEP": "1154회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, tripleS, LIMELIGHT, PURPLE KISS, TRI.BE, STAYC, 8TURN, Postmen, HAWW, TNX, Im Yoon Seong, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "798회",
+    "musicEP": "799회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, tripleS, LIMELIGHT, Kang Yeseul, STAYC, PURPLE KISS, 8TURN, LEE CHAN WON, TNX, THE BOYZ, LUCY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1172회",
+    "musicEP": "1173회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, Park Rossi, tripleS, LIMELIGHT, Song Min Kyung, TRI.BE, PURPLE KISS, STAYC, HAWW, TNX, 8TURN, Nam Dong Hyun, LEE CHAN WON, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
