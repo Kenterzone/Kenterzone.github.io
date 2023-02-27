@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "317회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, XG, uni, FIFTY FIFTY, PURPLE KISS, TRI.BE, STAYC, 8TURN, AIMERS, HAWW, TNX, Kang Butter, BUMJIN, LEE CHAN WON</font>`
   },
   {
     "mair": "nomal",
