@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "465회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, KIM TAE YEON, PARK ROSSI, SERRI, Song Min Kyung, PURPLE KISS, TRI.BE, STAYC, San E × MOON SUA, TNX, 8TURN, Nam Dong Hyun, HAWW, LUCY</font>`
   },
   {
     "mair": "nomal",
