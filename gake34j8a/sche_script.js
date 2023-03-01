@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "317회",
+    "musicEP": "318회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, XG, uni, FIFTY FIFTY, PURPLE KISS, TRI.BE, STAYC, 8TURN, AIMERS, HAWW, TNX, Kang Butter, BUMJIN, LEE CHAN WON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "786회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, FIFTY FIFTY, PURPLE KISS, TRI.BE, STAYC, 8TURN, YESUNG, BOYS PLANET <Back Door> Team K, TNX, HAWW, HWANG MIN HYUN, OnlyOneOf, PARK WOOJIN(AB6IX), THE BOYZ</font>`
   },
 
   {
