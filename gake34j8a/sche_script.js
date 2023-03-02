@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "465회",
+    "musicEP": "466회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, KIM TAE YEON, PARK ROSSI, SERRI, Song Min Kyung, PURPLE KISS, TRI.BE, STAYC, San E × MOON SUA, TNX, 8TURN, Nam Dong Hyun, HAWW, LUCY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "799회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, tripleS, FIFTY FIFTY, Yu Soohyun(MINIMANI), TRI.BE, PURPLE KISS, STAYC, Lisa, 8TURN, PRSNT, FANTASY BOYS, Nam Dong Hyun, TNX, PARK WOOJIN(AB6IX), OnlyOneOf, THE BOYZ</font>`
   },
 
   {
