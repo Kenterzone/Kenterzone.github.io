@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1154회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, FIFTY FIFTY, TRI.BE, PURPLE KISS, STAYC, 8TURN, HAWW, OnlyOneOf, TNX, Postmen, HWANG MIN HYUN, PARK WOOJIN(AB6IX), Nam Dong Hyun, THE BOYZ</font>`
   },
   {
     "mair": "nomal",
