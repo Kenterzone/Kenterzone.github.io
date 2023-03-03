@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "786회",
+    "musicEP": "787회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, FIFTY FIFTY, PURPLE KISS, TRI.BE, STAYC, 8TURN, YESUNG, BOYS PLANET <Back Door> Team K, TNX, HAWW, HWANG MIN HYUN, OnlyOneOf, PARK WOOJIN(AB6IX), THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "799회",
-    "musictime": "15:26KST",
+    "musictime": "15:16KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, tripleS, FIFTY FIFTY, Yu Soohyun(MINIMANI), TRI.BE, PURPLE KISS, STAYC, Lisa, 8TURN, PRSNT, FANTASY BOYS, Nam Dong Hyun, TNX, PARK WOOJIN(AB6IX), OnlyOneOf, THE BOYZ</font>`
   },
 
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1173회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lisa, tripleS, FIFTY FIFTY, LIMELIGHT, TRI.BE, PURPLE KISS, STAYC, TNX, LEE CHAN WON, 8TURN, HWANG MIN HYUN, PARK WOOJIN(AB6IX), YESUNG, OnlyOneOf, THE BOYZ</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
