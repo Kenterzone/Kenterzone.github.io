@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "318회",
     "musictime": "18:00KST",
@@ -38,30 +38,30 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
-    "musicEP": "1154회",
+    "musicEP": "1155회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, LIMELIGHT, FIFTY FIFTY, TRI.BE, PURPLE KISS, STAYC, 8TURN, HAWW, OnlyOneOf, TNX, Postmen, HWANG MIN HYUN, PARK WOOJIN(AB6IX), Nam Dong Hyun, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "799회",
+    "musicEP": "800회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, tripleS, FIFTY FIFTY, Yu Soohyun(MINIMANI), TRI.BE, PURPLE KISS, STAYC, Lisa, 8TURN, PRSNT, FANTASY BOYS, Nam Dong Hyun, TNX, PARK WOOJIN(AB6IX), OnlyOneOf, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
-    "musicEP": "1173회",
+    "musicEP": "1174회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lisa, tripleS, FIFTY FIFTY, LIMELIGHT, TRI.BE, PURPLE KISS, STAYC, TNX, LEE CHAN WON, 8TURN, HWANG MIN HYUN, PARK WOOJIN(AB6IX), YESUNG, OnlyOneOf, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
