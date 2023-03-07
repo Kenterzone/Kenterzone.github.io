@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "466회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIM TAE YEON, tripleS, SERRI, PARK ROSSI, PURPLE KISS, TRI.BE, STAYC, TNX, 8TURN, POSTMEN, Jung Daewang, HAWW, Nam Dong Hyun, OnlyOneOf</font>`
   },
   {
     "mair": "nomal",
