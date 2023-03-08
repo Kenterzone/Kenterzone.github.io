@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "787회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, STAYC, YUJU, Cherry Bullet, Nicole, 8TURN, TNX, TO1, HWANG MIN HYUN, BIG Naughty, OnlyOneOf, CRAVITY, ONEW</font>`
   },
 
   {
