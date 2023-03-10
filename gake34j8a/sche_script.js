@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "787회",
+    "musicEP": "788회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, STAYC, YUJU, Cherry Bullet, Nicole, 8TURN, TNX, TO1, HWANG MIN HYUN, BIG Naughty, OnlyOneOf, CRAVITY, ONEW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "800회",
-    "musictime": "15:16KST",
+    "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, IVE, STAYC, YUJU, Cherry Bullet, Nicole, TO1, LA POEM, TAN, TNX, FANTASYBOYS, CRAVITY, ONEW, Zuho(SF9), THE BOYZ</font>`
   },
 
