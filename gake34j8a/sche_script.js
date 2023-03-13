@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "318회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, SERRI, Lim Sa Rang, TRI.BE, Cherry Bullet, YUJU, Nicole, 8TURN, TAN, ULALA SESSION, Postmen, HAWW, CRAVITY, OnlyOneOf</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "800회",
+    "musicEP": "801회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, IVE, STAYC, YUJU, Cherry Bullet, Nicole, TO1, LA POEM, TAN, TNX, FANTASYBOYS, CRAVITY, ONEW, Zuho(SF9), THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
