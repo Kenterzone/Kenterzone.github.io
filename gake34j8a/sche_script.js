@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "318회",
+    "musicEP": "319회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, SERRI, Lim Sa Rang, TRI.BE, Cherry Bullet, YUJU, Nicole, 8TURN, TAN, ULALA SESSION, Postmen, HAWW, CRAVITY, OnlyOneOf</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "788회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, Lim Sa Rang, Serri, Cherry Bullet, YUJU, Nicole, TWICE, ULALA SESSION, TRENDZ, TAN, HAWW, OnlyOneOf, Y(Golden Child), CRAVITY, KAI</font>`
   },
 
   {
