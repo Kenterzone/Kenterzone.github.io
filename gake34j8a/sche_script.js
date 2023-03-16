@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1155회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, Lim Sa Rang, Cherry Bullet, Nicole, YUJU, TWICE, ULALA SESSION, TAN, TRENDZ, OnlyOneOf, HAWW, Y(Golden Child), ONEW, CRAVITY, KAI</font>`
   },
   {
     "mair": "nomal",
