@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "801회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">So Yumi, Cherry Bullet, WSG WANNABE(GAYA-G), YUJU, Nicole, TWICE, PLAVE, POSTMEN, OnlyOneOf, TRENDZ, TAN, HAWW, Y(Golden Child), CRAVITY, KAI</font>`
   },
 
   {
