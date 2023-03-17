@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "788회",
+    "musicEP": "789회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, Lim Sa Rang, Serri, Cherry Bullet, YUJU, Nicole, TWICE, ULALA SESSION, TRENDZ, TAN, HAWW, OnlyOneOf, Y(Golden Child), CRAVITY, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1174회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KANG SO RI, WSG WANNABE GAYA-G, Cherry Bullet, Nicole, YUJU, TWICE, ULALA SESSION, TAN, TRENDZ, OnlyOneOf, HAWW, Y(Golden Child), CRAVITY, ONEW, KAI</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
