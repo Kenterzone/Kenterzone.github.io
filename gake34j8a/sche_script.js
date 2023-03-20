@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1155회",
+    "musicEP": "1156회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, Lim Sa Rang, Cherry Bullet, Nicole, YUJU, TWICE, ULALA SESSION, TAN, TRENDZ, OnlyOneOf, HAWW, Y(Golden Child), ONEW, CRAVITY, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "801회",
+    "musicEP": "802회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">So Yumi, Cherry Bullet, WSG WANNABE(GAYA-G), YUJU, Nicole, TWICE, PLAVE, POSTMEN, OnlyOneOf, TRENDZ, TAN, HAWW, Y(Golden Child), CRAVITY, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1174회",
+    "musicEP": "1175회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KANG SO RI, WSG WANNABE GAYA-G, Cherry Bullet, Nicole, YUJU, TWICE, ULALA SESSION, TAN, TRENDZ, OnlyOneOf, HAWW, Y(Golden Child), CRAVITY, ONEW, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
