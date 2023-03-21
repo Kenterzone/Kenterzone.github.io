@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "468회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lim Sa Rang, PIXY, SERRI, Cherry Bullet, YUJU, Nicole, ULALA SESSION, TRENDZ, TAN, POSTMEN, HAWW, TEMPEST, OnlyOneOf</font>`
   },
   {
     "mair": "nomal",
