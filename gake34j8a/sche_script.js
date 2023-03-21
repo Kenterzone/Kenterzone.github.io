@@ -12,16 +12,16 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "319회",
+    "musicEP": "Premium",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, EVERGLOW, VIVIZ, KWON EUN BI, AB6IX, DRIPPIN, iKON, NCT DREAM, MINHO</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "467회",
+    "musicEP": "468회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
