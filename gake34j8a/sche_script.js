@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "Premium",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, EVERGLOW, VIVIZ, KWON EUN BI, AB6IX, DRIPPIN, iKON, NCT DREAM, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "789회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lapillus, ICHILLIN', CRAXY, NMIXX, Cherry Bullet, WSG WANNABE(GAYA-G), BOBBY, TRENDZ, <BOYS PLANET>(DKilla, Five Guardians, ACES), CRAVITY, KINGDOM, KIM JAE HWAN, KAI</font>`
   },
 
   {
