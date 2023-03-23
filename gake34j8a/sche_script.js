@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1156회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CRAXY, ICHILLIN', NMIXX, Cherry Bullet, Nicole, ULALA SESSION, BOBBY(feat.Gaeun of LIMELIGHT), KINGDOM, TAN, TRENDZ, KIM JAE HWAN, HAWW, JANG WOO HYUK, CRAVITY, KAI</font>`
   },
   {
     "mair": "nomal",
