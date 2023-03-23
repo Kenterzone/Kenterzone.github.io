@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "789회",
+    "musicEP": "790회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lapillus, ICHILLIN', CRAXY, NMIXX, Cherry Bullet, WSG WANNABE(GAYA-G), BOBBY, TRENDZ, <BOYS PLANET>(DKilla, Five Guardians, ACES), CRAVITY, KINGDOM, KIM JAE HWAN, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
