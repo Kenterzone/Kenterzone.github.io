@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "468회",
+    "musicEP": "469회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lim Sa Rang, PIXY, SERRI, Cherry Bullet, YUJU, Nicole, ULALA SESSION, TRENDZ, TAN, POSTMEN, HAWW, TEMPEST, OnlyOneOf</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "802회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', YEEUN, NMIXX, JooJoo Secret, Navi, Cherry Bullet, Nicole, TAN, ULALA SESSION, KINGDOM, CRAVITY, KIM JAE HWAN, BOBBY(feat.Gaeun of LIMELIGHT), KAI</font>`
   },
 
   {
