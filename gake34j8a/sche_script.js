@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "802회",
+    "musicEP": "803회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', YEEUN, NMIXX, JooJoo Secret, Navi, Cherry Bullet, Nicole, TAN, ULALA SESSION, KINGDOM, CRAVITY, KIM JAE HWAN, BOBBY(feat.Gaeun of LIMELIGHT), KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1175회",
-    "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lim Sa Rang, CRAXY, ICHILLIN', PIXY, Soyumi, NMIXX, Cherry Bullet, Nicole, BOBBY, TAN, TRENDZ, KINGDOM, CRAVITY, KIM JAE HWAN, JANG WOO HYUK, KAI</font>`
+    "musicEP": "1174회",
+    "musictime": "15:30KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
