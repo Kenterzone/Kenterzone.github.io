@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "Premium",
+    "musicEP": "320회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri(Rocking Doll), ICHILLIN', PIXY, CRAXY, SERRI, Cherry Bullet, Postmen, TAN, TRENDZ, ULALA SESSION, JANG WOO HYUK, KINGDOM, MC NAEggUZ, CRAVITY, KIM JAE HWAN</font>`
   },
   {
     "mair": "nomal",
