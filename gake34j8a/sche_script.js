@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "469회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, ICHILLIN', CRAXY, Billlie, NMIXX, Cherry Bullet, TAN, HAWW, TRENDZ, KINGDOM, TEMPEST, JANG WOO HYUK, KIM JAE HWAN</font>`
   },
   {
     "mair": "nomal",
