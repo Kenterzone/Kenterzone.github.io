@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "790회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, Billlie, JUJU SECRET, NMIXX, MAMAMOO+, BamBam, xikers, TRENDZ, TAN, HAWW, KINGDOM, KIM JAE HWAN, JO1, Jimin, CRAVITY</font>`
   },
 
   {
