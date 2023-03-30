@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "469회",
+    "musicEP": "470회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PIXY, ICHILLIN', CRAXY, Billlie, NMIXX, Cherry Bullet, TAN, HAWW, TRENDZ, KINGDOM, TEMPEST, JANG WOO HYUK, KIM JAE HWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,12 +42,12 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1157회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, Billlie, CRAXY, ICHILLIN', NMIXX, MAMAMOO+, xikers, BamBam, KINGDOM, TRENDZ, KIM JAE HWAN, CRAVITY, Jimin</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "803회",
     "musictime": "15:26KST",
