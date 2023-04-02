@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1174회",
+    "musicEP": "1175회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, Billlie, SERRI, CRAXY, ICHILLIN', NMIXX, MAMAMOO+, xikers, Jimin, BamBam, CRAVITY, KINGDOM, TRENDZ, LEE SOLOMON, NAM SEUNGMIN, KIM JAE HWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
