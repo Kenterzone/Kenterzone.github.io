@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "790회",
+    "musicEP": "791회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, Billlie, JUJU SECRET, NMIXX, MAMAMOO+, BamBam, xikers, TRENDZ, TAN, HAWW, KINGDOM, KIM JAE HWAN, JO1, Jimin, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,14 +40,14 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1157회",
+    "musicEP": "1158회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, Billlie, CRAXY, ICHILLIN', NMIXX, MAMAMOO+, xikers, BamBam, KINGDOM, TRENDZ, KIM JAE HWAN, CRAVITY, Jimin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "803회",
     "musictime": "15:26KST",
