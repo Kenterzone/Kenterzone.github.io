@@ -14,12 +14,12 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "321회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, ICHILLIN', YEAHSHINE, CRAXY, Billlie, YEEUN, xikers, HAWW, KINGDOM, TRENDZ, NAM SEUNGMIN</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "470회",
     "musictime": "18:04KST",
