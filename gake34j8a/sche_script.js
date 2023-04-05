@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "321회",
+    "musicEP": "322회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, ICHILLIN', YEAHSHINE, CRAXY, Billlie, YEEUN, xikers, HAWW, KINGDOM, TRENDZ, NAM SEUNGMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
