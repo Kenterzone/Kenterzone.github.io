@@ -29,10 +29,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "M!CountDown",
+    "musicname": "M!CountDown X KCON 2023 THAILAND",
     "musicEP": "791회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kep1er, ITZY, (G)I-DLE, xikers, 8TURN, INI, TEMPEST, TNX, YOUNGJAE, JO1, Mbitious, P1Harmony, ATEEZ, BamBam, iKON</font>`
   },
 
   {
