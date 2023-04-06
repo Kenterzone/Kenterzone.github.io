@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1158회",
     "musictime": "17:03KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, ICHILLIN', Serri, Billlie, CRAXY, Apink, xikers, KINGDOM, TRENDZ, LEE SOLOMON, KIM WOO SEOK, Bam</font>`
   },
   {
     "mair": "nomal",
