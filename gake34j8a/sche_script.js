@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "803회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, Ahri, CSR, ICHILLIN', CRAXY, Billlie, Apink, xikers, NAM SEUNGMIN, KINGDOM, TRENDZ, KIM WOO SEOK, BamBam</font>`
   },
 
   {
