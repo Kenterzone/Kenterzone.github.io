@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1158회",
+    "musicEP": "1159회",
     "musictime": "17:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, ICHILLIN', Serri, Billlie, CRAXY, Apink, xikers, KINGDOM, TRENDZ, LEE SOLOMON, KIM WOO SEOK, BamBam</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "803회",
-    "musictime": "15:26KST",
+    "musictime": "15:21KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, Ahri, CSR, ICHILLIN', CRAXY, Billlie, Apink, xikers, NAM SEUNGMIN, KINGDOM, TRENDZ, KIM WOO SEOK, BamBam</font>`
   },
 
