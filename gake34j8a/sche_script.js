@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1175회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MC SPECIAL STAGE(Kim JiEun(Actress) × Chae Hyungwon(Monsta X)), X:IN, Ahri, CSR, ICHILLIN', Billlie, CRAXY, Apink, xikers, KINGDOM, TRENDZ, KIM WOO SEOK, BamBam</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MC SPECIAL STAGE(Kim JiEun(Actress) × Chae Hyungwon(Monsta X)), X:IN, Ahri, CSR, ICHILLIN', Billlie, CRAXY, Apink, JISOO, xikers, KINGDOM, TRENDZ, KIM WOO SEOK, BamBam</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
