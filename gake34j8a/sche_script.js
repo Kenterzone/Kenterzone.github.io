@@ -29,10 +29,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "M!CountDown X KCON 2023 THAILAND",
-    "musicEP": "791회",
-    "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kep1er, ITZY, (G)I-DLE, xikers, 8TURN, INI, TEMPEST, TNX, YOUNGJAE, JO1, Mbitious, P1Harmony, ATEEZ, BamBam, iKON</font>`
+    "musicname": "M!CountDown",
+    "musicEP": "792회",
+    "musictime": "17:08KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -41,7 +41,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1158회",
-    "musictime": "17:03KST",
+    "musictime": "17:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Ahri, CSR, ICHILLIN', Serri, Billlie, CRAXY, Apink, xikers, KINGDOM, TRENDZ, LEE SOLOMON, KIM WOO SEOK, BamBam</font>`
   },
   {
