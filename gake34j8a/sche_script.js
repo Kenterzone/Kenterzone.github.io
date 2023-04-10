@@ -19,9 +19,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "470회",
+    "musicEP": "471회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
