@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "471회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, ICHILLIN', CRAXY, MINIMANI, Billlie, NMIXX, xikers, KINGDOM, PARK SEO JIN, NAM SEUNGMIN</font>`
   },
   {
     "mair": "nomal",
