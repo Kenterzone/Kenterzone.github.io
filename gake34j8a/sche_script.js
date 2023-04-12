@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "792회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', Billlie, NMIXX, CSR, Kep1er, CRAXY, LEE CHAE YEON, DreamNote, YEEUN, IVE, xikers, LA POEM, PARK JIHOON, BOYS PLANET(Overdose), KIM WOOSEOK</font>`
   },
 
   {
