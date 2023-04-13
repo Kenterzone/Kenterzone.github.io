@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "804회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Sullyoon(NMIXX), ICHILLIN', CSR, NMIXX, Billlie, LEE CHAE YEON, Kep1er, YEEUN, IVE, xikers, PARK JIHOON, KIM WOO SEOK</font>`
   },
 
   {
