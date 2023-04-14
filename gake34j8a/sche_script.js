@@ -41,7 +41,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1159회",
-    "musictime": "17:10KST",
+    "musictime": "17:05KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, CSR, ICHILLIN', Billlie, CRAXY, NMIXX, Kep1er, DreamNote, YEEUN, LEE CHAE YEON, IVE, FISTBUMP, xikers, KIM WOO SEOK, PARK JIHOON</font>`
   },
   {
