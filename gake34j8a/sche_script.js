@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "322회",
     "musictime": "18:00KST",
@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "471회",
+    "musicEP": "472회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, ICHILLIN', CRAXY, MINIMANI, Billlie, NMIXX, xikers, KINGDOM, PARK SEO JIN, NAM SEUNGMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "792회",
+    "musicEP": "793회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', Billlie, NMIXX, CSR, Kep1er, CRAXY, LEE CHAE YEON, DreamNote, YEEUN, IVE, xikers, LA POEM, PARK JIHOON, BOYS PLANET(Overdose), KIM WOOSEOK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1159회",
     "musictime": "17:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, CSR, ICHILLIN', Billlie, CRAXY, NMIXX, Kep1er, DreamNote, YEEUN, LEE CHAE YEON, IVE, FISTBUMP, xikers, KIM WOO SEOK, PARK JIHOON</font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1176회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, ICHILLIN', Billlie, NMIXX, CRAXY, Kep1er, YEEUN, LEE CHAE YEON, DreamNote, IVE, Lee A Young, JISOO, PARK JIHOON, KIM WOO SEOK, xikers</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
