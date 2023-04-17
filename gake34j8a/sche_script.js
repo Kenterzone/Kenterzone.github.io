@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "322회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, DreamNote, Billlie, CRAXY, Lee A Young, Park Hyeon Seo, YEAHSHINE, LEE CHAE YEON, Kep1er, YEEUN, IVE, MUSTB, PARK JIHOON</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1159회",
+    "musicEP": "1160회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, CSR, ICHILLIN', Billlie, CRAXY, NMIXX, Kep1er, DreamNote, YEEUN, LEE CHAE YEON, IVE, FISTBUMP, xikers, KIM WOO SEOK, PARK JIHOON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "804회",
+    "musicEP": "805회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Sullyoon(NMIXX), ICHILLIN', CSR, NMIXX, Billlie, LEE CHAE YEON, Kep1er, YEEUN, IVE, xikers, PARK JIHOON, KIM WOO SEOK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1176회",
+    "musicEP": "1179회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, ICHILLIN', Billlie, NMIXX, CRAXY, Kep1er, YEEUN, LEE CHAE YEON, DreamNote, IVE, Lee A Young, JISOO, PARK JIHOON, KIM WOO SEOK, xikers</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
