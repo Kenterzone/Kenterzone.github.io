@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "472회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Byeol Sarang, CSR, DreamNote, Lee A Young, Park Hyeon Seo, Billlie, CRAXY, Kep1er, YEAHSHINE, LEE CHAE YEON, YEEUN, PARK JIHOON, MustB</font>`
   },
   {
     "mair": "nomal",
