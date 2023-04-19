@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "793회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, Park Hyeon Seo, Billlie, DreamNote, ALICE, YEEUN, LEE CHAE YEON, Kep1er, IVE, xikers, TEMPEST, GIUK(ONEWE), DRIPPIN, PARK JIHOON, LEE GI KWANG, KIM WOO SEOK</font>`
   },
 
   {
