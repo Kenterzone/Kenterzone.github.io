@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1160회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, CSR, DreamNote, Park Hyeon Seo, ALICE, YEEUN, LEE CHAE YEON, Kep1er, IVE, TEMPEST, GIUK(ONEWE), DRIPPIN, KIM WOO SEOK, PARK JIHOON, LEE GI KWANG</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "805회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, Kep1er, ALICE, YEEUN, LEE CHAE YEON, IVE, TEMPEST, DRIPPIN, GIUK(ONEWE), PARK JIHOON, LEE GI KWANG</font>`
   },
 
   {
