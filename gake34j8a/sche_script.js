@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1179회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, Hwang Woo Lim, Park Hyeon Seo, CSR, DreamNote, YEEUN, LEE CHAE YEON, Kep1er, ALICE, IVE, TEMPEST, DRIPPIN, GIUK(ONEWE), PARK JIHOON, LEE GI KWANG</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
