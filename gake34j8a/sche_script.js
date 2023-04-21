@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "322회",
+    "musicEP": "323회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, DreamNote, Billlie, CRAXY, Lee A Young, Park Hyeon Seo, YEAHSHINE, LEE CHAE YEON, Kep1er, YEEUN, IVE, MUSTB, PARK JIHOON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "472회",
+    "musicEP": "473회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Byeol Sarang, CSR, DreamNote, Lee A Young, Park Hyeon Seo, Billlie, CRAXY, Kep1er, YEAHSHINE, LEE CHAE YEON, YEEUN, PARK JIHOON, MustB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "793회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, Park Hyeon Seo, Billlie, DreamNote, ALICE, YEEUN, LEE CHAE YEON, Kep1er, IVE, xikers, TEMPEST, GIUK(ONEWE), DRIPPIN, PARK JIHOON, LEE GI KWANG, KIM WOO SEOK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
