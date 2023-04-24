@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "323회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee A Young, Hwang Woo Lim, DreamNote, ALICE, YEEUN, LEE CHAE YEON, Kep1er, Ryu Sujeong, New Hope Club, DRIPPIN, BLITZERS, TEMPEST, P1Harmony, GIUK(ONEWE), LEE GI KWANG</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1160회",
+    "musicEP": "1161회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, CSR, DreamNote, Park Hyeon Seo, ALICE, YEEUN, LEE CHAE YEON, Kep1er, IVE, TEMPEST, GIUK(ONEWE), DRIPPIN, KIM WOO SEOK, PARK JIHOON, LEE GI KWANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "805회",
+    "musicEP": "806회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, Kep1er, ALICE, YEEUN, LEE CHAE YEON, IVE, TEMPEST, DRIPPIN, GIUK(ONEWE), PARK JIHOON, LEE GI KWANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1179회",
+    "musicEP": "1180회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, Hwang Woo Lim, Park Hyeon Seo, CSR, DreamNote, YEEUN, LEE CHAE YEON, Kep1er, ALICE, IVE, TEMPEST, DRIPPIN, GIUK(ONEWE), PARK JIHOON, LEE GI KWANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
