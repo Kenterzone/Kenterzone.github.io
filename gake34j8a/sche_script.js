@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "473회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee A Young, YEAHSHINE, Hwang Woo Lim, Kep1er, DreamNote, ALICE, YEEUN, LEE CHAE YEON, TEMPEST, BLITZERS, DRIPPIN, GIUK(ONEWE), LEE GI KWANG</font>`
   },
   {
     "mair": "nomal",
