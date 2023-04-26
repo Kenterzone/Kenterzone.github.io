@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "323회",
+    "musicEP": "324회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee A Young, Hwang Woo Lim, DreamNote, ALICE, YEEUN, LEE CHAE YEON, Kep1er, Ryu Sujeong, New Hope Club, DRIPPIN, BLITZERS, TEMPEST, P1Harmony, GIUK(ONEWE), LEE GI KWANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "793회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, JUEUN, LEE CHAE YEON, Kep1er, IVE, EPEX, XODIAC, xikers, TAEYANG, TEMPEST, BLITZERS, TANAKA, Xdinary Heroes, DRIPPIN, WOODZ, WEi, LEE GI KWANG, SEVENTEEN,</font>`
   },
 
   {
