@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "793회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, JUEUN, LEE CHAE YEON, Kep1er, IVE, EPEX, XODIAC, xikers, TAEYANG, TEMPEST, BLITZERS, TANAKA, Xdinary Heroes, DRIPPIN, WOODZ, WEi, LEE GI KWANG, SEVENTEEN,</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, JUEUN, LEE CHAE YEON, Kep1er, IVE, EPEX, XODIAC, xikers, TEMPEST, BLITZERS, TANAKA, Xdinary Heroes, DRIPPIN, WOODZ, WEi, LEE GI KWANG, SEVENTEEN, TAEYANG</font>`
   },
 
   {
