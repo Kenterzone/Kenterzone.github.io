@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "806회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JUEUN, Kep1er, IVE, BLITZERS, XODIAC, Park Gu Yun, Xdinary Heroes, FANTASY BOYS, DRIPPIN, WOODZ, NCT DOJAEJUNG, LEE GI KWANG, TAEYANG</font>`
   },
 
   {
