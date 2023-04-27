@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "794회",
+    "musicEP": "795회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, JUEUN, LEE CHAE YEON, Kep1er, IVE, EPEX, XODIAC, xikers, TEMPEST, BLITZERS, TANAKA, Xdinary Heroes, DRIPPIN, WOODZ, WEi, LEE GI KWANG, SEVENTEEN, TAEYANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1161회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JUEUN, CRAXY, ALICE, Kep1er, LEE CHAE YEON, IVE, XODIAC, Xdinary Heroes, xikers, BLITZERS, EPEX, TEMPEST, DRIPPIN, NCT DOJAEJUNG, WOODZ, LEE GI KWANG, SEVENTEEN</font>`
   },
   {
     "mair": "nomal",
