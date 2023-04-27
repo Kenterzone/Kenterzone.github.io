@@ -21,16 +21,16 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "473회",
+    "musicEP": "474회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee A Young, YEAHSHINE, Hwang Woo Lim, Kep1er, DreamNote, ALICE, YEEUN, LEE CHAE YEON, TEMPEST, BLITZERS, DRIPPIN, GIUK(ONEWE), LEE GI KWANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "793회",
+    "musicEP": "794회",
     "musictime": "17:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, JUEUN, LEE CHAE YEON, Kep1er, IVE, EPEX, XODIAC, xikers, TEMPEST, BLITZERS, TANAKA, Xdinary Heroes, DRIPPIN, WOODZ, WEi, LEE GI KWANG, SEVENTEEN, TAEYANG</font>`
   },
