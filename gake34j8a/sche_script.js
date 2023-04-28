@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1180회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JUEUN, LEE CHAE YEON, Kep1er, IVE, Xdinary Heroes, XODIAC, EPEX, BLITZERS, xikers, DRIPPIN, TEMPEST, NCT DOJAEJUNG, LEE GI KWANG, WOODZ, SEVENTEEN, TAEYANG</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
