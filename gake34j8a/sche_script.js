@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "324회",
     "musictime": "18:00KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1161회",
+    "musicEP": "1162회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JUEUN, CRAXY, ALICE, Kep1er, LEE CHAE YEON, IVE, XODIAC, Xdinary Heroes, xikers, BLITZERS, EPEX, TEMPEST, DRIPPIN, NCT DOJAEJUNG, WOODZ, LEE GI KWANG, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "806회",
+    "musicEP": "807회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JUEUN, Kep1er, IVE, BLITZERS, XODIAC, Park Gu Yun, Xdinary Heroes, FANTASY BOYS, DRIPPIN, WOODZ, NCT DOJAEJUNG, LEE GI KWANG, TAEYANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1180회",
+    "musicEP": "1181회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JUEUN, LEE CHAE YEON, Kep1er, IVE, Xdinary Heroes, XODIAC, EPEX, BLITZERS, xikers, DRIPPIN, TEMPEST, NCT DOJAEJUNG, LEE GI KWANG, WOODZ, SEVENTEEN, TAEYANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
