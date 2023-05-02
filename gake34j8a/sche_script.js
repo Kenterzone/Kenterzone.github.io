@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "474회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CRAXY, Lee A Young, ALICE, DreamNote, Xikers, BLITZERS, Xdinary Heroes, TEMPEST, DRIPPIN, EPEX, WE US, CMDM, HANEUM</font>`
   },
   {
     "mair": "nomal",
