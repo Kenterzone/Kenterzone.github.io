@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "474회",
+    "musicEP": "475회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CRAXY, Lee A Young, ALICE, DreamNote, Xikers, BLITZERS, Xdinary Heroes, TEMPEST, DRIPPIN, EPEX, WE US, CMDM, HANEUM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
