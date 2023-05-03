@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "795회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Lee A Young, DreamNote, ALICE, LE SSERAFIM, BLITZERS, EPEX, TEMPEST, HANEUM, XODIAC, xikers, Xdinary Heroes, iKON, BTOB, SEVENTEEN, NCT DOJAEJUNG</font>`
   },
 
   {
