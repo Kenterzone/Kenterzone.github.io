@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1162회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee A Young, DreamNote, ALICE, LE SSERAFIM, XODIAC, BLITZERS, xikers, EPEX, TEMPEST, Xdinary Heroes, DRIPPIN, MUSTB, BTOB, NCT DOJAEJUNG, SEVENTEEN</font>`
   },
   {
     "mair": "nomal",
