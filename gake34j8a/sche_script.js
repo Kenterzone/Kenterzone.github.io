@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "807회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JO JUNG MIN, DreamNote, ALICE, FANTASY BOYS, xikers, XODIAC, EPEX, Xdinary Heroes, TEMPEST, DRIPPIN, BTOB, NCT DOJAEJUNG</font>`
   },
 
   {
