@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "795회",
+    "musicEP": "796회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Lee A Young, DreamNote, ALICE, LE SSERAFIM, BLITZERS, EPEX, TEMPEST, HANEUM, XODIAC, xikers, Xdinary Heroes, iKON, BTOB, SEVENTEEN, NCT DOJAEJUNG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1181회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hwang Woo Lim, BYEOL SARANG, DreamNote, ALICE, LE SSERAFIM, BLITZERS, xikers, EPEX, XODIAC, Xdinary Heroes, TEMPEST, DRIPPIN, NCT DOJAEJUNG, SEVENTEEN, BTOB</font>`
   },  ////SP_GUIDE/////
   {
     "date": "xSat.",
