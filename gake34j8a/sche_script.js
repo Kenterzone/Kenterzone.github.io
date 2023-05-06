@@ -67,7 +67,7 @@ const musicGuid =[
     "date": "Sun.",
     "date_date": "05.7",
     "musicname": "2023 뮤직뱅크 인 파리",
-    "musicEP": "-",
+    "musicEP": "",
     "musictime": "22:55KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
