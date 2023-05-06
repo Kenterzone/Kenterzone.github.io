@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1162회",
+    "musicEP": "1163회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee A Young, DreamNote, ALICE, LE SSERAFIM, XODIAC, BLITZERS, xikers, EPEX, TEMPEST, Xdinary Heroes, DRIPPIN, MUSTB, BTOB, NCT DOJAEJUNG, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "807회",
+    "musicEP": "808회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JO JUNG MIN, DreamNote, ALICE, FANTASY BOYS, xikers, XODIAC, EPEX, Xdinary Heroes, TEMPEST, DRIPPIN, BTOB, NCT DOJAEJUNG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -64,11 +64,11 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:<font color="#adadb8">Hwang Woo Lim, BYEOL SARANG, DreamNote, ALICE, LE SSERAFIM, BLITZERS, xikers, EPEX, XODIAC, Xdinary Heroes, TEMPEST, DRIPPIN, NCT DOJAEJUNG, SEVENTEEN, BTOB</font>`
   },  ////SP_GUIDE/////
   {
-    "date": "xSat.",
-    "date_date": "02.11",
-    "musicname": "-",
+    "date": "Sun.",
+    "date_date": "05.7",
+    "musicname": "2023 뮤직뱅크 인 파리",
     "musicEP": "-",
-    "musictime": "--:--KST",
+    "musictime": "22:55KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
 ];
