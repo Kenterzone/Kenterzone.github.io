@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "324회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CRAXY, ALICE, LE SSERAFIM, MUSTB, HANEUM, BLITZERS, DRIPPIN, TEMPEST, EPEX, GIUK(ONEWE), GHOST9</font>`
   },
   {
     "mair": "nomal",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1181회",
+    "musicEP": "1182회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hwang Woo Lim, BYEOL SARANG, DreamNote, ALICE, LE SSERAFIM, BLITZERS, xikers, EPEX, XODIAC, Xdinary Heroes, TEMPEST, DRIPPIN, NCT DOJAEJUNG, SEVENTEEN, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
