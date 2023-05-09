@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "475회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ALICE, Jung Dakyung, LE SSERAFIM, EPEX, BLITZERS, MUSTB, HANEUM, Xdinary Heroes, TEMPEST, DRIPPIN</font>`
   },
   {
     "mair": "nomal",
