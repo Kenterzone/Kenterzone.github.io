@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "324회",
+    "musicEP": "325회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CRAXY, ALICE, LE SSERAFIM, MUSTB, HANEUM, BLITZERS, DRIPPIN, TEMPEST, EPEX, GIUK(ONEWE), GHOST9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "796회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, ICHILLIN', LE SSERAFIM, aespa, DRIPPIN, BLITZERS, LEE MU JIN, EPEX, TEMPEST, Shindosi Power, Xdinary Heroes, ONEUS, HANEUM, Issac Hong, BAE173, BTOB</font>`
   },
 
   {
