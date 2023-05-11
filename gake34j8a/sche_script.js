@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "808회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, Jung Dakyung, ICHILLIN', aespa, BLITZERS, EPEX, Xdinary Heroes, ONEUS, DRIPPIN, LEE MU JIN, BAE173, SUNGMIN, BTOB</font>`
   },
 
   {
