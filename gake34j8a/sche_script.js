@@ -66,10 +66,10 @@ const musicGuid =[
   {
     "date": "Sun.",
     "date_date": "05.7",
-    "musicname": "2023 뮤직뱅크 인 파리",
+    "musicname": "-",
     "musicEP": "",
-    "musictime": "22:55KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NMIXX, IVE, MAMAMOO, ENHYPEN, CRAVITY, The Boyz, AB6IX, Stray Kids</font>`
+    "musictime": "--:--KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
 ];
 
