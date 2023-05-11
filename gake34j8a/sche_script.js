@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "475회",
+    "musicEP": "476회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ALICE, Jung Dakyung, LE SSERAFIM, EPEX, BLITZERS, MUSTB, HANEUM, Xdinary Heroes, TEMPEST, DRIPPIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1163회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, YEAHSHINE, ICHILLIN', LE SSERAFIM, aespa, AIMERS, EPEX, Xdinary Heroes, BLITZERS, LEE MU JIN, ONEUS, BAE173, BTOB</font>`
   },
   {
     "mair": "nomal",
