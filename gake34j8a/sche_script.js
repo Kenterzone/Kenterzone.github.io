@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1182회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, MINMIN, ICHILLIN', JANG HYE RI, LEE CHAE YEON, LE SSERAFIM, aespa, AIMERS, EPEX, BLITZERS, Xdinary Heroes, ONEUS, LEE MU JIN, BAE173, SUNGMIN, BTOB</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
