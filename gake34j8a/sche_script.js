@@ -14,12 +14,12 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "325회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MinMin, ADYA, ICHILLIN', Ryu Sujeong, Jung Dakyung, LEE CHAE YEON, TRI.BE, EPEX, BLITZERS, ONEUS, HANEUM, BAE173, DRIPPIN, </font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "476회",
     "musictime": "18:04KST",
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "796회",
+    "musicEP": "797회",
     "musictime": "17:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, ICHILLIN', LE SSERAFIM, aespa, DRIPPIN, BLITZERS, LEE MU JIN, EPEX, TEMPEST, Shindosi Power, Xdinary Heroes, ONEUS, HANEUM, Issac Hong, BAE173, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1163회",
+    "musicEP": "1164회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, YEAHSHINE, ICHILLIN', LE SSERAFIM, aespa, AIMERS, EPEX, Xdinary Heroes, BLITZERS, LEE MU JIN, ONEUS, BAE173, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "808회",
+    "musicEP": "809회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, Jung Dakyung, ICHILLIN', aespa, BLITZERS, EPEX, Xdinary Heroes, ONEUS, DRIPPIN, LEE MU JIN, BAE173, SUNGMIN, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1182회",
+    "musicEP": "1183회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, MINMIN, ICHILLIN', JANG HYE RI, LEE CHAE YEON, LE SSERAFIM, aespa, AIMERS, EPEX, BLITZERS, Xdinary Heroes, ONEUS, LEE MU JIN, BAE173, SUNGMIN, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
