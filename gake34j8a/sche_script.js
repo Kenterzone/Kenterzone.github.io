@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "325회",
+    "musicEP": "326회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MinMin, ADYA, ICHILLIN', Ryu Sujeong, Jung Dakyung, LEE CHAE YEON, TRI.BE, EPEX, BLITZERS, ONEUS, HANEUM, BAE173, DRIPPIN, </font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -31,7 +31,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "797회",
-    "musictime": "17:08KST",
+    "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
