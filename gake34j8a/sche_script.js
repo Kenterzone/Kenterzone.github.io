@@ -19,20 +19,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "476회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MinMin, ADYA, KIMDOAH, PURPLE KISS, (G)I-DLE, ONEUS, VERIVERY, ATBO, The Wind</font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "797회",
+    "musicEP": "798회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, KIM DOAH, Kyoung Seo, BLACKSWAN, QUEENDOM PUZZLE, KARD, SECRET NUMBER, Dreamcatcher, LE SSERAFIM, (G)I-DLE, The Wind, ATBO, ENHYPEN, YOUNITE, Nam Dong Hyun, VERIVERY, 10CM, JOOHONEY(MONSTA X)</font>`
   },
 
   {
