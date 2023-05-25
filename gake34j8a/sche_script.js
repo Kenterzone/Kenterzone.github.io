@@ -40,7 +40,7 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1164회",
+    "musicEP": "1165회",
     "musictime": "17:05KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "809회",
+    "musicEP": "810회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, BLACKSWAN, MIJOO, Kyoung Seo, KARD, Dreamcatcher, (G)I-DLE, ATBO, BLITZERS, The Wind, FANTASY BOYS(JuMaDeung), FANTASY BOYS(Sugar Pop), YOUNITE, JOOHONEY(MONSTA X), 10CM, VERIVERY</font>`
   },
 
   {
@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1183회",
+    "musicEP": "1184회",
     "musictime": "15:30KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
