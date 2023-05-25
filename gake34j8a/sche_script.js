@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1165회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, Kyoung Seo, MIJOO, SECRET NUMBER, LE SSERAFIM, Dreamcatcher, (G)I-DLE, KARD, AIMERS, ATBO, YOUNITE, The Wind, BLITZERS, JOOHONEY(MONSTA X), ENHYPEN, VERIVERY</font>`
   },
   {
     "mair": "nomal",
