@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "798회",
+    "musicEP": "799회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, KIM DOAH, Kyoung Seo, BLACKSWAN, QUEENDOM PUZZLE, KARD, SECRET NUMBER, Dreamcatcher, LE SSERAFIM, (G)I-DLE, The Wind, ATBO, ENHYPEN, YOUNITE, Nam Dong Hyun, VERIVERY, 10CM, JOOHONEY(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1165회",
+    "musicEP": "1167회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, Kyoung Seo, MIJOO, SECRET NUMBER, LE SSERAFIM, Dreamcatcher, (G)I-DLE, KARD, AIMERS, ATBO, YOUNITE, The Wind, BLITZERS, JOOHONEY(MONSTA X), ENHYPEN, VERIVERY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "810회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, BLACKSWAN, MIJOO, Kyoung Seo, KARD, Dreamcatcher, (G)I-DLE, ATBO, BLITZERS, The Wind, FANTASY BOYS(JuMaDeung), FANTASY BOYS(Sugar Pop), YOUNITE, JOOHONEY(MONSTA X), 10CM, VERIVERY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, BLACKSWAN, Kyoung Seo, KARD, Dreamcatcher, (G)I-DLE, ATBO, BLITZERS, The Wind, FANTASY BOYS(JuMaDeung), FANTASY BOYS(Sugar Pop), YOUNITE, JOOHONEY(MONSTA X), 10CM, VERIVERY</font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1184회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, KyoungSeo, BLACKSWAN, SECRET NUMBER, KARD, LE SSERAFIM, Dreamcatcher, (G)I-DLE, BLITZERS, ATBO, The Wind, ENHYPEN, VERIVERY, YOUNITE, Nam Dong Hyun, JOOHONEY(MONSTA X)</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
