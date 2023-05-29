@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "326회",
+    "musicEP": "327회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, BLACKSWAN, KIMDOAH, KARD, SECRET NUMBER, Dreamcatcher, AIMERS, ATBO, YOUNITE, The Wind, FANTASY BOYS (Sugar Pop), FANTASY BOYS (Flash), YOUNG KI, VERIVERY</font>`
   },
   {
     "mair": "nomal",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1184회",
+    "musicEP": "1185회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, KyoungSeo, BLACKSWAN, SECRET NUMBER, KARD, LE SSERAFIM, Dreamcatcher, (G)I-DLE, BLITZERS, ATBO, The Wind, ENHYPEN, VERIVERY, YOUNITE, Nam Dong Hyun, JOOHONEY(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
