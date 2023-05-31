@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "327회",
+    "musicEP": "328회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, BLACKSWAN, KIMDOAH, KARD, SECRET NUMBER, Dreamcatcher, AIMERS, ATBO, YOUNITE, The Wind, FANTASY BOYS (Sugar Pop), FANTASY BOYS (Flash), YOUNG KI, VERIVERY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "477회",
+    "musicEP": "478회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, BLACKSWAN, KIMDOAH, ICHILLIN, SECRET NUMBER, Dreamcatcher, KARD, ATBO, NINE to SIX, The Wind, Nam Dong Hyun, VERIVERY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
