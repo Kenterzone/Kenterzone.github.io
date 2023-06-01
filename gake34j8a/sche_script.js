@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1167회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KARD, Dreamcatcher, (G)I-DLE, YOUNITE, DKB, ATBO, BOYNEXTDOOR, CIX, The Wind, ZHOUMI, AB6IX, JOOHONEY(MONSTA X), VERIVERY, ENHYPEN, Stray Kids</font>`
   },
   {
     "mair": "nomal",
