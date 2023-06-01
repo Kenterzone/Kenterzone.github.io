@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "811회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, (G)I-DLE, ZHOUMI(feat. EUNHYUK), CIX, PLAVE, FANTASY BOYS, DKB, YOUNITE, ATBO, The Wind, YOUNG KI, JOOHONEY(MONSTA X), VERIVERY, AB6IX, Stray Kids</font>`
   },
 
   {
