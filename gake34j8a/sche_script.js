@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1185회",
-    "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:33KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SECRET NUMBER, KARD, Dreamcatcher, (G)I-DLE, AIMERS, DKB, BOYNEXTDOOR, NINE to SIX, CIX, YOUNITE, ZHOUMI, AB6IX, ENHYPEN, VERIVERY, JOOHONEY(MONSTA X), Stray Kids</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
