@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "328회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, SECRET NUMBER, KARD, CIX, ZHOUMI, DKB, NTX, ATBO, Nam Dong Hyun, NINE to SIX, The Wind, Dustin, AB6IX</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1167회",
+    "musicEP": "1168회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KARD, Dreamcatcher, (G)I-DLE, YOUNITE, DKB, ATBO, BOYNEXTDOOR, CIX, The Wind, ZHOUMI, AB6IX, JOOHONEY(MONSTA X), VERIVERY, ENHYPEN, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "811회",
+    "musicEP": "812회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, (G)I-DLE, ZHOUMI(feat. EUNHYUK), CIX, PLAVE, FANTASY BOYS, DKB, YOUNITE, ATBO, The Wind, YOUNG KI, JOOHONEY(MONSTA X), VERIVERY, AB6IX, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1185회",
+    "musicEP": "1186회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SECRET NUMBER, KARD, Dreamcatcher, (G)I-DLE, AIMERS, DKB, BOYNEXTDOOR, NINE to SIX, CIX, YOUNITE, ZHOUMI, AB6IX, ENHYPEN, VERIVERY, JOOHONEY(MONSTA X), Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
