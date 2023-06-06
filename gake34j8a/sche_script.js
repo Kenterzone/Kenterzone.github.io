@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "478회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, SECRET NUMBER, PURPLE KISS, KARD, DKB, NTX, ATBO, CIX, NINE to SIX, XODIAC, The Wind, Nam Dong Hyun</font>`
   },
   {
     "mair": "nomal",
