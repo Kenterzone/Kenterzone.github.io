@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "328회",
+    "musicEP": "329회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, SECRET NUMBER, KARD, CIX, ZHOUMI, DKB, NTX, ATBO, Nam Dong Hyun, NINE to SIX, The Wind, Dustin, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "799회",
+    "musicEP": "800회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, ChoCo1&2, SECRET NUMBER, KARD, Dreamcatcher, (G)I-DLE, NINE to SIX, The Wind, YOUNITE, ZHOUMI, ATBO, DKB, CIX, BOYNEXTDOOR, AB6IX, ENHYPEN, VERIVERY, JOOHONEY(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, QUEENDOM PUZZLE, fromis_9, THE NEW SIX (TNX), The Wind, BOYNEXTDOOR, CIX, JOOHONEY X MIYEON, Kik5o X D-Hack, P1Harmony, TAEYONG, INI, AB6IX, ENHYPEN, Stray Kids</font>`
   },
 
   {
