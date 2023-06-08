@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1168회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Park Rossi, SECRET NUMBER, fromis_9, Kik5o X D-Hack, ATBO, BOYNEXTDOOR, CIX, NINE to SIX, THE NEW SIX (TNX), The Wind, AB6IX, P1Harmony, Stray Kids, TAEYONG</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "812회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KyoungSeo, KIMDOAH, NINE to SI, THE NEW SIX(TNX), P1Harmony, CIX, ATBO, The Wind, Nam Dong Hyun, TAEYONG, AB6IX, Stray Kids</font>`
   },
 
   {
