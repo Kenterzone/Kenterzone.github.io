@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "478회",
+    "musicEP": "479회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, SECRET NUMBER, PURPLE KISS, KARD, DKB, NTX, ATBO, CIX, NINE to SIX, XODIAC, The Wind, Nam Dong Hyun</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "800회",
+    "musicEP": "801회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, QUEENDOM PUZZLE, fromis_9, THE NEW SIX (TNX), The Wind, BOYNEXTDOOR, CIX, JOOHONEY X MIYEON, Kik5o X D-Hack, P1Harmony, TAEYONG, INI, AB6IX, ENHYPEN, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
