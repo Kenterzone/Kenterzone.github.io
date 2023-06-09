@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1186회",
     "musictime": "15:33KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, Park Rossi, KIMDOAH, fromis_9, NINE to SIX, ATBO, BOYNEXTDOOR, The Wind, P1Harmony, THE NEW SIX (TNX), NTX, CIX, TAEYONG, AB6IX, Stray Kids</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
