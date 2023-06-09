@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "812회",
-    "musictime": "15:21KST",
+    "musictime": "15:06KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">KyoungSeo, KIMDOAH, NINE to SI, THE NEW SIX(TNX), P1Harmony, CIX, ATBO, The Wind, Nam Dong Hyun, TAEYONG, AB6IX, Stray Kids</font>`
   },
 
