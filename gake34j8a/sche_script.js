@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1168회",
+    "musicEP": "1169회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Park Rossi, SECRET NUMBER, fromis_9, Kik5o X D-Hack, ATBO, BOYNEXTDOOR, CIX, NINE to SIX, THE NEW SIX (TNX), The Wind, AB6IX, P1Harmony, Stray Kids, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "812회",
+    "musicEP": "813회",
     "musictime": "15:06KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KyoungSeo, KIMDOAH, NINE to SI, THE NEW SIX(TNX), P1Harmony, CIX, ATBO, The Wind, Nam Dong Hyun, TAEYONG, AB6IX, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1186회",
+    "musicEP": "1187회",
     "musictime": "14:58KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, Park Rossi, KIMDOAH, fromis_9, NINE to SIX, ATBO, BOYNEXTDOOR, The Wind, P1Harmony, THE NEW SIX (TNX), NTX, CIX, TAEYONG, AB6IX, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
