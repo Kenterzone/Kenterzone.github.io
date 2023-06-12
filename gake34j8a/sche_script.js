@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "329회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, HashTag, SECRET NUMBER, fromis_9, NINE to SIX, XODIAC, BBONGSA, CIX, THE NEW SIX (TNX), NTX, ATBO, VAV, P1Harmony</font>`
   },
   {
     "mair": "nomal",
