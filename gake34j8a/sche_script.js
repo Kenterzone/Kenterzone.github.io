@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "479회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Park Rossi, SECRET NUMBER, DALsooobin, fromis_9, 2Z, THE NEW SIX (TNX), NINE to SIX, ATBO, CIX, P1Harmony, VAV, NTX, Nam Dong Hyun</font>`
   },
   {
     "mair": "nomal",
