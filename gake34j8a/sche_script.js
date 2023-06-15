@@ -29,10 +29,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "KCON JAPAN 2023 X M!CountDown",
-    "musicEP": "801회",
+    "musicname": "M!CountDown",
+    "musicEP": "802회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, NiziU, Kep1er, STAYC, ITZY, YENA, LE SSERAFIM, VIVIZ, 8TURN, TEMPEST, xikers, &TEAM, AB6IX, ATBO, INI, JUST B, THE BOYZ, ATEEZ, DXTEEN, JO1, BOYS PLANET, ENHYPEN, iKON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
