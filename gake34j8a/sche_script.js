@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "479회",
+    "musicEP": "480회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Park Rossi, SECRET NUMBER, DALsooobin, fromis_9, 2Z, THE NEW SIX (TNX), NINE to SIX, ATBO, CIX, P1Harmony, VAV, NTX, Nam Dong Hyun</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "813회",
     "musictime": "15:06KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, Park Rossi, Baek Ye Bin, SECRET NUMBER, NINE to SIX, P1Harmony, THE NEW SIX (TNX), FANTASY BOYS, LUN8, CIX, DKB, ATEEZ, VAV, REN, TAEYONG</font>`
   },
 
   {
