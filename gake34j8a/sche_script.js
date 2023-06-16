@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1187회",
     "musictime": "14:58KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baek Ye Bin, Park Rossi, SECRET NUMBER, fromis_9, NINE to SIX, THE NEW SIX (TNX), BOYNEXTDOOR, REN, LUN8, FANTASY BOYS, ATEEZ, DKB, VAV, CIX, P1Harmony, TAEYONG, ENHYPEN</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
