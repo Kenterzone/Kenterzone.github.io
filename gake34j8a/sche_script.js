@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1169회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, Park Rossi, Baek Ye Bin, SECRET NUMBER, fromis_9, BOYNEXTDOOR, DKB, REN, LUN8, NINE to SIX, THE NEW SIX (TNX), CIX, VAV, ATEEZ, ENHYPEN, P1Harmony, TAEYON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
