@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "813회",
+    "musicEP": "814회",
     "musictime": "15:06KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, Park Rossi, Baek Ye Bin, SECRET NUMBER, NINE to SIX, P1Harmony, THE NEW SIX (TNX), FANTASY BOYS, LUN8, CIX, DKB, ATEEZ, VAV, REN, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
