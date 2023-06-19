@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "330회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baek Ye Bin, We;Na, fromis_9, LUN8, TMC, FANTASY BOYS, THE NEW SIX (TNX), NTX, NINE to SIX, VAV, DKB, ATEEZ, P1Harmony</font>`
   },
   {
     "mair": "nomal",
