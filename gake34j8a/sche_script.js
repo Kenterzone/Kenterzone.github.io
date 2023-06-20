@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "330회",
+    "musicEP": "331회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baek Ye Bin, We;Na, fromis_9, LUN8, TMC, FANTASY BOYS, THE NEW SIX (TNX), NTX, NINE to SIX, VAV, DKB, ATEEZ, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "480회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, Baek Ye Bin, fromis_9, THE NEW SIX (TNX), NINE to SIX, LUN8, FANTASY BOYS, DKB, VAV, NTX, ATEEZ, P1Harmony, YOUNGKI</font>`
   },
   {
     "mair": "nomal",
