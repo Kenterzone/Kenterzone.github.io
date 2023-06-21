@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "480회",
+    "musicEP": "481회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, Baek Ye Bin, fromis_9, THE NEW SIX (TNX), NINE to SIX, LUN8, FANTASY BOYS, DKB, VAV, NTX, ATEEZ, P1Harmony, YOUNGKI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
