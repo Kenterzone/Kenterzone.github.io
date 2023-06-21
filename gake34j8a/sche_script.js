@@ -31,7 +31,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "802회",
-    "musictime": "18:00KST",
+    "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Lapillus, Baek Ye Bin, fromis_9, LUN8, BOYNEXTDOOR, KIM JAE HWAN, DKB, THE NEW SIX (TNX), The Wind, EXPJ-1, FANTASY BOYS, WETBOY X Jo Hyun Ah, VAV, &TEAM, KANGDANIEL, Roy Kim, ATEEZ, NCT DREAM</font>`
   },
 
