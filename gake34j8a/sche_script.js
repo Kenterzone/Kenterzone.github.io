@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1169회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystalEyes, Baek Ye Bin, Lapillus, fromis_9, BOYNEXTDOOR, LUN8, THE NEW SIX (TNX), DKB, WETBOY X Jo Hyun Ah, &TEAM, ATEEZ, VAV, KIM JAE HWAN, KANGDANIEL, NCT DREAM</font>`
   },
   {
     "mair": "nomal",
