@@ -50,8 +50,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "814회",
-    "musictime": "15:06KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:16KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lapillus, Baek Ye Bin, tripleS KRE, KIM SO YEON, NINE to SIX, THE NEW SIX (TNX), The Wind, FANTASY BOYS, LUN8, DKB, ATEEZ, VAV, KANGDANIEL, KIM JAE HWAN, NCT DREAM</font>`
   },
 
   {
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1188회",
-    "musictime": "14:05KST",
+    "musictime": "14:43KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
