@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1169회",
+    "musicEP": "1170회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystalEyes, Baek Ye Bin, Lapillus, fromis_9, BOYNEXTDOOR, LUN8, THE NEW SIX (TNX), DKB, WETBOY X Jo Hyun Ah, &TEAM, ATEEZ, VAV, KIM JAE HWAN, KANGDANIEL, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1188회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, Lapillus, fromis_9, THE NEW SIX (TNX), BOYNEXTDOOR, The Wind, 2Z, &TEAM, DKB, LUN8, WETBOY X Jo Hyun Ah, VAV, ATEEZ, KIM JAE HWAN, KANGDANIEL, NCT DREAM</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
