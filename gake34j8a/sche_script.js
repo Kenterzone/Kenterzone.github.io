@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "331회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Baek Ye Bin, KIM SO YEON, Lapillus, THE NEW SIX (TNX), Hi-Fi Un!corn, NINE to SIX, &TEAM, LUN8, 2Z, DKB, VAV, ATEEZ, KIM JAE HWAN</font>`
   },
   {
     "mair": "nomal",
