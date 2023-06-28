@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "331회",
+    "musicEP": "332회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Baek Ye Bin, KIM SO YEON, Lapillus, THE NEW SIX (TNX), Hi-Fi Un!corn, NINE to SIX, &TEAM, LUN8, 2Z, DKB, VAV, ATEEZ, KIM JAE HWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "803회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Lapillus, Hash Tag, YENA, Hi-Fi Un!corn, THE NEW SIX (TNX), LUN8, 8TURN, &TEAM, VAV, ATEEZ, HAN SEUNG WOO, Kim Sung Kyu, WEi, UKISS, SHINee</font>`
   },
 
   {
