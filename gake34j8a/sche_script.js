@@ -30,19 +30,19 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "803회",
+    "musicEP": "804회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Lapillus, Hash Tag, YENA, Hi-Fi Un!corn, THE NEW SIX (TNX), LUN8, 8TURN, &TEAM, VAV, ATEEZ, HAN SEUNG WOO, Kim Sung Kyu, WEi, UKISS, SHINee</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
     "musiconoroff" : true,
-    "musicname": "Music Bank",
+    "musicname": "Music Bank 2023-First Half-Year Special",
     "musicEP": "1170회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LEE CHAEMIN X HONG EUNCHAE, Lapillus, H1-KEY, LEE CHAE YEON, YENA, LE SSERAFIM, Hi-Fi Un!corn, &TEAM, 8TURN, BOYNEXTDOOR, HAN SEUNG WOO, Kim Sung Kyu, KIM JAE HWAN, ENHYPEN, ATEEZ, UKISS, NCT DOJAEJUNG, SHINee</font>`
   },
   {
     "mair": "nomal",
