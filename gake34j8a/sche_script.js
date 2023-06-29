@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "815회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, KIM SO YEON, Lapillus, YENA, 8TURN, Hi-Fi Un!corn, THE NEW SIX (TNX), LUN8, TREASURE, WEi, KIM JAE HWAN, ATEEZ, Kim Sung Kyu, HAN SEUNG WOO, SHINee</font>`
   },
 
   {
