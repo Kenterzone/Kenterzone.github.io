@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1189회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Lapillus, YENA, LUN8, THE NEW SIX (TNX), 8TURN, TREASURE (T5), Hi-Fi Un!corn, &TEAM, WEi, Kim Sung Kyu, ATEEZ, HAN SEUNG WOO, UKISS, KIM JAE HWAN, SHINee</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
