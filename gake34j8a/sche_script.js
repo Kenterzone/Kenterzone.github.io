@@ -39,19 +39,19 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Fri.",
     "musiconoroff" : true,
-    "musicname": "Music Bank 2023-First Half-Year Special",
-    "musicEP": "1170회",
+    "musicname": "Music Bank",
+    "musicEP": "1171회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LEE CHAEMIN X HONG EUNCHAE, Lapillus, H1-KEY, LEE CHAE YEON, YENA, LE SSERAFIM, Hi-Fi Un!corn, &TEAM, 8TURN, BOYNEXTDOOR, HAN SEUNG WOO, Kim Sung Kyu, KIM JAE HWAN, ENHYPEN, ATEEZ, UKISS, NCT DOJAEJUNG, SHINee</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "815회",
+    "musicEP": "816회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, KIM SO YEON, Lapillus, YENA, 8TURN, Hi-Fi Un!corn, THE NEW SIX (TNX), LUN8, TREASURE, WEi, KIM JAE HWAN, ATEEZ, Kim Sung Kyu, HAN SEUNG WOO, SHINee</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1189회",
+    "musicEP": "1190회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, Lapillus, YENA, LUN8, THE NEW SIX (TNX), 8TURN, TREASURE (T5), Hi-Fi Un!corn, &TEAM, WEi, Kim Sung Kyu, ATEEZ, HAN SEUNG WOO, UKISS, KIM JAE HWAN, SHINee</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
