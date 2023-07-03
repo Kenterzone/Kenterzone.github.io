@@ -14,14 +14,14 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "332회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIM SO YEON, tripleS +(KR)ystal Eyes, Lapillus, KWON EUNBI, 8TURN, Hi-Fi Un!corn, LUN8, HAN SEUNG WOO, WEi, KIM JAE HWAN, XIAOJUN</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "482회",
+    "musicEP": "483회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
