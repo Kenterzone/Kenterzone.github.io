@@ -21,7 +21,7 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "483회",
+    "musicEP": "482회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, KIM SO YEON, Lapillus, Hash Tag, &TEAM, 8TURN, LUN8, Nam Dong Hyun, WEi, SUNG MIN JI, KIM JAE HWAN</font>`
   },
