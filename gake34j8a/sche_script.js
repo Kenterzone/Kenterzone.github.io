@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "332회",
+    "musicEP": "333회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIM SO YEON, tripleS +(KR)ystal Eyes, Lapillus, KWON EUNBI, 8TURN, Hi-Fi Un!corn, LUN8, HAN SEUNG WOO, WEi, KIM JAE HWAN, XIAOJUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "804회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, tripleS +(KR)ystal Eyes, Lapillus, Hash Tag, SWAN, Yoon Jiyoung, Queenz Eye, &TEAM, 8TURN, LUN8, MIDNATT, Nam Dong Hyun, WEi, TEEN TOP, SHINee</font>`
   },
 
   {
