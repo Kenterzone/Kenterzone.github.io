@@ -41,8 +41,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1171회",
-    "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "17:15KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"><KISS OF LIFE, tripleS +(KR)ystalEyes, SWAN, Queenz Eye, Lapillus, LUN8, 8TURN, &TEAM, VAV, Nam Dong Hyun, Kim Sung Kyu, KIM JAE HWAN, TEEN TOP, SHINee/font>`
   },
   {
     "mair": "nomal",
