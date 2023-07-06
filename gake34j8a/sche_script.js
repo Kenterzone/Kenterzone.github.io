@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "482회",
+    "musicEP": "483회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS +(KR)ystal Eyes, KIM SO YEON, Lapillus, Hash Tag, &TEAM, 8TURN, LUN8, Nam Dong Hyun, WEi, SUNG MIN JI, KIM JAE HWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "816회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Queenz Eye, SWAN, tripleS +(KR)ystal Eyes, Lapillus, 8TURN, LUN8, SUPERKIND, YUDABINBAND, Nam Dong Hyun, TREASURE, WEi, VAV, Kim Sung Kyu, KIM JAE HWAN, SHINee, TEEN TOP</font>`
   },
 
   {
