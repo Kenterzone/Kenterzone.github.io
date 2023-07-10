@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "333회",
     "musictime": "18:00KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1171회",
+    "musicEP": "1172회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, tripleS +(KR)ystalEyes, SWAN, Queenz Eye, Lapillus, LUN8, 8TURN, &TEAM, VAV, Nam Dong Hyun, Kim Sung Kyu, KIM JAE HWAN, TEEN TOP, SHINee</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "816회",
+    "musicEP": "817회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Queenz Eye, SWAN, tripleS +(KR)ystal Eyes, Lapillus, 8TURN, LUN8, SUPERKIND, YUDABINBAND, Nam Dong Hyun, TREASURE, WEi, VAV, Kim Sung Kyu, KIM JAE HWAN, SHINee, TEEN TOP</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1190회",
+    "musicEP": "1191회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Kim So Yeon, tripleS +(KR)ystal Eyes, Lapillus, SWAN, Queenz Eye, 8TURN, &TEAM, LUN8, Nam Dong Hyun, Kim Sung Kyu, KIM JAE HWAN, TREASURE (T5), WEi, TEEN TOP, SHINee</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
