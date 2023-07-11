@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "483회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Queenz Eye, KIM SO YEON, Lapillus, Hash Tag, SWAN, 8TURN, LUN8, Nam Dong Hyun, WEi</font>`
   },
   {
     "mair": "nomal",
