@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "805회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Lapillus, Queenz Eye, SWAN, NMIXX, Sandara Park, KOYOTE, LUN8, BOYNEXTDOOR, 8TURN, ZEROBASEONE, TREASURE, EXO</font>`
   },
 
   {
