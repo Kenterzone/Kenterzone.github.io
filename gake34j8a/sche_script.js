@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "483회",
+    "musicEP": "484회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Queenz Eye, KIM SO YEON, Lapillus, Hash Tag, SWAN, 8TURN, LUN8, Nam Dong Hyun, WEi</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "817회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Lapillus, Queenz Eye, SWAN, Mun Heekyung, NMIXX, Sandara Park, KOYOTE, 8TURN, ZEROBASEONE, KIM JAE HWAN(feat.Byeol Eun), EXO</font>`
   },
 
   {
