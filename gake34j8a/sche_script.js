@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1172회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Fishingirls, KISS OF LIFE, Lapillus, Queenz Eye, ODD EYE CIRCLE, NMIXX, SWAN, Sandara Park, NewJeans, KOYOTE, 8TURN, LUN8, EXO</font>`
   },
   {
     "mair": "nomal",
