@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "805회",
+    "musicEP": "806회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Lapillus, Queenz Eye, SWAN, NMIXX, Sandara Park, KOYOTE, LUN8, BOYNEXTDOOR, 8TURN, ZEROBASEONE, TREASURE, EXO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1191회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Queenz Eye, Lapillus, SWAN, NMIXX, Sandara Park, NewJeans, KOYOTE, ZEROBASEONE, 8TURN, LUN8, TREASURE(T5), EXO</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
