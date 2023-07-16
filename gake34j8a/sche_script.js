@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "333회",
     "musictime": "18:00KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1172회",
+    "musicEP": "1173회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Fishingirls, KISS OF LIFE, Lapillus, Queenz Eye, ODD EYE CIRCLE, NMIXX, SWAN, Sandara Park, NewJeans, KOYOTE, 8TURN, LUN8, EXO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "817회",
+    "musicEP": "818회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Lapillus, Queenz Eye, SWAN, Mun Heekyung, NMIXX, Sandara Park, KOYOTE, 8TURN, ZEROBASEONE, KIM JAE HWAN(feat.Byeol Eun), EXO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1191회",
+    "musicEP": "1192회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Queenz Eye, Lapillus, SWAN, NMIXX, Sandara Park, NewJeans, KOYOTE, ZEROBASEONE, 8TURN, LUN8, TREASURE(T5), EXO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
