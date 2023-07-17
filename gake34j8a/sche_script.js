@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "333회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, ODD EYE CIRCLE, Lapillus, Queenz Eye, SWAN, KOYOTE, 8TURN, almost monday, LUN8, ZEROBASEONE, Kim JinHwan(JAY), Nam Dong Hyun, WEi</font>`
   },
   {
     "mair": "nomal",
