@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "484회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Lapillus, Queenz Eye, SWAN, NMIXX, ZEROBASEONE, 8TURN, LUN8, Nam Dong Hyun</font>`
   },
   {
     "mair": "nomal",
