@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "333회",
+    "musicEP": "334회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, ODD EYE CIRCLE, Lapillus, Queenz Eye, SWAN, KOYOTE, 8TURN, almost monday, LUN8, ZEROBASEONE, Kim JinHwan(JAY), Nam Dong Hyun, WEi</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "806회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, YGX, Queenz Eye, ICHILLIN', NMIXX, Sandara Park, ChoCo1&2, LUN8, MIRAE, 8TURN, ZEROBASEONE, TREASURE, JOOHONEY(MONSTA X), Nam Dong Hyun, NCT DREAM</font>`
   },
 
   {
