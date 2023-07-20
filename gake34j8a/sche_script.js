@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "484회",
+    "musicEP": "485회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, KISS OF LIFE, Lapillus, Queenz Eye, SWAN, NMIXX, ZEROBASEONE, 8TURN, LUN8, Nam Dong Hyun</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "818회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, ICHILLIN', Queenz Eye, SWAN, Yoon Soo Hyun, NMIXX, Sandara Park, SUPERKIND, MIRAE, ZEROBASEONE, 8TURN, KIM JAE HWAN(feat.Byeol Eun), NCT DREAM</font>`
   },
 
   {
