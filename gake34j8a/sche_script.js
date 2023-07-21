@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "806회",
+    "musicEP": "807회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, YGX, Queenz Eye, ICHILLIN', NMIXX, Sandara Park, ChoCo1&2, LUN8, MIRAE, 8TURN, ZEROBASEONE, TREASURE, JOOHONEY(MONSTA X), Nam Dong Hyun, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1173회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, Queenz Eye, ICHILLIN', NMIXX, Sandara Park, NewJeans, MIRAE, ZEROBASEONE, 8TURN, LUN8, NCT DREAM</font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1192회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MC Special Stage:Park Jihu × Choi Yeonjun, ODD EYE CIRCLE, Yoon Soo Hyun, ICHILLIN, Queenz Eye, Sandara Park, NMIXX, NewJeans, MIRAE, LUN8, 8TURN, ZEROBASEONE, Hwang Min Woo, NCT DREAM</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
