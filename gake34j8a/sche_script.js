@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "334회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Lapillus, Queenz Eye, ILY:1, ICHILLIN', Kim Soyeon, SWAN, MIRAE, ZEROBASEONE, Jaechan</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1173회",
+    "musicEP": "1174회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, Queenz Eye, ICHILLIN', NMIXX, Sandara Park, NewJeans, MIRAE, ZEROBASEONE, 8TURN, LUN8, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "818회",
+    "musicEP": "819회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD EYE CIRCLE, ICHILLIN', Queenz Eye, SWAN, Yoon Soo Hyun, NMIXX, Sandara Park, SUPERKIND, MIRAE, ZEROBASEONE, 8TURN, KIM JAE HWAN(feat.Byeol Eun), NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1192회",
+    "musicEP": "1193회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MC Special Stage:Park Jihu × Choi Yeonjun, ODD EYE CIRCLE, Yoon Soo Hyun, ICHILLIN, Queenz Eye, Sandara Park, NMIXX, NewJeans, MIRAE, LUN8, 8TURN, ZEROBASEONE, Hwang Min Woo, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
