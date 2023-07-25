@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "485회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Q6IX, KISS OF LIFE, ICHILLIN', Queenz Eye, NMIXX, MIRAE, ZEROBASEONE, Yoon Seobin</font>`
   },
   {
     "mair": "nomal",
