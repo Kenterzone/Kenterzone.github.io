@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "334회",
+    "musicEP": "335회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Lapillus, Queenz Eye, ILY:1, ICHILLIN', Kim Soyeon, SWAN, MIRAE, ZEROBASEONE, Jaechan</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "485회",
+    "musicEP": "486회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Q6IX, KISS OF LIFE, ICHILLIN', Queenz Eye, NMIXX, MIRAE, ZEROBASEONE, Yoon Seobin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "807회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ILY:1, XG, KISS OF LIFE, SATURDAY, ICHILLIN', NMIXX, OH MY GIRL, SOYOU, MIRAE, BOY STORY, ZEROBASEONE, HORI7ON, Yoon Seobin, SHOWNU × HYUNGWON, NCT DREAM</font>`
   },
 
   {
