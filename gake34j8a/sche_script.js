@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1174회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, ILY:1, SATURDAY, ICHILLIN', Queenz Eye, NMIXX, SOYOU, OH MY GIRL, NewJeans, MIRAE, BOY STORY, HORI7ON, ZEROBASEONE, SHOWNU × HYUNGWON, NCT DREAM</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "819회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Soyeon, XG, SATURDAY, KISS OF LIFE, Queenz Eye, ICHILLIN', NMIXX, SOYOU, OH MY GIRL, HORI7ON, MIRAE, ZEROBASEONE, BOY STORY, SHOWNU × HYUNGWON, NCT DREAM</font>`
   },
 
   {
