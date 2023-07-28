@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "807회",
+    "musicEP": "808회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ILY:1, XG, KISS OF LIFE, SATURDAY, ICHILLIN', NMIXX, OH MY GIRL, SOYOU, MIRAE, BOY STORY, ZEROBASEONE, HORI7ON, Yoon Seobin, SHOWNU × HYUNGWON, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1193회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, XG, ILY:1, ICHILLIN', NMIXX, NewJeans, SOYOU, OH MY GIRL, BOY STORY, HORI7ON, ZEROBASEONE, MIRAE, SHOWNU × HYUNGWON, NCT DREAM, Jung Kook</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
