@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "335회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NATTY(KISS OF LIFE), SATURDAY, Mun Hee Kyung, ILY:1, Queenz Eye, ICHILLIN', SOYOU, OH MY GIRL, HORI7ON, MIRAE, SEVENUS, Yoon Seobin</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1174회",
+    "musicEP": "1175회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, ILY:1, SATURDAY, ICHILLIN', Queenz Eye, NMIXX, SOYOU, OH MY GIRL, NewJeans, MIRAE, BOY STORY, HORI7ON, ZEROBASEONE, SHOWNU × HYUNGWON, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "819회",
+    "musicEP": "8209회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Soyeon, XG, SATURDAY, KISS OF LIFE, Queenz Eye, ICHILLIN', NMIXX, SOYOU, OH MY GIRL, HORI7ON, MIRAE, ZEROBASEONE, BOY STORY, SHOWNU × HYUNGWON, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1193회",
+    "musicEP": "1194회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, XG, ILY:1, ICHILLIN', NMIXX, NewJeans, SOYOU, OH MY GIRL, BOY STORY, HORI7ON, ZEROBASEONE, MIRAE, SHOWNU × HYUNGWON, NCT DREAM, Jung Kook</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
