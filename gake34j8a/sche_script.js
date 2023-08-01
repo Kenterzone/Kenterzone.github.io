@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "335회",
+    "musicEP": "336회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NATTY(KISS OF LIFE), SATURDAY, Mun Hee Kyung, ILY:1, Queenz Eye, ICHILLIN', SOYOU, OH MY GIRL, HORI7ON, MIRAE, SEVENUS, Yoon Seobin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "486회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, SATURDAY, ICHILLIN', SOYOU, OH MY GIRL, MIRAE, SEVENUS, HORI7ON, BOY STORY</font>`
   },
   {
     "mair": "nomal",
