@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "808회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BBGIRLS, ITZY, KWON EUN BI, SOYOU, OH MY GIRL, MAMAMOO+, NINE.i, XEED, 8TURN, ZEROBASEONE, The Wind, MIRAE, SEVENUS, SHOWNU × HYUNGWON, xikers, TREASURE, INFINITE</font>`
   },
 
   {
