@@ -49,7 +49,7 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "8209회",
+    "musicEP": "820회",
     "musictime": "15:16KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', ITZY, KWON EUN BI, OH MY GIRL, BBGIRLS, SOYOU, MAMAMOO+, TAN, xikers, The Wind, HORI7ON, TREASURE, SHOWNU × HYUNGWON, INFINITE, YOUNGTAK</font>`
   },
