@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "486회",
+    "musicEP": "487회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, SATURDAY, ICHILLIN', SOYOU, OH MY GIRL, MIRAE, SEVENUS, HORI7ON, BOY STORY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "808회",
+    "musicEP": "809회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BBGIRLS, ITZY, KWON EUN BI, SOYOU, OH MY GIRL, MAMAMOO+, NINE.i, XEED, 8TURN, ZEROBASEONE, The Wind, MIRAE, SEVENUS, SHOWNU × HYUNGWON, xikers, TREASURE, INFINITE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1175회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ITZY, KWON EUN BI, SOYOU, OH MY GIRL, NewJeans, MAMAMOO+, MIRAE, SEVENUS, HORI7ON, NINE.i, TAN, xikers, The Wind, 8TURN, SHOWNU × HYUNGWON, INFINITE</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "8209회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', ITZY, KWON EUN BI, OH MY GIRL, BBGIRLS, SOYOU, MAMAMOO+, TAN, xikers, The Wind, HORI7ON, TREASURE, SHOWNU × HYUNGWON, INFINITE, YOUNGTAK</font>`
   },
 
   {
