@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1194회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, ICHILLIN', KWON EUN BI, ITZY, SOYOU, OH MY GIRL, NewJeans, MAMAMOO+, HORI7ON, xikers, NINE.i, The Wind, TREASURE, SHOWNU × HYUNGWON, INFINITE, YOUNGTAK</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
