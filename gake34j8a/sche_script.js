@@ -69,7 +69,7 @@ const musicGuid =[
     "musicname": "2023 KPOP LUX X SBS Super Concert in Madrid",
     "musicEP": "",
     "musictime": "23:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">STAYC、IVE、Xikers、ATEEZ、CRAVITY、ENHYPEN、SHINee</font>`
   }
 ];
 
