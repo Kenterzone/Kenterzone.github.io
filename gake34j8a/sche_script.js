@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1175회",
+    "musicEP": "1176회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ITZY, KWON EUN BI, SOYOU, OH MY GIRL, NewJeans, MAMAMOO+, MIRAE, SEVENUS, HORI7ON, NINE.i, TAN, xikers, The Wind, 8TURN, SHOWNU × HYUNGWON, INFINITE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "820회",
+    "musicEP": "821회",
     "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', ITZY, KWON EUN BI, OH MY GIRL, BBGIRLS, SOYOU, MAMAMOO+, TAN, xikers, The Wind, HORI7ON, TREASURE, SHOWNU × HYUNGWON, INFINITE, YOUNGTAK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -65,10 +65,10 @@ const musicGuid =[
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
-    "date_date": "05.7",
-    "musicname": "-",
+    "date_date": "08.6",
+    "musicname": "2023 KPOP LUX X SBS Super Concert in Madrid",
     "musicEP": "",
-    "musictime": "--:--KST",
+    "musictime": "23:05KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
 ];
