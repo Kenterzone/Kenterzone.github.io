@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "336회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, SATURDAY, ILY:1, KWON EUN BI, BBGIRLS, 8TURN, BXB, HORI7ON, TAN, YOUNITE, xikers, NINE.i, The Wind, SEVENUS</font>`
   },
   {
     "mair": "nomal",
@@ -59,17 +59,17 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1194회",
+    "musicEP": "1195회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, ICHILLIN', KWON EUN BI, ITZY, SOYOU, OH MY GIRL, NewJeans, MAMAMOO+, HORI7ON, xikers, NINE.i, The Wind, TREASURE, SHOWNU × HYUNGWON, INFINITE, YOUNGTAK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
     "date_date": "08.6",
-    "musicname": "2023 KPOP LUX X SBS Super Concert in Madrid",
+    "musicname": "-",
     "musicEP": "",
-    "musictime": "23:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">STAYC、IVE、Xikers、ATEEZ、CRAVITY、ENHYPEN、SHINee</font>`
+    "musictime": "--:--KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
 ];
 
