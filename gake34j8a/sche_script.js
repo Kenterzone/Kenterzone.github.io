@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "487회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, ILY:1, KWON EUN BI, BBGIRLS, 8TURN, The Wind, NINE.i, HORI7ON, xikers, TAN, Hui＆Wooseok(PENTAGON)</font>`
   },
   {
     "mair": "nomal",
