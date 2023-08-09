@@ -39,7 +39,7 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Fri.",
     "musiconoroff" : true,
-    "musicname": "Music Bank",
+    "musicname": "xMusic Bank",
     "musicEP": "1176회",
     "musictime": "17:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
@@ -64,12 +64,12 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
-    "date": "Sun.",
-    "date_date": "08.6",
-    "musicname": "-",
+    "date": "Fri.",
+    "date_date": "08.11",
+    "musicname": "2023 World Scout Jamboree K-POP SUPER LIVE",
     "musicEP": "",
-    "musictime": "--:--KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "19:00KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ITZY, NEWJEANS, fromis_9, Kwon EunBi, Jo YuRi, HolyBang, KARD, MAMAMMOO, Shownu X Hyungwon, ZEROBASEONE, Kang Daniel, P1Harmony, THE NEW SIX(TNX), ATBO, xikers, Libelante, THE BOYZ, NCT DREAM</font>`
   }
 ];
 
