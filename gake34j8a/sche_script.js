@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "336회",
+    "musicEP": "337회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, SATURDAY, ILY:1, KWON EUN BI, BBGIRLS, 8TURN, BXB, HORI7ON, TAN, YOUNITE, xikers, NINE.i, The Wind, SEVENUS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "809회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, JEON SOMI, JO YURI, KWON EUN BI, Kim Wansun, ITZY, BBGIRLS, n.SSign, TAN, HORI7ON, NINE.i, BXB, xikers, The Wind, DXTEEN, THE BOYZ, NCT DREAM, YOUNGTAK</font>`
   },
 
   {
