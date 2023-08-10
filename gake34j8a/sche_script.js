@@ -69,7 +69,7 @@ const musicGuid =[
     "musicname": "2023 World Scout Jamboree K-POP SUPER LIVE",
     "musicEP": "",
     "musictime": "19:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ITZY, NEWJEANS, fromis_9, Kwon EunBi, Jo YuRi, HolyBang, KARD, MAMAMMOO, Shownu X Hyungwon, ZEROBASEONE, Kang Daniel, P1Harmony, THE NEW SIX(TNX), ATBO, xikers, Libelante, THE BOYZ, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ITZY, NEWJEANS, IVE, fromis_9, Kwon EunBi, Jo YuRi, HolyBang, KARD, MAMAMMOO, Shownu X Hyungwon, ZEROBASEONE, Kang Daniel, P1Harmony, THE NEW SIX(TNX), ATBO, xikers, Libelante, THE BOYZ, NCT DREAM</font>`
   }
 ];
 
