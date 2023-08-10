@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "487회",
+    "musicEP": "488회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, ILY:1, KWON EUN BI, BBGIRLS, 8TURN, The Wind, NINE.i, HORI7ON, xikers, TAN, Hui＆Wooseok(PENTAGON)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -37,9 +37,9 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Fri.",
+    "date": "xFri.",
     "musiconoroff" : true,
-    "musicname": "xMusic Bank",
+    "musicname": "Music Bank",
     "musicEP": "1176회",
     "musictime": "17:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
@@ -48,10 +48,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core",
+    "musicname": "Music Core X Ulsan Summer Festival(2023.0807-RECORDED)",
     "musicEP": "821회",
-    "musictime": "15:16KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:11KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', Kim SoYeon, STAYC, JO YURI, NMIXX, SOYOU, BBGIRLS, ITZY, KWON EUNBI, IVE, SEVENUS, xikers, The Wind, ZEROBASEONE, HORI7ON, TAN, ATBO, WOODZ, LEE MUJIN, TAEYONG</font>`
   },
 
   {
