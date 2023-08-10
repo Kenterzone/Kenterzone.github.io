@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "809회",
+    "musicEP": "810회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, JEON SOMI, JO YURI, KWON EUN BI, Kim Wansun, ITZY, BBGIRLS, n.SSign, TAN, HORI7ON, NINE.i, BXB, xikers, The Wind, DXTEEN, THE BOYZ, NCT DREAM, YOUNGTAK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
