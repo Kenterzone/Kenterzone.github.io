@@ -14,30 +14,30 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "337회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, ARTBEAT v, LIMELIGHT, KWON EUN BI, JO YURI, 8TURN, BXB, HORI7ON, LUN8, n.SSign, TAN, XEED, xikers, NINE.i, The Wind, SEVENUS</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "488회",
+    "musicEP": "489회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
-    "musicEP": "810회",
+    "musicEP": "811회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
-    "date": "xFri.",
+    "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1176회",
@@ -48,10 +48,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core X Ulsan Summer Festival(2023.0807-RECORDED)",
+    "musicname": "Music Core",
     "musicEP": "821회",
     "musictime": "15:11KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', Kim SoYeon, STAYC, JO YURI, NMIXX, SOYOU, BBGIRLS, ITZY, KWON EUNBI, IVE, SEVENUS, xikers, The Wind, ZEROBASEONE, HORI7ON, TAN, ATBO, WOODZ, LEE MUJIN, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,17 +59,17 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1195회",
+    "musicEP": "1196회",
     "musictime": "14:43KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ITZY, NewJeans, KWON EUNBI, BBGIRLS, JO YURI, JEON SOMI, xikers, NINE.i, The Wind, TAN, n.SSign, SEVENUS, TMC, TREASURE, THE BOYZ, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
     "date_date": "08.11",
-    "musicname": "2023 World Scout Jamboree K-POP SUPER LIVE",
+    "musicname": "--",
     "musicEP": "",
-    "musictime": "19:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ITZY, NEWJEANS, IVE, fromis_9, Kwon EunBi, Jo YuRi, HolyBang, KARD, MAMAMMOO, Shownu X Hyungwon, ZEROBASEONE, Kang Daniel, P1Harmony, THE NEW SIX(TNX), ATBO, xikers, Libelante, THE BOYZ, NCT DREAM</font>`
+    "musictime": "--:--KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   }
 ];
 
