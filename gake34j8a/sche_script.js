@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "337회",
+    "musicEP": "338회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, ARTBEAT v, LIMELIGHT, KWON EUN BI, JO YURI, 8TURN, BXB, HORI7ON, LUN8, n.SSign, TAN, XEED, xikers, NINE.i, The Wind, SEVENUS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,16 +42,16 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1176회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, tripleS LOVElution, ILY:1, STAYC, ITZY, KWON EUN BI, JO YURI, JIHYO(TWICE), n.SSign, SEVENUS, ABLUE, Dynamicduo & DJ Premier, The Wind, DKB, U-KNOW, THE BOYZ</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core",
-    "musicEP": "821회",
+    "musicname": "Music Core X 2023 CHEONAN K-CULTURE EXPO",
+    "musicEP": "822회",
     "musictime": "15:11KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, Kisum(feat. Truedy), ICHILLIN', STAYC, JEON SOMI, KWON EUNBI, JO YURI, OH MY GIRL, VIVIZ, Sandara Park, Dynamicduo, YUGYEOM, HORI7ON, Libelante, LUCY, TAN, ATBO, The Wind, THE BOYZ</font>`
   },
 
   {
