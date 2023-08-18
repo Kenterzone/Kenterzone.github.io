@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1176회",
+    "musicEP": "1177회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, tripleS LOVElution, ILY:1, STAYC, ITZY, KWON EUN BI, JO YURI, JIHYO(TWICE), n.SSign, SEVENUS, ABLUE, Dynamicduo & DJ Premier, The Wind, DKB, U-KNOW, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core X 2023 CHEONAN K-CULTURE EXPO",
     "musicEP": "822회",
-    "musictime": "15:11KST",
+    "musictime": "15:21KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, Kisum(feat. Truedy), ICHILLIN', STAYC, JEON SOMI, KWON EUNBI, JO YURI, OH MY GIRL, VIVIZ, Sandara Park, Dynamicduo, YUGYEOM, HORI7ON, Libelante, LUCY, TAN, ATBO, The Wind, THE BOYZ</font>`
   },
 
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1196회",
-    "musictime": "14:43KST",
+    "musictime": "14:35KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, PRIMROSE, ILY:1, KWON EUNBI, JO YURI, STAYC, JEON SOMI, JIHYO(TWICE), n.SSign, XEED, SEVENUS, DKB, BXB, The Wind, THE BOYZ, U-KNOW</font>`
   },  ////SP_GUIDE/////
   {
