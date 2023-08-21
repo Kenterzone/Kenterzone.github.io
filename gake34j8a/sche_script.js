@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "338회",
     "musictime": "18:00KST",
@@ -48,10 +48,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core X 2023 CHEONAN K-CULTURE EXPO",
-    "musicEP": "822회",
+    "musicname": "Music Core",
+    "musicEP": "823회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, Kisum(feat. Truedy), ICHILLIN', STAYC, JEON SOMI, KWON EUNBI, JO YURI, OH MY GIRL, VIVIZ, Sandara Park, Dynamicduo, YUGYEOM, HORI7ON, Libelante, LUCY, TAN, ATBO, The Wind, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Z</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1196회",
+    "musicEP": "1197회",
     "musictime": "14:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, PRIMROSE, ILY:1, KWON EUNBI, JO YURI, STAYC, JEON SOMI, JIHYO(TWICE), n.SSign, XEED, SEVENUS, DKB, BXB, The Wind, THE BOYZ, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
