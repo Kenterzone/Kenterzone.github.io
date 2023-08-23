@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "811회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, ADYA, STAYC, YERIN, EVERGLOW, AKMU, ITZY, JEON SOMI, HYO, aespa, JIHYO(TWICE), n.SSign, U-KNOW, TIOT, THE BOYZ Special Unit, VANNER, xikers</font>`
   },
 
   {
