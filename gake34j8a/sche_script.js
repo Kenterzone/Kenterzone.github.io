@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1177회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ADYA, XG, tripleS LOVElution, SECRET NUMBER, EVERGLOW, NewJeans, STAYC, YERIN, JIHYO(TWICE), ITZY, HYO, n.SSign, xikers, THE BOYZ Special Unit, DKB, LE'V, U-KNOW</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "823회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Z</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, EVERGLOW, STAYC, ITZY, JEON SOMI, JIHYO(TWICE), HYO, AKMU, n.SSign, THE BOYZ Special Unit, VANNER, PLAVE, xikers, LEE CHANWON, U-KNOW</font>`
   },
 
   {
