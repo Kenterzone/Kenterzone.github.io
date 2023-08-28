@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "338회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT v, tripleS LOVElution, XG, LIMELIGHT, EVERGLOW, SECRET NUMBER, STAYC, YERIN, LE'V, n.SSign, TIOT, VANNER, xikers, DKB, ABLUE, LEE CHANWON</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "823회",
+    "musicEP": "824회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, EVERGLOW, STAYC, ITZY, JEON SOMI, JIHYO(TWICE), HYO, AKMU, n.SSign, THE BOYZ Special Unit, VANNER, PLAVE, xikers, LEE CHANWON, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1197회",
+    "musicEP": "1198회",
     "musictime": "14:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, NewJeans, SECRET NUMBER, EVERGLOW, ITZY, STAYC, JEON SOMI, JIHYO(TWICE), HYO, AKMU, xikers, n.SSign, RIIZE, TIOT, THE BOYZ Special Unit, TREASURE, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
