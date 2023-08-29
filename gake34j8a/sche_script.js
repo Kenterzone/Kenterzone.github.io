@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "338회",
+    "musicEP": "339회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTBEAT v, tripleS LOVElution, XG, LIMELIGHT, EVERGLOW, SECRET NUMBER, STAYC, YERIN, LE'V, n.SSign, TIOT, VANNER, xikers, DKB, ABLUE, LEE CHANWON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
