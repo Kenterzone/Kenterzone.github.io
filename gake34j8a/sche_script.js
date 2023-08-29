@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "489회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, XG, ARTBEAT v, LIMELIGHT, SECRET NUMBER, EVERGLOW, YERIN, TIOT, LE'V, VANNER, DKB, xikers, n.SSign</font>`
   },
   {
     "mair": "nomal",
