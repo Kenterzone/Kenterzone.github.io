@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "489회",
+    "musicEP": "490회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, XG, ARTBEAT v, LIMELIGHT, SECRET NUMBER, EVERGLOW, YERIN, TIOT, LE'V, VANNER, DKB, xikers, n.SSign</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "824회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, tripleS LOVElution, Kim Soyeon, STAYC, EVERGLOW, YERIN, ITZY, HYO, xikers, n.SSign, TIOT, Woshi, VANNER, NCT U</font>`
   },
 
   {
