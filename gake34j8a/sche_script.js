@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "812회",
+    "musicEP": "813회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, tripleS LOVElution, H1-KEY, STAYC, EVERGLOW, ITZY, YERIN, JEON SOMI, HYO, TIOT, n.SSign, xikers, KIM WOOJIN, LE'V, VANNER, ENHYPEN, BAEKHO, NCT U</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1178회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, X:IN, LIMELIGHT, cignature, EVERGLOW, HEEO, STAYC, ITZY, H1-KEY, YERIN, HYO, BXB, n.SSign, xikers, KIM WOOJIN, BAEKHO, NCT U</font>`
   },
   {
     "mair": "nomal",
