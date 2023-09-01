@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1198회",
     "musictime": "14:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, LIMELIGHT, PRIMROSE, cignature, STAYC, EVERGLOW, H1-KEY, YERIN, ITZY, JEON SOMI, HYO, n.SSign, xikers, Lee Chan Won, BAEKHO, NCT U</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
