@@ -14,14 +14,14 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "339회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, PRIMROSE, XG, cignature, H1-KEY, EVERGLOW, YERIN, TIOT, xikers, XODIAC, LE'V, VANNER, KIM WOOJIN</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "490회",
+    "musicEP": "491회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1178회",
+    "musicEP": "1179회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, X:IN, LIMELIGHT, cignature, EVERGLOW, HEEO, STAYC, ITZY, H1-KEY, YERIN, HYO, BXB, n.SSign, xikers, KIM WOOJIN, BAEKHO, NCT U</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "824회",
+    "musicEP": "825회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIMELIGHT, tripleS LOVElution, Kim Soyeon, STAYC, EVERGLOW, YERIN, ITZY, HYO, xikers, n.SSign, TIOT, Woshi, VANNER, NCT U</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1198회",
+    "musicEP": "1199회",
     "musictime": "14:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS LOVElution, LIMELIGHT, PRIMROSE, cignature, STAYC, EVERGLOW, H1-KEY, YERIN, ITZY, JEON SOMI, HYO, n.SSign, xikers, Lee Chan Won, BAEKHO, NCT U</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
