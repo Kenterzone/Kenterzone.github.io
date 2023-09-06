@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "339회",
+    "musicEP": "340회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, PRIMROSE, XG, cignature, H1-KEY, EVERGLOW, YERIN, TIOT, xikers, XODIAC, LE'V, VANNER, KIM WOOJIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "813회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIM SEJEONG, PURPLE KISS, cignature, EVERGLOW, H1-KEY, Rocket Punch, LEE CHAE YEON, HWASA, BOYNEXTDOOR, xikers, TRENDZ, RIIZE, VANNER, SUNG HAN BIN, Young K(DAY6), NCT U</font>`
   },
 
   {
