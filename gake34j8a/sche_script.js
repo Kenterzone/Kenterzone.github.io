@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1179회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cignature, H1-KEY, PURPLE KISS, EVERGLOW, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, HWASA, BOYNEXTDOOR, TRENDZ, VANNER, xikers, RIIZE, Young K(DAY6), NCT U</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "825회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PURPLE KISS, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, HWASA, xikers, TIOT, LE'V, RIIZE, Jeong Dong Won, VANNER, Young K(DAY6), NCT U</font>`
   },
 
   {
