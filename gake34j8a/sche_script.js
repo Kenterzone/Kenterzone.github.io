@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "813회",
+    "musicEP": "814회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIM SEJEONG, PURPLE KISS, cignature, EVERGLOW, H1-KEY, Rocket Punch, LEE CHAE YEON, HWASA, BOYNEXTDOOR, xikers, TRENDZ, RIIZE, VANNER, SUNG HAN BIN, Young K(DAY6), NCT U</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1199회",
     "musictime": "14:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cignature, H1-KEY, EVERGLOW, PURPLE KISS, Rocket Punch, KIM SEJEONG, LEE CHAE YEON, HWASA, VANNER, BOYNEXTDOOR, TRENDZ, xikers, RIIZE, NCT U, Young K(DAY6), V(BTS)</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
