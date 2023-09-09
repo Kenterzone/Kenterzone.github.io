@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1179회",
+    "musicEP": "1180회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cignature, H1-KEY, PURPLE KISS, EVERGLOW, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, HWASA, BOYNEXTDOOR, TRENDZ, VANNER, xikers, RIIZE, Young K(DAY6), NCT U</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "825회",
+    "musicEP": "826회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PURPLE KISS, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, HWASA, xikers, TIOT, LE'V, RIIZE, Jeong Dong Won, VANNER, Young K(DAY6), NCT U</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1199회",
-    "musictime": "14:35KST",
+    "musictime": "14:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">cignature, H1-KEY, EVERGLOW, PURPLE KISS, Rocket Punch, KIM SEJEONG, LEE CHAE YEON, HWASA, VANNER, BOYNEXTDOOR, TRENDZ, xikers, RIIZE, NCT U, Young K(DAY6), V(BTS)</font>`
   },  ////SP_GUIDE/////
   {
