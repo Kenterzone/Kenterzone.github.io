@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "340회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, cignature, H1-KEY, PURPLE KISS, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, TIOT, XODIAC, LE'V, BOYNEXTDOOR, JAECHAN, HAN, KIM WOOJIN, TRENDZ</font>`
   },
   {
     "mair": "nomal",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1199회",
+    "musicEP": "1200회",
     "musictime": "14:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cignature, H1-KEY, EVERGLOW, PURPLE KISS, Rocket Punch, KIM SEJEONG, LEE CHAE YEON, HWASA, VANNER, BOYNEXTDOOR, TRENDZ, xikers, RIIZE, NCT U, Young K(DAY6), V(BTS)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
