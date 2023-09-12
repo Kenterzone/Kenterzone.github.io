@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "491회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, cignature, PURPLE KISS, H1-KEY, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, BOYNEXTDOOR, XODIAC, LE'V, JAECHAN, KIM WOOJIN, TRENDZ</font>`
   },
   {
     "mair": "nomal",
