@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "340회",
+    "musicEP": "341회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, cignature, H1-KEY, PURPLE KISS, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, TIOT, XODIAC, LE'V, BOYNEXTDOOR, JAECHAN, HAN, KIM WOOJIN, TRENDZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "814회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SEEN HYUN HEE(feat.bandi), mimiirose, HUR YOUNGJI, H1-KEY, PURPLE KISS, KIM SEJEONG, Rocket Punch, EL7Z UP, LEE CHAE YEON, HWASA, POW, BOYNEXTDOOR, RIIZE, TRENDZ, CRAVITY, Young K(DAY6), V(BTS), KEY</font>`
   },
 
   {
