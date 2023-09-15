@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "814회",
+    "musicEP": "815회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEEN HYUN HEE(feat.bandi), mimiirose, HUR YOUNGJI, H1-KEY, PURPLE KISS, KIM SEJEONG, Rocket Punch, EL7Z UP, LEE CHAE YEON, HWASA, POW, BOYNEXTDOOR, RIIZE, TRENDZ, CRAVITY, Young K(DAY6), V(BTS), KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1200회",
-    "musictime": "14:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "14:40KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, mimiirose, X:IN, H1-KEY, HUR YOUNGJI, Rocket Punch, EL7Z UP, LEE CHAE YEON, KIM SEJEONG, HWASA, FANTASY BOYS, POW, RIIZE, BOYNEXTDOOR, CRAVITY, Young K(DAY6), KEY</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
