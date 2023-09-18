@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "341회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, X:IN, Hong Ji Yun, cignature, EL7Z UP, H1-KEY, PURPLE KISS, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, BOYNEXTDOOR, TRENDZ, JAECHAN, JUROKEY, RIIZEHangronan, CRAVITY</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1180회",
+    "musicEP": "1181회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEEN HYUN HEE(feat.bandi), mimiirose, H1-KEY, HUR YOUNGJI, PURPLE KISS, Rocket Punch, LEE CHAE YEON, KIM SEJEONG, HWASA, POW, BOYNEXTDOOR, RIIZE, TRENDZ, CRAVITY, Young K(DAY6), KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "826회",
+    "musicEP": "827회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cignature, PURPLE KISS, Rocket Punch, EL7Z UP, KIM SEJEONG, LEE CHAE YEON, HUR YOUNGJI, HWASA POW, FANTASY BOYS, TAN, TIOT, RIIZE, JAECHAN, CRAVITY, Young K(DAY6), KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1200회",
+    "musicEP": "1201회",
     "musictime": "14:40KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, mimiirose, X:IN, H1-KEY, HUR YOUNGJI, Rocket Punch, EL7Z UP, LEE CHAE YEON, KIM SEJEONG, HWASA, FANTASY BOYS, POW, RIIZE, BOYNEXTDOOR, CRAVITY, Young K(DAY6), KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
