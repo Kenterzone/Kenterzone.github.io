@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "341회",
+    "musicEP": "342회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, X:IN, Hong Ji Yun, cignature, EL7Z UP, H1-KEY, PURPLE KISS, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, BOYNEXTDOOR, TRENDZ, JAECHAN, JUROKEY, RIIZEHangronan, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "492회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HEEO, mimiirose, cignature, PURPLE KISS, EL7Z UP, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, BOYNEXTDOOR, TRENDZ, JAECHAN, JO1</font>`
   },
   {
     "mair": "nomal",
