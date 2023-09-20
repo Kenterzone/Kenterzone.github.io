@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "815회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, BLACKSWAN, cignature, APOKI, EL7Z UP, PURPLE KISS, H1-KEY, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, HWASA, YOASOBI, BOYNEXTDOOR, FANTASY BOYS, EVNNE, TEMPEST, TRENDZ, POW, JAECHAN, RIIZE, JO1, CRAVITY, KEY</font>`
   },
 
   {
