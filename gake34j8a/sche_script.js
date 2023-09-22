@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "492회",
+    "musicEP": "493회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HEEO, mimiirose, cignature, PURPLE KISS, EL7Z UP, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, BOYNEXTDOOR, TRENDZ, JAECHAN, JO1</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "815회",
+    "musicEP": "816회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, BLACKSWAN, cignature, APOKI, EL7Z UP, PURPLE KISS, H1-KEY, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, HWASA, YOASOBI, BOYNEXTDOOR, FANTASY BOYS, EVNNE, TEMPEST, TRENDZ, POW, JAECHAN, RIIZE, JO1, CRAVITY, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1181회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, EL7Z UP, PURPLE KISS, H1-KEY, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, POW, BOYNEXTDOOR, EVNNE, FANTASY BOYS, RIIZE, TEMPEST, TRENDZ, CRAVITY</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "827회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, Jo Jung Min, Hong Ji Yun, EL7Z UP, PURPLE KISS, Rocket Punch, LEE CHAE YEON, FANTASY BOYS, EVNNE, POW, TRENDZ, CRAVITY, RIIZE, TEMPEST, KEY</font>`
   },
 
   {
