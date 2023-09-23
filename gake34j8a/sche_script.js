@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1181회",
+    "musicEP": "1182회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, EL7Z UP, PURPLE KISS, H1-KEY, Rocket Punch, LEE CHAE YEON, HUR YOUNGJI, POW, BOYNEXTDOOR, EVNNE, FANTASY BOYS, RIIZE, TEMPEST, TRENDZ, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -57,7 +57,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1201회",
     "musictime": "14:40KST",
