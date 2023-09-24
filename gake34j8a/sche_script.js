@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "342회",
     "musictime": "18:00KST",
@@ -19,7 +19,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "493회",
     "musictime": "18:04KST",
@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "816회",
     "musictime": "18:08KST",
@@ -38,7 +38,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1182회",
     "musictime": "17:15KST",
@@ -47,11 +47,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
-    "musicEP": "827회",
+    "musicEP": "828회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">mimiirose, Jo Jung Min, Hong Ji Yun, EL7Z UP, PURPLE KISS, Rocket Punch, LEE CHAE YEON, FANTASY BOYS, EVNNE, POW, TRENDZ, CRAVITY, RIIZE, TEMPEST, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
