@@ -19,20 +19,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "493회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, Billlie, PURPLE KISS, EL7Z UP, BOYNEXTDOOR, EVNNE, FANTASY BOYS, TEMPEST, THE NEW SIX (TNX), ONEUS, JAECHAN</font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
-    "musicname": "M!CountDown",
+    "musiconoroff" : true,
+    "musicname": "Mnet KCON LA 2023 X M!CountDown",
     "musicEP": "816회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, Lapillus, Kep1er, NMIXX, ITZY, EVERGLOW, (G)I-DLE, IVE, CRAVITY, SHOWNU X HYUNGWON, TAEMIN, TAEYONG, WayV, ATEEZ, INI, RAIN, xikers, ZEROBASEONE, JO1, Stray Kids, THE BOYZ</font>`
   },
 
   {
