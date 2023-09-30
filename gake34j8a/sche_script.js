@@ -64,11 +64,11 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
-    "date": "Fri.",
+    "date": "Tue.",
     "date_date": "10.10",
-    "musicname": "--",
+    "musicname": "2023 THE FACT MUSIC AWARDS (TMA)",
     "musicEP": "",
-    "musictime": "--:--KST",
+    "musictime": "18:30KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8">NewJeans、NMIXX、aespa、ITZY、KWON EUNBI、IVE、JANNABI、Lim YoungWoong、Lee ChanWon、ZEROBASEONE、BOYNEXTDOOR、xikers、RIIZE、SEVENTEEN、Stray Kids、ATEEZ、TREASURE</font>`
   }
 ];
