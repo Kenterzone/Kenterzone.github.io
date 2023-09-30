@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "493회",
+    "musicEP": "494회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, Billlie, PURPLE KISS, EL7Z UP, BOYNEXTDOOR, EVNNE, FANTASY BOYS, TEMPEST, THE NEW SIX (TNX), ONEUS, JAECHAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "Mnet KCON LA 2023 X M!CountDown",
-    "musicEP": "816회",
+    "musicname": "M!CountDown",
+    "musicEP": "817회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, Lapillus, Kep1er, NMIXX, ITZY, EVERGLOW, (G)I-DLE, IVE, CRAVITY, SHOWNU X HYUNGWON, TAEMIN, TAEYONG, WayV, ATEEZ, INI, RAIN, xikers, ZEROBASEONE, JO1, Stray Kids, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -65,11 +65,11 @@ const musicGuid =[
   },  ////SP_GUIDE/////
   {
     "date": "Fri.",
-    "date_date": "08.11",
+    "date_date": "10.10",
     "musicname": "--",
     "musicEP": "",
     "musictime": "--:--KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8">NewJeans、NMIXX、aespa、ITZY、KWON EUNBI、IVE、JANNABI、Lim YoungWoong、Lee ChanWon、ZEROBASEONE、BOYNEXTDOOR、xikers、RIIZE、SEVENTEEN、Stray Kids、ATEEZ、TREASURE</font>`
   }
 ];
 
