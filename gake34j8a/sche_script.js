@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "817회",
     "musictime": "18:08KST",
@@ -57,11 +57,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1201회",
     "musictime": "14:40KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kep1er, NiziU, (G)I-DLE, OH MY GIRL, INI, TEMPEST, ZEROBASEONE, THE NEW SIX (TNX), NCT DREAM, KEY, ATEEZ</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Tue.",
