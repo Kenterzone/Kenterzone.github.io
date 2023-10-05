@@ -58,9 +58,9 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo",
+    "musicname": "Inkigayo LIVE IN TOKYO",
     "musicEP": "1201회",
-    "musictime": "14:40KST",
+    "musictime": "15:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Kep1er, NiziU, (G)I-DLE, OH MY GIRL, INI, TEMPEST, ZEROBASEONE, THE NEW SIX (TNX), NCT DREAM, KEY, ATEEZ</font>`
   },  ////SP_GUIDE/////
   {
