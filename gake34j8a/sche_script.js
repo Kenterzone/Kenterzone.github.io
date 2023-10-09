@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "342회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, HEEO, Ohelen, Kep1er, EPEX, EVNNE, FANTASY BOYS, ROFESTA, JUST B, TEMPEST, ONEUS, JUNGSOOMIN</font>`
   },
   {
     "mair": "nomal",
@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "817회",
     "musictime": "18:08KST",
@@ -38,7 +38,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1182회",
     "musictime": "17:15KST",
@@ -47,7 +47,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "828회",
     "musictime": "15:21KST",
@@ -58,8 +58,8 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo LIVE IN TOKYO",
-    "musicEP": "1201회",
+    "musicname": "Inkigayo",
+    "musicEP": "1202회",
     "musictime": "15:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Kep1er, NiziU, (G)I-DLE, OH MY GIRL, INI, TEMPEST, ZEROBASEONE, THE NEW SIX (TNX), NCT DREAM, KEY, ATEEZ</font>`
   },  ////SP_GUIDE/////
