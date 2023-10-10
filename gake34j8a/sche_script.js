@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "494회",
+    "musicEP": "495회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, Kep1er, EPEX, EVNNE, FANTASY BOYS, THE NEW SIX (TNX), withus, JUST B, TEMPEST, ONEUS, JUNGSOOMIN</font>`
   },
   {
     "mair": "nomal",
