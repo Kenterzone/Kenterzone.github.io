@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "342회",
+    "musicEP": "343회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, HEEO, Ohelen, Kep1er, EPEX, EVNNE, FANTASY BOYS, ROFESTA, JUST B, TEMPEST, ONEUS, JUNGSOOMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "817회",
+    "musicEP": "818회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS EVOLution, XG, 1MILLION, LIGHTSUM, Rothy, Ailee, Kep1er, Whee In(MAMAMOO), Xdinary Heroes, 82MAJOR, EVNNE, EPEX, ONF, ONEUS, Lim Young Woong, TEMPEST, CRAVITY, NCT 127</font>`
   },
 
   {
