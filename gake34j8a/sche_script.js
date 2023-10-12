@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1182회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">XG, tripleS EVOLution, LIGHTSUM, Kep1er, Ailee, IVE, Whee In, Xdinary Heroes, EVNNE, FANTASY BOYS, n.SSign, TEMPEST, ONF, ONEUS, JUNG KOOK, CRAVITY, TOMORROW X TOGETHER, NCT 127</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "828회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS EVOLution, Kep1er, LIGHTSUM, Baek A, IVE, Ailee(feat. Kim DaYeon of Kep1er), Xdinary Heroes, FANTASY BOYS, EVNNE, n.SSign, 82MAJOR, ONF, ONEUS, CRAVITY, NCT 127, Lim Young Woong</font>`
   },
 
   {
