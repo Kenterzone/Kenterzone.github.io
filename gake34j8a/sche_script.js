@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1202회",
+    "musicEP": "1203회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kep1er, NiziU, (G)I-DLE, OH MY GIRL, INI, TEMPEST, ZEROBASEONE, THE NEW SIX (TNX), NCT DREAM, KEY, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Tue.",
