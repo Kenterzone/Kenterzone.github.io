@@ -38,7 +38,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1183회",
     "musictime": "17:15KST",
