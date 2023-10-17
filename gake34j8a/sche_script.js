@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "496회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Loossemble, tripleS EVOLution, LIGHTSUM, Rothy, Kep1er, 82MAJOR, EPEX, EVNNE, FANTASY BOYS, n.SSign, THE NEW SIX (TNX), Xdinary Heroes, ONF, ONEUS, JANG WOO HYUK</font>`
   },
   {
     "mair": "nomal",
