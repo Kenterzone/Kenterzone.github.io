@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "819회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, Band UNI, LIGHTSUM, Rothy, Kep1er, IVE, Whee In, SUNMI, INI, Xdinary Heroes, n.SSign, ONF, ONEUS, YOUNITE, EVNNE, CRAVITY, KINGDOM, TOMORROW X TOGETHER, NCT 127</font>`
   },
 
   {
