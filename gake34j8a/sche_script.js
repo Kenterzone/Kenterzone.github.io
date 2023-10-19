@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "496회",
+    "musicEP": "497회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Loossemble, tripleS EVOLution, LIGHTSUM, Rothy, Kep1er, 82MAJOR, EPEX, EVNNE, FANTASY BOYS, n.SSign, THE NEW SIX (TNX), Xdinary Heroes, ONF, ONEUS, JANG WOO HYUK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "819회",
+    "musicEP": "820회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, Band UNI, LIGHTSUM, Rothy, Kep1er, IVE, Whee In, SUNMI, INI, Xdinary Heroes, n.SSign, ONF, ONEUS, YOUNITE, EVNNE, CRAVITY, KINGDOM, TOMORROW X TOGETHER, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "829회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS EVOLution, Rothy, LIGHTSUM, Queenz Eye, IVE, SUNMI, Xdinary Heroes, FANTASY BOYS, ONF, ONEUS, n.SSign, SUPERKIND, POW, 82MAJOR, CRAVITY, YOUNITE, KINGDOM, NCT 127</font>`
   },
 
   {
