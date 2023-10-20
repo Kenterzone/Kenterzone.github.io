@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1202회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baek A, YOUNG POSSE, tripleS EVOLution, IVE, SUNMI, INI, Xdinary Heroes, EPEX, n.SSign, EVNNE, KINGDOM, YOUNITE, 82MAJOR, ONF, CRAVITY, Jang Woo Hyuk, TOMORROW X TOGETHER, NCT 127</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Tue.",
