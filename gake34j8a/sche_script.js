@@ -12,7 +12,7 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
-    "musicEP": "343회",
+    "musicEP": "345회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "829회",
+    "musicEP": "830회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS EVOLution, Rothy, LIGHTSUM, Queenz Eye, IVE, SUNMI, Xdinary Heroes, FANTASY BOYS, ONF, ONEUS, n.SSign, SUPERKIND, POW, 82MAJOR, CRAVITY, YOUNITE, KINGDOM, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1202회",
+    "musicEP": "1203회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baek A, YOUNG POSSE, tripleS EVOLution, IVE, SUNMI, INI, Xdinary Heroes, EPEX, n.SSign, EVNNE, KINGDOM, YOUNITE, 82MAJOR, ONF, CRAVITY, Jang Woo Hyuk, TOMORROW X TOGETHER, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Tue.",
