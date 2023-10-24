@@ -23,16 +23,16 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "497회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, tripleS EVOLution, LIGHTSUM, Billlie, Queenz Eye, JINI, CHUU, Xdinary Heroes, 82MAJOR, EPEX, JUST B, KINGDOM, n.SSign, ONF</font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "M!CountDown",
+    "musicname": "KCON SAUDI ARABIA 2023 X M!CountDown",
     "musicEP": "820회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">EL7Z UP, EVERGLOW, Dreamcatcher, KARD, OH MY GIRL, HYOLYN, RIIZE, THE NEW SIX(TNX), EVNNE, 8TURN, TEMPEST, HIGHLIGHT, SUPER JUNIOR-D&E, SUPER JUNIOR</font>`
   },
 
   {
