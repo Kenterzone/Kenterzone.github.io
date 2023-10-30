@@ -19,9 +19,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "498회",
+    "musicEP": "499회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1183회",
+    "musicEP": "1184회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Queenz Eye, Billlie, LE SSERAFIM, IVE, SUNMI, Jessi, Double Decker, Xdinary Heroes, YOUNITE, POW, RIIZE, 82MAJOR, KINGDOM, GHOST9, ONF, TOMORROW X TOGETHER, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "830회",
+    "musicEP": "831회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Band UNI, tripleS EVOLution, LIGHTSUM, Billlie, Queenz Eye, IVE, SUNMI, Xdinary Heroes, FANTASY BOYS, 82MAJOR, POW, RIIZE, YOUNITE, KINGDOM, ONF, BUMJIN, GHOST9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1203회",
+    "musicEP": "1204회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, tripleS EVOLution, Billlie, LIGHTSUM, SUNMI, LE SSERAFIM, IVE, Xdinary Heroes, POW, RIIZE, YOUNITE, n.SSign, 82MAJOR, ONF, KINGDOM, TOMORROW X TOGETHER, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Tue.",
