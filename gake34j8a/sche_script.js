@@ -29,10 +29,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "M!CountDown",
+    "musicname": "M!CountDown IN FRANCE",
     "musicEP": "821회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">EL7Z UP, Dreamcatcher, ZEROBASEONE, K-TIGERS, TREASURE, ATEEZ, NCT DREAM, SHOWNU X HYUNGWON (MONSTA X), TAEMIN, PSY</font>`
   },
 
   {
