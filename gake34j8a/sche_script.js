@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1184회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, eite, NiziU, Weeekly, VIVIZ, Catch The Young, RIIZE, NINE.i, KINGDOM, Moon Jong Up, JANG WOOHYUK, CRAVITY, GHOST9, YOUNITE, Golden Child, SEVENTEEN, TAEMIN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "831회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HeeJin(ARTMS), NiziU, LIGHTSUM, Billlie, Weeekly, VIVIZ, Catch The Young, RIIZE, YOUNITE, Golden Child, WayV, JANG MIN HO, ONF, CRAVITY, TAEMIN</font>`
   },
 
   {
