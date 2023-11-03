@@ -29,10 +29,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "M!CountDown IN FRANCE",
-    "musicEP": "821회",
+    "musicname": "M!CountDown",
+    "musicEP": "822회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">EL7Z UP, Dreamcatcher, ZEROBASEONE, K-TIGERS, TREASURE, ATEEZ, NCT DREAM, SHOWNU X HYUNGWON (MONSTA X), TAEMIN, PSY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,16 +60,16 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1204회",
-    "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">eite, NiziU, Band UNI , LIGHTSUM, Billlie, Weeekly, VIVIZ, NINE.i, RIIZE, Moon Jong Up, SUPERKIND, KINGDOM, Golden Child, CRAVITY, SEVENTEEN, TAEMIN</font>`
   },  ////SP_GUIDE/////
   {
-    "date": "Tue.",
-    "date_date": "10.10",
-    "musicname": "2023 THE FACT MUSIC AWARDS (TMA)",
+    "date": "Sun.",
+    "date_date": "11.5",
+    "musicname": "Music Bank in Mexico",
     "musicEP": "",
-    "musictime": "18:30KST",
-    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8">NewJeans、NMIXX、aespa、ITZY、KWON EUNBI、IVE、JANNABI、Lim YoungWoong、Lee ChanWon、ZEROBASEONE、BOYNEXTDOOR、xikers、RIIZE、SEVENTEEN、Stray Kids、ATEEZ、TREASURE</font>`
+    "musictime": "23:15KST",
+    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
   }
 ];
 
