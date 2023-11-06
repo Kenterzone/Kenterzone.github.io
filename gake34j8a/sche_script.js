@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1184회",
+    "musicEP": "1185회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, eite, NiziU, Weeekly, VIVIZ, Catch The Young, RIIZE, NINE.i, KINGDOM, Moon Jong Up, JANG WOOHYUK, CRAVITY, GHOST9, YOUNITE, Golden Child, SEVENTEEN, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "831회",
+    "musicEP": "832회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HeeJin(ARTMS), NiziU, LIGHTSUM, Billlie, Weeekly, VIVIZ, Catch The Young, RIIZE, YOUNITE, Golden Child, WayV, JANG MIN HO, ONF, CRAVITY, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1204회",
+    "musicEP": "1205회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">eite, NiziU, Band UNI , LIGHTSUM, Billlie, Weeekly, VIVIZ, NINE.i, RIIZE, Moon Jong Up, SUPERKIND, KINGDOM, Golden Child, CRAVITY, SEVENTEEN, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
