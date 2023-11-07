@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "499회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NiziU, Banduni, Billlie, LIGHTSUM, ILY:1, HeeJin(ARTMS), SORA, VIVIZ, NINE.i, XODIAC, KINGDOM, Moon Jong Up, Golden Child, WayV, GHOST9</font>`
   },
   {
     "mair": "nomal",
