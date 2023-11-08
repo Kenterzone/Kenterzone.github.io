@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "822회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, NiziU, LIGHTSUM, HeeJin(ARTMS), Billlie, Weeekly, JUJU SECRET, BAEK A YEON, VIVIZ, WHIB, Catch The Young, RIIZE, Youngjae, OMEGA X, ZEROBASEONE, CRAVITY, GHOST9, Golden Child, SEVENTEEN, TAEMIN</font>`
   },
 
   {
