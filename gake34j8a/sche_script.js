@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "499회",
+    "musicEP": "500회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NiziU, Banduni, Billlie, LIGHTSUM, ILY:1, HeeJin(ARTMS), SORA, VIVIZ, NINE.i, XODIAC, KINGDOM, Moon Jong Up, Golden Child, WayV, GHOST9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1185회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Roa, LIGHTSUM, Billlie, HeeJin(ARTMS), Weeekly, aespa, VIVIZ, Catch The Young, WHIB, ZEROBASEONE, Golden Child, CRAVITY, Stray Kids, TAEMIN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "832회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, HeeJin(ARTMS), NiziU, Billlie, Weeekly, aespa, BAEK A YEON, VIVIZ, MC Special Stage : YOUNGHOON × Sullyoon × Lee JungHa, WHIB, ZEROBASEONE, Golden Child, CRAVITY, Youngjae, Stray Kids, TAEMIN</font>`
   },
 
   {
