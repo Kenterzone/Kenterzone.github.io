@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "822회",
+    "musicEP": "823회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, NiziU, LIGHTSUM, HeeJin(ARTMS), Billlie, Weeekly, JUJU SECRET, BAEK A YEON, VIVIZ, WHIB, Catch The Young, RIIZE, Youngjae, OMEGA X, ZEROBASEONE, CRAVITY, GHOST9, Golden Child, SEVENTEEN, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1205회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, NiziU, Weeekly, Queenz Eye, HeeJin(ARTMS), Baek A Yeon, aespa, VIVIZ, WHIB, Catch The Young, ZEROBASEONE, CRAVITY, Golden Child, GHOST9, Stray Kids, TAEMIN</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
