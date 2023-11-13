@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1185회",
+    "musicEP": "1186회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Roa, LIGHTSUM, Billlie, HeeJin(ARTMS), Weeekly, aespa, VIVIZ, Catch The Young, WHIB, ZEROBASEONE, Golden Child, CRAVITY, Stray Kids, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "832회",
+    "musicEP": "833회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, HeeJin(ARTMS), NiziU, Billlie, Weeekly, aespa, BAEK A YEON, VIVIZ, MC Special Stage : YOUNGHOON × Sullyoon × Lee JungHa, WHIB, ZEROBASEONE, Golden Child, CRAVITY, Youngjae, Stray Kids, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1205회",
+    "musicEP": "1206회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, NiziU, Weeekly, Queenz Eye, HeeJin(ARTMS), Baek A Yeon, aespa, VIVIZ, WHIB, Catch The Young, ZEROBASEONE, CRAVITY, Golden Child, GHOST9, Stray Kids, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
