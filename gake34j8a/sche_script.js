@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "500회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, YOUNG POSSE, LIGHTSUM, Billlie, Roa, aespa, BAEK A YEON, VIVIZ, EPEX, OMEGA X, WHIB, ZEROBASEONE, Youngjae</font>`
   },
   {
     "mair": "nomal",
