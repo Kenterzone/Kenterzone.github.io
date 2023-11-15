@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "823회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, eite, YOUNG POSSE, Roa, LIGHTSUM, Weeekly, Queenz Eye, aespa, MIYEON((G)I-DLE), VIVIZ, GIUK(ONEWE), BANG YEDAM, Crush, FANTASY BOYS, WHIB, AMPERS&ONE, EASTSHINE, ZEROBASEONE, CRAVITY, Jung Kook, Stray Kids</font>`
   },
 
   {
