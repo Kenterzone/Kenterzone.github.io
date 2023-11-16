@@ -19,20 +19,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "500회",
+    "musicEP": "501회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, YOUNG POSSE, LIGHTSUM, Billlie, Roa, aespa, BAEK A YEON, VIVIZ, EPEX, OMEGA X, WHIB, ZEROBASEONE, Youngjae</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
-    "musicEP": "823회",
+    "musicEP": "824회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, eite, YOUNG POSSE, Roa, LIGHTSUM, Weeekly, Queenz Eye, aespa, MIYEON((G)I-DLE), VIVIZ, GIUK(ONEWE), BANG YEDAM, Crush, FANTASY BOYS, WHIB, AMPERS&ONE, EASTSHINE, ZEROBASEONE, CRAVITY, Jung Kook, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1186회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">eite, LIGHTSUM, HeeJin(ARTMS), Baek A Yeon, aespa, Red Velvet, FANTASY BOYS, SUPERKIND, WHIB, ZEROBASEONE, GIUK(ONEWE), JUST B, AMPERS&ONE, Crush, DOKO, ENHYPEN, Stray Kids</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "833회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">LIGHTSUM, Weeekly, aespa, VIVIZ, Red Velvet, FANTASY BOYS, ZEROBASEONE, AMPERS&ONE, ENHYPEN, GIUK(ONEWE), TAE JIN AH, Crush, Stray Kids</font>`
   },
 
   {
