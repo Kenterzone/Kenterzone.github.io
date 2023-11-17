@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1206회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HeeJin(ARTMS), Weeekly, VIVIZ, aespa, Red Velvet, &TEAM, AMPERS&ONE, GIUK(ONEWE), FANTASY BOYS, JUST B, ZEROBASEONE, TAE JIN AH, ENHYPEN, Crush, Stray Kids</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Sun.",
