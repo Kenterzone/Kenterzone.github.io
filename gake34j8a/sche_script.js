@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1186회",
+    "musicEP": "1187회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">eite, LIGHTSUM, HeeJin(ARTMS), Baek A Yeon, aespa, Red Velvet, FANTASY BOYS, SUPERKIND, WHIB, ZEROBASEONE, GIUK(ONEWE), JUST B, AMPERS&ONE, Crush, DOKO, ENHYPEN, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "833회",
+    "musicEP": "834회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LIGHTSUM, Weeekly, aespa, VIVIZ, Red Velvet, FANTASY BOYS, ZEROBASEONE, AMPERS&ONE, ENHYPEN, GIUK(ONEWE), TAE JIN AH, Crush, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -64,9 +64,56 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:<font color="#adadb8">HeeJin(ARTMS), Weeekly, VIVIZ, aespa, Red Velvet, &TEAM, AMPERS&ONE, GIUK(ONEWE), FANTASY BOYS, JUST B, ZEROBASEONE, TAE JIN AH, ENHYPEN, Crush, Stray Kids</font>`
   },  ////SP_GUIDE/////
   {
+    "date": "Tue.",
+    "date_date": "11.28",
+    "musicname": "2023 MAMA Awards IN JAPAN(TOKYO DOME)",
+    "musicEP": "DAY1",
+    "musictime": "18:00KST",
+    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8">STREET WOMAN FIGHTER 2, Kep1er, Lee Young Ji, xikers, &TEAM, Dynamicduo, ENHYPEN, INI, JO1, JUST B, TOMORROW X TOGETHER, TVXQ, YOSHIKI</font>`
+  },  {
+    "date": "Wed.",
+    "date_date": "11.29",
+    "musicname": "2023 MAMA Awards IN JAPAN(TOKYO DOME)",
+    "musicEP": "DAY2",
+    "musictime": "18:KST",
+    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8">Monika, NiziU, EL7Z UP, LE SSERAFIM, (G)I-DLE, ZEROBASEONE, RIIZE, ATEEZ, BOYNEXTDOOR, TREASURE, SEVENTEEN</font>`
+  },  
+{
+    "date": "Sat.",
+    "date_date": "12.2",
+    "musicname": "2023 Melon Music Awards",
+    "musicEP": "",
+    "musictime": "23:15KST",
+    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8"></font>`
+  },  
+{
+    "date": "Tue.",
+    "date_date": "12.14",
+    "musicname": "2023 Asia Artist Awards",
+    "musicEP": "",
+    "musictime": "23:15KST",
+    "musicsetlist":`ShowGuest:MC：Jang Wonyoung(IVE)、Kang Daniel、Sung Hanbin(ZEROBASEONE) <BR/><font color="#adadb8"></font>`
+  },  
+{
+    "date": "Mon.",
+    "date_date": "12.9",
+    "musicname": "2023 KBS Gayo Festival In JAPAN",
+    "musicEP": "",
+    "musictime": "23:15KST",
+    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
+  },  
+{
+    "date": "Mon.",
+    "date_date": "12.25",
+    "musicname": "2023 SBS Gayo Daejeon",
+    "musicEP": "",
+    "musictime": "23:15KST",
+    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
+  },  
+{
     "date": "Sun.",
-    "date_date": "11.5",
-    "musicname": "Music Bank in Mexico",
+    "date_date": "12.31",
+    "musicname": "2023 MBC Gayo Daejeon",
     "musicEP": "",
     "musictime": "23:15KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
