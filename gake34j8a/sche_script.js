@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1187회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SEENHYUNHEE, Dreamcatcher, Red Velvet, BANG YEDAM, AMPERS&ONE, EASTSHINE, LUN8wave, ZEROBASEONE, ROCKY, &TEAM, ENHYPEN, FANTASY BOYS, THE BOYZ, MCND, VIXX, RYEOWOOK, J.Y.Park</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "834회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Dreamcatcher, Red Velvet, BANG YEDAM, ZEROBASEONE, FANTASY BOYS, AMPERS&ONE, MCND, &TEAM, EASTSHINE, VIXX, THE BOYZ, RYEOWOOK, J.Y.Park(with Kim WanSun)</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1206회",
+    "musicEP": "1207회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HeeJin(ARTMS), Weeekly, VIVIZ, aespa, Red Velvet, &TEAM, AMPERS&ONE, GIUK(ONEWE), FANTASY BOYS, JUST B, ZEROBASEONE, TAE JIN AH, ENHYPEN, Crush, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   {
     "date": "Tue.",
