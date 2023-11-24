@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1187회",
+    "musicEP": "1188회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEENHYUNHEE, Dreamcatcher, Red Velvet, BANG YEDAM, AMPERS&ONE, EASTSHINE, LUN8wave, ZEROBASEONE, ROCKY, &TEAM, ENHYPEN, FANTASY BOYS, THE BOYZ, MCND, VIXX, RYEOWOOK, J.Y.Park</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "834회",
-    "musictime": "15:21KST",
+    "musictime": "15:26KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Dreamcatcher, Red Velvet, BANG YEDAM, ZEROBASEONE, FANTASY BOYS, AMPERS&ONE, MCND, &TEAM, EASTSHINE, VIXX, THE BOYZ, RYEOWOOK, J.Y.Park(with Kim WanSun)</font>`
   },
 
