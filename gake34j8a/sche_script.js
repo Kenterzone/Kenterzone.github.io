@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1207회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Red Velvet, Dreamcatcher, LUN8wave, ZEROBASEONE, 24K+, FANTASY BOYS, WHIB, BANG YEDAM, THE BOYZ, AMPERS&ONE, MCND, EASTSHINE, JANG MIN HO, VIXX, ENHYPEN, RYEOWOOK, J.Y.Park</font>`
   },  ////SP_GUIDE/////
   {
     "date": "Tue.",
