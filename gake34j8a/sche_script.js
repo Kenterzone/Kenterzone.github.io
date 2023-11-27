@@ -75,7 +75,7 @@ const musicGuid =[
     "date_date": "11.29",
     "musicname": "2023 MAMA Awards IN JAPAN(TOKYO DOME)",
     "musicEP": "DAY2",
-    "musictime": "18:KST",
+    "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8">Monika, NiziU, EL7Z UP, LE SSERAFIM, (G)I-DLE, ZEROBASEONE, RIIZE, ATEEZ, BOYNEXTDOOR, TREASURE, SEVENTEEN</font>`
   },  
 {
