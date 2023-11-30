@@ -42,16 +42,16 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1188회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Golden Girls, Roa, FANTASY BOYS, LUN8wave, MCND, AMPERS&ONE, EASTSHINE, SUPERKIND, WHIB, YAO CHEN, , DKB, LAS, BANG YEDAM, 24K+, ATBO, ATEEZ, ENHYPEN, NAM WOO HYUN</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "834회",
+    "musicEP": "835회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Dreamcatcher, Red Velvet, BANG YEDAM, ZEROBASEONE, FANTASY BOYS, AMPERS&ONE, MCND, &TEAM, EASTSHINE, VIXX, THE BOYZ, RYEOWOOK, J.Y.Park(with Kim WanSun)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MAVE:, Choi In Gyeong, Dreamcatcher, AMPERS&ONE, LUN8wave, 24K+, BE'O, DKB, ATBO, YAO CHEN, BANG YEDAM, MCND, FANTASY BOYS, NAM WOO HYUN, ATEEZ</font>`
   },
 
   {
@@ -59,25 +59,11 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1207회",
+    "musicEP": "1208회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Red Velvet, Dreamcatcher, LUN8wave, ZEROBASEONE, 24K+, FANTASY BOYS, WHIB, BANG YEDAM, THE BOYZ, AMPERS&ONE, MCND, EASTSHINE, JANG MIN HO, VIXX, ENHYPEN, RYEOWOOK, J.Y.Park</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
-  {
-    "date": "Tue.",
-    "date_date": "11.28",
-    "musicname": "2023 MAMA Awards IN JAPAN(TOKYO DOME)",
-    "musicEP": "DAY1",
-    "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8">STREET WOMAN FIGHTER 2, Kep1er, Lee Young Ji, xikers, &TEAM, Dynamicduo, ENHYPEN, INI, JO1, JUST B, TOMORROW X TOGETHER, TVXQ, YOSHIKI</font>`
-  },  {
-    "date": "Wed.",
-    "date_date": "11.29",
-    "musicname": "2023 MAMA Awards IN JAPAN(TOKYO DOME)",
-    "musicEP": "DAY2",
-    "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8">Monika, NiziU, EL7Z UP, LE SSERAFIM, (G)I-DLE, ZEROBASEONE, RIIZE, ATEEZ, BOYNEXTDOOR, TREASURE, SEVENTEEN</font>`
-  },  
+
 {
     "date": "Sat.",
     "date_date": "12.2",
