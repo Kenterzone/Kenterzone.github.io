@@ -38,11 +38,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
-    "musicEP": "1188회",
+    "musicEP": "1189회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Golden Girls, Roa, FANTASY BOYS, LUN8wave, MCND, AMPERS&ONE, EASTSHINE, SUPERKIND, WHIB, YAO CHEN, , DKB, LAS, BANG YEDAM, 24K+, ATBO, ATEEZ, ENHYPEN, NAM WOO HYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
