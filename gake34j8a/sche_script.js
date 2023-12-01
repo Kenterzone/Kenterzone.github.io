@@ -93,8 +93,8 @@ const musicGuid =[
     "date_date": "12.25",
     "musicname": "2023 SBS Gayo Daejeon",
     "musicEP": "",
-    "musictime": "23:15KST",
-    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
+    "musictime": "17:10KST",
+    "musicsetlist":`ShowGuest:MC：KEY、YUJIN(IVE)、YEONJUN(TXT)<BR/><font color="#adadb8">NiziU, NMIXX, fromis_9, ITZY, STAYC, aespa, IVE, LE SSERAFIM, NewJeans, (G)I-DLE, TEAM!, Xikers, BOYNEXTDOOR, ZEROBASEONE, RIIZE, The Boyz, Stray Kids, ATEEZ, TOMORROW x TOGETHER, CRAVITY, ENHYPEN, NCT 127, NCT Dream, SHINee, TVXQ</font>`
   },  
 {
     "date": "Sun.",
