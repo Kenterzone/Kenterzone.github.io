@@ -81,9 +81,9 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:MC：Jang Wonyoung(IVE)、Kang Daniel、Sung Hanbin(ZEROBASEONE) <BR/><font color="#adadb8"></font>`
   },  
 {
-    "date": "Mon.",
-    "date_date": "12.9",
-    "musicname": "2023 KBS Gayo Festival In JAPAN",
+    "date": "Fri.",
+    "date_date": "12.15",
+    "musicname": "2023 KBS Gayo Festival In JAPAN(pre-recorded) & KR",
     "musicEP": "",
     "musictime": "23:15KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
