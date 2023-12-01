@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1208회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Roa, Seen Hyun Hee, Dreamcatcher, BE'O, DINO, YAOCHEN, WHIB, AMPERS&ONE, 24K+, MCND, BANG YEDAM, FANTASY BOYS, ATBO, DKB, EASTSHINE, ENHYPEN, NAM WOO HYUN</font>`
   },  ////SP_GUIDE/////
 
 {
