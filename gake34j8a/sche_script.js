@@ -85,8 +85,8 @@ const musicGuid =[
     "date_date": "12.15",
     "musicname": "2023 KBS Gayo Festival In JAPAN(pre-recorded) & KR",
     "musicEP": "",
-    "musictime": "23:15KST",
-    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
+    "musictime": "18:30KST",
+    "musicsetlist":`ShowGuest:MC：Rowoon、Jang Wonyoung、Go Minsi、Lee Youngji<BR/><font color="#adadb8"></font>`
   },  
 {
     "date": "Mon.",
