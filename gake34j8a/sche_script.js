@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "835회",
+    "musicEP": "836회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MAVE:, Choi In Gyeong, Dreamcatcher, AMPERS&ONE, LUN8wave, 24K+, BE'O, DKB, ATBO, YAO CHEN, BANG YEDAM, MCND, FANTASY BOYS, NAM WOO HYUN, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -63,15 +63,7 @@ const musicGuid =[
     "musictime": "15:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Roa, Seen Hyun Hee, Dreamcatcher, BE'O, DINO, YAOCHEN, WHIB, AMPERS&ONE, 24K+, MCND, BANG YEDAM, FANTASY BOYS, ATBO, DKB, EASTSHINE, ENHYPEN, NAM WOO HYUN</font>`
   },  ////SP_GUIDE/////
-
-{
-    "date": "Sat.",
-    "date_date": "12.2",
-    "musicname": "2023 Melon Music Awards",
-    "musicEP": "",
-    "musictime": "23:15KST",
-    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8"></font>`
-  },  
+  
 {
     "date": "Tue.",
     "date_date": "12.14",
