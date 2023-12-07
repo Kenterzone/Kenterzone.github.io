@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "836회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Roa, eite, Weeekly, JUJU SECRET, Dreamcatcher, BAEKHO(feat.Park Jiwon(fromis_9)), ONETOP, FANTASY BOYS, 24K+, WHIB, EASTSHINE, ONEPACT, MCND, DKB, ATBO, NAM WOO HYUN</font>`
   },
 
   {
