@@ -47,21 +47,21 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
-    "musicEP": "836회",
+    "musicEP": "837회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Roa, eite, Weeekly, JUJU SECRET, Dreamcatcher, BAEKHO(feat.Park Jiwon(fromis_9)), ONETOP, FANTASY BOYS, 24K+, WHIB, EASTSHINE, ONEPACT, MCND, DKB, ATBO, NAM WOO HYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
-    "musicEP": "1209회",
+    "musicEP": "1210회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Roa, Seen Hyun Hee, Hong Ji Yun, Weeekly, Dreamcatcher, NTX, Chris Young, ONEPACT, FANTASY BOYS, WHIB, EASTSHINE, MCND, DKB, ATBO, ATEEZ, BAEKHO, NAM WOO HYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
   
 {
