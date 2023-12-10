@@ -69,7 +69,7 @@ const musicGuid =[
     "date_date": "12.14",
     "musicname": "2023 Asia Artist Awards",
     "musicEP": "",
-    "musictime": "23:15KST",
+    "musictime": "16:00KST",
     "musicsetlist":`ShowGuest:MC：Jang Wonyoung(IVE)、Kang Daniel、Sung Hanbin(ZEROBASEONE) <BR/><font color="#adadb8"></font>`
   },  
 {
