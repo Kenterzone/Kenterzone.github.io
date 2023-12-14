@@ -47,11 +47,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "837회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">eite, Seen Hyun Hee, HI Ryang, Kim Bo Min, NMIXX, FANTASY BOYS, EASTSHINE, ONEPACT, Moon Jong Up, MCND, DKB, NTX, Chris Young, ATEEZ, JANG MIN HO</font>`
   },
 
   {
