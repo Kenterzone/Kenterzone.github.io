@@ -9,7 +9,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Tue.", 
+    "date": "xTue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "346회",
@@ -18,7 +18,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Wed.",
+    "date": "xWed.",
     "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "501회",
@@ -27,7 +27,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Thu.",
+    "date": "xThu.",
     "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "824회",
@@ -37,7 +37,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Fri.",
+    "date": "xFri.",
     "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1189회",
@@ -63,21 +63,13 @@ const musicGuid =[
     "musictime": "15:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
-  
-{
-    "date": "Tue.",
-    "date_date": "12.14",
-    "musicname": "2023 Asia Artist Awards",
-    "musicEP": "",
-    "musictime": "16:00KST",
-    "musicsetlist":`ShowGuest:MC：Jang Wonyoung(IVE)、Kang Daniel、Sung Hanbin(ZEROBASEONE) <BR/><font color="#adadb8"></font>`
-  },  
+ 
 {
     "date": "Fri.",
     "date_date": "12.15",
-    "musicname": "2023 KBS Gayo Festival In JAPAN(pre-recorded) & KR",
+    "musicname": "2023 MUSIC BANK GLOBAL FESTIVAL 2023 In JAPAN(pre-recorded) & KR",
     "musicEP": "",
-    "musictime": "18:30KST",
+    "musictime": "20:30KST",
     "musicsetlist":`ShowGuest:MC：Rowoon、Jang Wonyoung、Go Minsi、Lee Youngji<BR/><font color="#adadb8"></font>`
   },  
 {
