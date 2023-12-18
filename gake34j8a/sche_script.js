@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "837회",
+    "musicEP": "838회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">eite, Seen Hyun Hee, HI Ryang, Kim Bo Min, NMIXX, FANTASY BOYS, EASTSHINE, ONEPACT, Moon Jong Up, MCND, DKB, NTX, Chris Young, ATEEZ, JANG MIN HO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -63,15 +63,7 @@ const musicGuid =[
     "musictime": "15:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
- 
-{
-    "date": "Fri.",
-    "date_date": "12.15",
-    "musicname": "2023 MUSIC BANK GLOBAL FESTIVAL 2023 In JAPAN(pre-recorded) & KR",
-    "musicEP": "",
-    "musictime": "20:30KST",
-    "musicsetlist":`ShowGuest:MC：Rowoon、Jang Wonyoung、Go Minsi、Lee Youngji<BR/><font color="#adadb8"></font>`
-  },  
+  
 {
     "date": "Mon.",
     "date_date": "12.25",
