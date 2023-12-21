@@ -77,7 +77,7 @@ const musicGuid =[
     "date_date": "12.31",
     "musicname": "2023 MBC Gayo Daejeon",
     "musicEP": "",
-    "musictime": "23:15KST",
+    "musictime": "20:45KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
   }
 ];
