@@ -49,7 +49,7 @@ const musicGuid =[
     "date": "xSat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "838회",
+    "musicEP": "839회",
     "musictime": "15:26KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
