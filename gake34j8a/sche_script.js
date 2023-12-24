@@ -46,7 +46,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Sat.",
+    "date": "xSat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "838회",
@@ -56,7 +56,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Sun.",
+    "date": "xSun.",
     "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1210회",
