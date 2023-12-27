@@ -127,7 +127,7 @@ function mTime(nowadd){
 }
 
 function setup(){
-	var  channel_id = "OccO48A_A" ;
+	var  channel_id = "iofefanx46_wq" ;
 	document.getElementById("app_guid").innerHTML =`${musicGuid.map(guidmap).join("")}<font color=Red>Tomorrow</font><BR/> ${musicGuid.map(guidtmrmap).join("")}`;
 	document.getElementById("v_channel").innerHTML =`<iframe width="100%" height="100%" src="https://player.twitch.tv/?channel=${channel_id}&parent=Kenterzone.github.io" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>`;
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
