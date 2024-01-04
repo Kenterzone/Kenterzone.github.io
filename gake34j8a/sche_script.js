@@ -37,12 +37,12 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "xFri.",
-    "musiconoroff" : false,
+    "date": "Fri.",
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1189회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, KyoungSeo, YEAHSHINE, 8TURN, 2Z, ONE PACT, RIIZE, BXB, NTX, THE BOYZ Special Unit, Kim Jonghyeon, JEONG SEWOON, TVXQ!</font>`
   },
   {
     "mair": "nomal",
