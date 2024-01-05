@@ -46,7 +46,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xSat.",
+    "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "839회",
@@ -56,12 +56,12 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "xSun.",
-    "musiconoroff" : false,
+    "date": "Sun.",
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1210회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HI Ryang, Geenius, PUZZLE, Yiseo HAN, Kim Bomin, Kyoung Seo, YEAHSHINE, 8TURN, 2Z, RIIZE, THE BOYZ Special Unit, NTX, KIM JONGHYEON, JEONG SEWOON, TVXQ!</font>`
   },  ////SP_GUIDE/////
   
 {
