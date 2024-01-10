@@ -27,12 +27,12 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xThu.",
-    "musiconoroff" : false,
+    "date": "Thu.",
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "824회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, CLASS:y, LIMELIGHT, ITZY, SUNG HANBIN × JAEHYUN × SOHEE(MC SP), ALL(H)OURS, JD1, THE BOYZ Special Unit, RIIZE, 8TURN, KUM JUNHYEON, JEONG SEWOON, TRENDZ, B1A4, KYUHYUN, TVXQ!</font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1189회",
+    "musicEP": "1190회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, KyoungSeo, YEAHSHINE, 8TURN, 2Z, ONE PACT, RIIZE, BXB, NTX, THE BOYZ Special Unit, Kim Jonghyeon, JEONG SEWOON, TVXQ!</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -63,15 +63,7 @@ const musicGuid =[
     "musictime": "15:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">HI Ryang, Geenius, PUZZLE, Yiseo HAN, Kim Bomin, Kyoung Seo, YEAHSHINE, 8TURN, 2Z, RIIZE, THE BOYZ Special Unit, NTX, KIM JONGHYEON, JEONG SEWOON, TVXQ!</font>`
   },  ////SP_GUIDE/////
-  
-{
-    "date": "Mon.",
-    "date_date": "12.25",
-    "musicname": "2023 SBS Gayo Daejeon",
-    "musicEP": "",
-    "musictime": "17:10KST",
-    "musicsetlist":`ShowGuest:MC：KEY、YUJIN(IVE)、YEONJUN(TXT)<BR/><font color="#adadb8">NiziU, NMIXX, fromis_9, ITZY, STAYC, aespa, IVE, LE SSERAFIM, NewJeans, (G)I-DLE, TEAM!, Xikers, BOYNEXTDOOR, ZEROBASEONE, RIIZE, The Boyz, Stray Kids, ATEEZ, TOMORROW x TOGETHER, CRAVITY, ENHYPEN, NCT 127, NCT Dream, SHINee, TVXQ</font>`
-  },  
+
 {
     "date": "Sun.",
     "date_date": "12.31",
