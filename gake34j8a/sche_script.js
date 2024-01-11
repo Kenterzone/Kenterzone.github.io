@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1190회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, KyoungSeo, CLASS:y, ITZY, JD1, 8TURN, ALL(H)OURS, RIIZE, SF9, THE BOYZ Special Unit, OnlyOneOf, JEONG SEWOON, B1A4, KYUHYUN</font>`
   },
   {
     "mair": "nomal",
