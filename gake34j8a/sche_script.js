@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "839회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KyoungSeo, Geenius, CLASS:y, ITZY, JD1, ALL(H)OURS, THE BOYZ Special Unit, RIIZE, TRENDZ, NTX, B1A4, SF9, JEONG SEWOON, KYUHYUN</font>`
   },
 
   {
