@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "824회",
+    "musicEP": "825회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, CLASS:y, LIMELIGHT, ITZY, SUNG HANBIN × JAEHYUN × SOHEE(MC SP), ALL(H)OURS, JD1, THE BOYZ Special Unit, RIIZE, 8TURN, KUM JUNHYEON, JEONG SEWOON, TRENDZ, B1A4, KYUHYUN, TVXQ!</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1190회",
+    "musicEP": "1191회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, KyoungSeo, CLASS:y, ITZY, JD1, 8TURN, ALL(H)OURS, RIIZE, SF9, THE BOYZ Special Unit, OnlyOneOf, JEONG SEWOON, B1A4, KYUHYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "839회",
+    "musicEP": "840회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KyoungSeo, Geenius, CLASS:y, ITZY, JD1, ALL(H)OURS, THE BOYZ Special Unit, RIIZE, TRENDZ, NTX, B1A4, SF9, JEONG SEWOON, KYUHYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1210회",
+    "musicEP": "1211회",
     "musictime": "15:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">HI Ryang, Geenius, PUZZLE, Yiseo HAN, Kim Bomin, Kyoung Seo, YEAHSHINE, 8TURN, 2Z, RIIZE, THE BOYZ Special Unit, NTX, KIM JONGHYEON, JEONG SEWOON, TVXQ!</font>`
   },  ////SP_GUIDE/////
