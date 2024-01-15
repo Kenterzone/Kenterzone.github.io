@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1211회",
+    "musicEP": "1212회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HI Ryang, Geenius, PUZZLE, Yiseo HAN, Kim Bomin, Kyoung Seo, YEAHSHINE, 8TURN, 2Z, RIIZE, THE BOYZ Special Unit, NTX, KIM JONGHYEON, JEONG SEWOON, TVXQ!</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
