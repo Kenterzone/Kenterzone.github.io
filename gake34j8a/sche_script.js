@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "825회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, YEAHSHINE, CLASS：y, LIMELIGHT, NMIXX, YENA, ITZY, SISTAR19, HUI, DXMON, RIIZE, 8TURN, OnlyOneOf, ALL(H)OURS, JD1, TRENDZ, B1A4, JEONG SEWOON</font>`
   },
 
   {
