@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1191회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, Gyubin, Geenius, CLASS:y, NMIXX, H1-KEY, YENA, ITZY, SISTAR19, ALL(H)OURS, DXMON, 8TURN, JD1, TRENDZ, JEONG SEWOON, HUI, B1A4</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "840회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, CLASS:y, NMIXX, YENA, ITZY, SISTAR19, 8TURN, ALL(H)OURS, TRENDZ, RIIZE, JD1, OnlyOneOf, HUI, JEONG SEWOON, B1A4</font>`
   },
 
   {
