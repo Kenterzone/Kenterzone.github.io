@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1191회",
+    "musicEP": "1192회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YEAHSHINE, Gyubin, Geenius, CLASS:y, NMIXX, H1-KEY, YENA, ITZY, SISTAR19, ALL(H)OURS, DXMON, 8TURN, JD1, TRENDZ, JEONG SEWOON, HUI, B1A4</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1212회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, Geenius, CLASS:y, NMIXX, YENA, H1-KEY, ITZY, SISTAR19, HUI, ALL(H)OURS, JD1, DXMON, TRENDZ, 8TURN, JEONG SEWOON, B1A4</font>`
   },  ////SP_GUIDE/////
 
 {
