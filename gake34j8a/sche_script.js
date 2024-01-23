@@ -18,12 +18,12 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xWed.",
+    "date": "Wed.",
     "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "501회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, Gyubin, YEAHSHINE, LIMELIGHT, NMIXX, YENA, 2Z, 8TURN, ALL(H)OURS, DXMON, JD1, OnlyOneOf, HUI</font>`
   },
   {
     "mair": "nomal",
