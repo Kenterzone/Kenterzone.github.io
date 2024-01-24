@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "825회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIM JAE HWAN, tripleS Aria, NMIXX, H1-KEY, YENA, ITZY, SEOLA(WJSN), SISTAR19, TWS, POW, BXB, EVNNE, JD1, CIX, AB6IX, HUI, SUPER JUNIOR-L.S.S.</font>`
   },
 
   {
