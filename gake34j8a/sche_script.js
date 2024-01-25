@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "502회",
+    "musicEP": "503회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Geenius, Gyubin, YEAHSHINE, LIMELIGHT, NMIXX, YENA, 2Z, 8TURN, ALL(H)OURS, DXMON, JD1, OnlyOneOf, HUI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1192회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, tripleS Aria, NMIXX, H1-KEY, ITZY, YENA, SEOLA, SISTAR19, TWS, POW, EVNNE, JD1, CIX, OnlyOneOf, HUI, AB6IX, KIM JAE HWAN, SUPER JUNIOR-L.S.S.</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "841회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, tripleS Aria, NMIXX, ITZY, YENA, SEOLA, SISTAR19, TWS, EVNNE, POW, 8TURN, ALL(H)OURS, CIX, HUI, KIM JAE HWAN, AB6IX</font>`
   },
 
   {
