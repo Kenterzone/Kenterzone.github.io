@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1213회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS Aria, Ryu jihyun, NMIXX, H1-KEY, ITZY, YENA, SEOLA, SISTAR19, EVNNE, POW, TWS, CIX, ALL(H)OURS, HUI, KIM JAE HWAN, AB6IX</font>`
   },  ////SP_GUIDE/////
 
 {
