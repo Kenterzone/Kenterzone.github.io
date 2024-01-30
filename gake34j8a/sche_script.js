@@ -23,16 +23,16 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "503회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, Gyubin, tripleS Aria, LIMELIGHT, NMIXX, YENA, DXMON, EVNNE, NTX, POW, 8TURN, ALL(H)OURS, CIX</font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "826회",
+    "musicEP": "827회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIM JAE HWAN, tripleS Aria, NMIXX, H1-KEY, YENA, ITZY, SEOLA(WJSN), SISTAR19, TWS, POW, BXB, EVNNE, JD1, CIX, AB6IX, HUI, SUPER JUNIOR-L.S.S.</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1192회",
+    "musicEP": "1193회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, tripleS Aria, NMIXX, H1-KEY, ITZY, YENA, SEOLA, SISTAR19, TWS, POW, EVNNE, JD1, CIX, OnlyOneOf, HUI, AB6IX, KIM JAE HWAN, SUPER JUNIOR-L.S.S.</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "841회",
+    "musicEP": "842회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, tripleS Aria, NMIXX, ITZY, YENA, SEOLA, SISTAR19, TWS, EVNNE, POW, 8TURN, ALL(H)OURS, CIX, HUI, KIM JAE HWAN, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1213회",
+    "musicEP": "1214회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS Aria, Ryu jihyun, NMIXX, H1-KEY, ITZY, YENA, SEOLA, SISTAR19, EVNNE, POW, TWS, CIX, ALL(H)OURS, HUI, KIM JAE HWAN, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
