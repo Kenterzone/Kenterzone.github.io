@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "827회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, LIMELIGHT, NMIXX, YENA, SEOLA(WJSN), (G)I-DLE, TWS, A SIX, DXMON, VANNER, 8TURN, ALL(H)OURS, EVNNE, ZHANG HAO(ZEROBASEONE), CIX, AB6IX</font>`
   },
 
   {
