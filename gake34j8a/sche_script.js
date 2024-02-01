@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "503회",
+    "musicEP": "504회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, Gyubin, tripleS Aria, LIMELIGHT, NMIXX, YENA, DXMON, EVNNE, NTX, POW, 8TURN, ALL(H)OURS, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1193회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, Gyubin, LIMELIGHT, NMIXX, YENA, SEOLA(WJSN), (G)I-DLE, A SIX, TWS, ALL(H)OURS, DXMON, EVNNE, POW, 2Z, VANNER, CIX, AB6IX</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "842회",
     "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, Gyubin, Kim Eui Young, LIMELIGHT, NMIXX, YENA, SEOLA(WJSN), (G)I-DLE, A SIX, TWS, POW, ALL(H)OURS, VANNER, EVNNE, CIX, AB6IX</font>`
   },
 
   {
