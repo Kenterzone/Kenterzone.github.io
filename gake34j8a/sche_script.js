@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1214회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, LIMELIGHT, NMIXX, YENA, SEOLA, (G)I-DLE, A SIX, POW, TWS, ALL(H)OURS, VANNER, EVNNE, DXMON, 8TURN, AB6IX, CIX</font>`
   },  ////SP_GUIDE/////
 
 {
