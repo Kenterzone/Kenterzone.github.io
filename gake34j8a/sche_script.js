@@ -56,7 +56,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "xSun.",
+    "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1214회",
