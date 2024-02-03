@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1193회",
+    "musicEP": "1194회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, Gyubin, LIMELIGHT, NMIXX, YENA, SEOLA(WJSN), (G)I-DLE, A SIX, TWS, ALL(H)OURS, DXMON, EVNNE, POW, 2Z, VANNER, CIX, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "842회",
-    "musictime": "15:26KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, Gyubin, Kim Eui Young, LIMELIGHT, NMIXX, YENA, SEOLA(WJSN), (G)I-DLE, A SIX, TWS, POW, ALL(H)OURS, VANNER, EVNNE, CIX, AB6IX</font>`
+    "musicEP": "843회",
+    "musictime": "15:21KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
