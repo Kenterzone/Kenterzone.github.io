@@ -18,7 +18,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Wed.",
+    "date": "xWed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "504회",
@@ -37,7 +37,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Fri.",
+    "date": "xFri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1194회",
@@ -56,12 +56,12 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Sun.",
+    "date": "xSun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1214회",
+    "musicEP": "1215회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Geenius, LIMELIGHT, NMIXX, YENA, SEOLA, (G)I-DLE, A SIX, POW, TWS, ALL(H)OURS, VANNER, EVNNE, DXMON, 8TURN, AB6IX, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
