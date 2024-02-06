@@ -18,12 +18,12 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xWed.",
+    "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "504회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Gyubin, LIMELIGHT, NMIXX, TWS, EVNNE, POW, BXB, VANNER, CIX, KIM JONGHYEON, HUI</font>`
   },
   {
     "mair": "nomal",
