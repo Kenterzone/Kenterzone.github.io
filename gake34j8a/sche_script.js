@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "828회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, A SIX, TWS, POW, DXMON, EVNNE, P1Harmony, The Wind, VANNER, CIX</font>`
   },
 
   {
