@@ -9,7 +9,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xTue.", 
+    "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "346회",
@@ -19,20 +19,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "504회",
+    "musicEP": "505회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ryu jihyun, Gyubin, LIMELIGHT, NMIXX, TWS, EVNNE, POW, BXB, VANNER, CIX, KIM JONGHYEON, HUI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
-    "musicEP": "828회",
+    "musicEP": "829회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, A SIX, TWS, POW, DXMON, EVNNE, P1Harmony, The Wind, VANNER, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
