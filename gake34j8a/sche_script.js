@@ -42,21 +42,21 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1194회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, BIBI, A SIX, TWS, VANNER, The Wind, AIMERS, ALL(H)OURS, DXMON, EVNNE, JOOCHAN, n.SSign, P1Harmony, POW</font>`
   },
   {
     "mair": "nomal",
-    "date": "xSat.",
+    "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "843회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, BIBI, A SIX, TWS, POW, ALL(H)OURS, DXMON, AIMERS, JOOCHAN, P1Harmony, The Wind, n.SSign, VANNER, EVNNE</font>`
   },
 
   {
     "mair": "nomal",
-    "date": "xSun.",
+    "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1215회",
