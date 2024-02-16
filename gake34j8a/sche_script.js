@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1215회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, BIBI, A SIX, TWS, POW, ALL(H)OURS, DXMON, TEN, P1Harmony, JOOCHAN, n.SSign, The Wind, AIMERS, EVNNE</font>`
   },  ////SP_GUIDE/////
 
 {
