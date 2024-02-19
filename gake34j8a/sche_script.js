@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "346회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, X:IN, TWS, VANNER, The Wind, TEN, AIMERS, BXB, DXMON, JOOCHAN, n.SSign, P1Harmony</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1194회",
+    "musicEP": "1195회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, BIBI, A SIX, TWS, VANNER, The Wind, AIMERS, ALL(H)OURS, DXMON, EVNNE, JOOCHAN, n.SSign, P1Harmony, POW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "843회",
+    "musicEP": "844회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, BIBI, A SIX, TWS, POW, ALL(H)OURS, DXMON, AIMERS, JOOCHAN, P1Harmony, The Wind, n.SSign, VANNER, EVNNE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1215회",
+    "musicEP": "1216회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, NMIXX, SEOLA, BIBI, A SIX, TWS, POW, ALL(H)OURS, DXMON, TEN, P1Harmony, JOOCHAN, n.SSign, The Wind, AIMERS, EVNNE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
