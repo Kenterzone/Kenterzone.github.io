@@ -12,7 +12,7 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "346회",
+    "musicEP": "343회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, X:IN, TWS, VANNER, The Wind, TEN, AIMERS, BXB, DXMON, JOOCHAN, n.SSign, P1Harmony</font>`
   },
