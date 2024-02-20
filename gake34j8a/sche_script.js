@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "505회",
+    "musicEP": "506회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, HAN YISEO, The Wind, ALL(H)OURS, EPEX, EVNNE, JOOCHAN, n.SSign, P1Harmony, VANNER</font>`
   },
   {
     "mair": "nomal",
