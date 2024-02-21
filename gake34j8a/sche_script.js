@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "829회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, TRI.BE, BIBI, Moon Byul, LE SSERAFIM, The Wind, TWS, DXMON, A.C.E, n.SSign, ALL(H)OURS, YUGYEOM, JOOCHAN, VANNER, P1Harmony</font>`
   },
 
   {
