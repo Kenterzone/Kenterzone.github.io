@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1195회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, LE SSERAFIM, Moon Byul, The Wind, AIMERS, TEN, TWS, DXMON, n.SSign, VANNER, A.C.E, YUGYEOM, P1Harmony</font>`
   },
   {
     "mair": "nomal",
