@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "844회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, LE SSERAFIM, Moon Byul, AIMERS, The Wind, TEN, TWS, n.SSign, DXMON, YUGYEOM, A.C.E, VANNER, P1Harmony, SUPER JUNIOR-L.S.S.</font>`
   },
 
   {
