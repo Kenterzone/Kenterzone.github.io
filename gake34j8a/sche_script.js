@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "344회",
     "musictime": "18:00KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1195회",
+    "musicEP": "1196회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, LE SSERAFIM, Moon Byul, The Wind, AIMERS, TEN, TWS, DXMON, n.SSign, VANNER, A.C.E, YUGYEOM, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "844회",
+    "musicEP": "845회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, LE SSERAFIM, Moon Byul, AIMERS, The Wind, TEN, TWS, n.SSign, DXMON, YUGYEOM, A.C.E, VANNER, P1Harmony, SUPER JUNIOR-L.S.S.</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1216회",
+    "musicEP": "1217회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, LE SSERAFIM, Moon Byul, TWS, n.SSign, The Wind, DXMON, AIMERS, A.C.E, BXB, TEN, P1Harmony, VANNER, Yoon Soo Hyun, YUGYEOM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
