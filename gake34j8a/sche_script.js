@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "507회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, X:IN, TRI.BE, Moon Byul, P1Harmony, The Wind, BXB, n.SSign, DXMON, M.O.N.T, A.C.E, CREZL</font>`
   },
   {
     "mair": "nomal",
