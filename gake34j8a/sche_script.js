@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "507회",
+    "musicEP": "508회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, X:IN, TRI.BE, Moon Byul, P1Harmony, The Wind, BXB, n.SSign, DXMON, M.O.N.T, A.C.E, CREZL</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1196회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON SOO HYUN, X:IN, TRI.BE, Moon Byul, LE SSERAFIM, TWICE, AIMERS, BXB, CRAVITY, n.SSign, NOMAD, The Wind, Espero, A.C.E, TAEYONG</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "845회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, TRI.BE, Moon Byul, LE SSERAFIM, TWICE, The Wind, n.SSign, NOMAD, A.C.E, M.O.N.T, AIMERS, CRAVITY, TAEYONG</font>`
   },
 
   {
