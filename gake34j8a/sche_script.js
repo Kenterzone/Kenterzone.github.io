@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1217회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, TRI.BE, Moon Byul, LE SSERAFIM, TWICE, n.SSign, The Wind, AIMERS, A.C.E, Espero, NOMAD, CRAVITY, TAEYONG</font>`
   },  ////SP_GUIDE/////
 
 {
