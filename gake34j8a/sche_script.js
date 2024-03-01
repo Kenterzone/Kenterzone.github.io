@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "831회",
+    "musicEP": "832회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, LE SSERAFIM, Moon Byul, TWICE, NOMAD, AIMERS, n.SSign, TEN, The Wind, INI, A.C.E, CRAVITY, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
