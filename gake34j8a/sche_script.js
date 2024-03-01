@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1196회",
+    "musicEP": "1197회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON SOO HYUN, X:IN, TRI.BE, Moon Byul, LE SSERAFIM, TWICE, AIMERS, BXB, CRAVITY, n.SSign, NOMAD, The Wind, Espero, A.C.E, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
