@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "344회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, YDS, TRI.BE, AIMERS, BXB, DXMON, n.SSign, NOMAD, The Wind, M.O.N.T, A.C.E, CRAVITY, Kim Hee Jae</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "845회",
+    "musicEP": "846회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, TRI.BE, Moon Byul, LE SSERAFIM, TWICE, The Wind, n.SSign, NOMAD, A.C.E, M.O.N.T, AIMERS, CRAVITY, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1217회",
+    "musicEP": "1218회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, TRI.BE, Moon Byul, LE SSERAFIM, TWICE, n.SSign, The Wind, AIMERS, A.C.E, Espero, NOMAD, CRAVITY, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
