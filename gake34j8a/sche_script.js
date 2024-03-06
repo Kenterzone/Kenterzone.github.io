@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "344회",
+    "musicEP": "345회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, YDS, TRI.BE, AIMERS, BXB, DXMON, n.SSign, NOMAD, The Wind, M.O.N.T, A.C.E, CRAVITY, Kim Hee Jae</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "832회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, ICHILLIN', TRI.BE, LE SSERAFIM, LIM KIM × 1MILLION, NOMAD, The Wind, AIMERS, A.C.E, n.SSign, BOY STORY, , CRAVITY, TAEYONG, NCT WISH</font>`
   },
 
   {
