@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "832회",
+    "musicEP": "833회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, ICHILLIN', TRI.BE, LE SSERAFIM, LIM KIM × 1MILLION, NOMAD, The Wind, AIMERS, A.C.E, n.SSign, BOY STORY, , CRAVITY, TAEYONG, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
