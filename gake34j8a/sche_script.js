@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1197회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, X:IN, TRI.BE, LE SSERAFIM, ICHILLIN', NOMAD, xikers, The Wind, Espero, A.C.E, BOY STORY, CRAVITY, HORI7ON, n.SSign, NCT WISH</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "846회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, ICHILLIN', LE SSERAFIM, A.C.E, The Wind, n.SSign, NOMAD, Kim Hee Jae, IL Min, Espero, TAEYONG, CRAVITY, xikers, BOY STORY, PLAVE, NCT WISH</font>`
   },
 
   {
