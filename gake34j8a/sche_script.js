@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "345회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, TRI.BE, ICHILLIN', The Wind, M.O.N.T, A.C.E, HORI7ON, n.SSign, NCT WISH, NOMAD, xikers, Kim Hee Jae, CRAVITY</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1197회",
+    "musicEP": "1198회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, X:IN, TRI.BE, LE SSERAFIM, ICHILLIN', NOMAD, xikers, The Wind, Espero, A.C.E, BOY STORY, CRAVITY, HORI7ON, n.SSign, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "846회",
+    "musicEP": "847회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, ICHILLIN', LE SSERAFIM, A.C.E, The Wind, n.SSign, NOMAD, Kim Hee Jae, IL Min, Espero, TAEYONG, CRAVITY, xikers, BOY STORY, PLAVE, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1218회",
+    "musicEP": "1219회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TRI.BE, ICHILLIN', LE SSERAFIM, A.C.E, n.SSign, Espero, The Wind, Daniel Jikal, xikers, BOY STORY, HORI7ON, NCT WISH, CRAVITY, Kim Hee Jae, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
