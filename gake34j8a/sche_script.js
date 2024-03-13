@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "833회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', YooA, CHUNG HA, WENDY, LUN8, BOY STORY, BAE173, xikers, NCT WISH, n.SSign, CRAVITY, TEMPEST, HIGHLIGHT, HWANG MIN HYUN</font>`
   },
 
   {
