@@ -12,14 +12,14 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "345회",
+    "musicEP": "346회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, TRI.BE, ICHILLIN', The Wind, M.O.N.T, A.C.E, HORI7ON, n.SSign, NCT WISH, NOMAD, xikers, Kim Hee Jae, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "509회",
     "musictime": "18:04KST",
