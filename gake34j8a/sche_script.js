@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "509회",
+    "musicEP": "510회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, ICHILLIN', HORI7ON, NOMAD, n.SSign, NCT WISH, xikers, The Wind, BOY STORY, VROMANCE, A.C.E, WOOSEOK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1198회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', CHUNG HA, YooA, WENDY, BOY STORY, AIMERS, BAE173, NCT WISH, NOMAD, TEMPEST, xikers, CRAVITY, LUN8, Kim Hee Jae, HIGHLIGHT</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "847회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', YooA, CHUNG HA, WENDY, xikers, n.SSign, BOY STORY, NCT WISH, NOMAD, BAE173, TEMPEST, Kim Hee Jae, CRAVITY, HIGHLIGHT</font>`
   },
 
   {
