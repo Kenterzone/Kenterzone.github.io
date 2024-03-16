@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "833회",
+    "musicEP": "834회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', YooA, CHUNG HA, WENDY, LUN8, BOY STORY, BAE173, xikers, NCT WISH, n.SSign, CRAVITY, TEMPEST, HIGHLIGHT, HWANG MIN HYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1198회",
+    "musicEP": "1199회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', CHUNG HA, YooA, WENDY, BOY STORY, AIMERS, BAE173, NCT WISH, NOMAD, TEMPEST, xikers, CRAVITY, LUN8, Kim Hee Jae, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "847회",
+    "musicEP": "848회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', YooA, CHUNG HA, WENDY, xikers, n.SSign, BOY STORY, NCT WISH, NOMAD, BAE173, TEMPEST, Kim Hee Jae, CRAVITY, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1219회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hong Ji Yun, ICHILLIN', CHUNG HA, YooA, WENDY, NOMAD, BOY STORY, AIMERS, Kim Hee Jae, TEMPEST, SEVENUS, xikers, LUN8, CRAVITY, NCT WISH, BAE173, HIGHLIGHT</font>`
   },  ////SP_GUIDE/////
 
 {
