@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "346회",
+    "musicEP": "347회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', YooA, AIMERS, XODIAC, Kwon Eui Bin, SEVENUS, LUN8, NOMAD, TEMPEST, xikers, BAE173, CRAVITY, HIGHLIGHT</font>`
   },
   {
     "mair": "nomal",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1219회",
+    "musicEP": "1220회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hong Ji Yun, ICHILLIN', CHUNG HA, YooA, WENDY, NOMAD, BOY STORY, AIMERS, Kim Hee Jae, TEMPEST, SEVENUS, xikers, LUN8, CRAVITY, NCT WISH, BAE173, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
