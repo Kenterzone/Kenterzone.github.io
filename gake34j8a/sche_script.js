@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "347회",
+    "musicEP": "348회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, ICHILLIN', YooA, AIMERS, XODIAC, Kwon Eui Bin, SEVENUS, LUN8, NOMAD, TEMPEST, xikers, BAE173, CRAVITY, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "834회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, VVUP, PURPLE KISS, YooA, CHUNG HA, (G)I-DLE, Kim Nam Joo, WENDY, THE NEW SIX, xikers, NCT WISH, n.SSign, THE BOYZ, DAY6, LUN8, BAE173, CRAVITY, TEMPEST, HIGHLIGHT</font>`
   },
 
   {
