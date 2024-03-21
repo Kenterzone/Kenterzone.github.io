@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "510회",
+    "musicEP": "511회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, CHILLIN', YooA, XODIAC, NOMAD, BOY STORY, LUN8, TEMPEST, xikers, BAE173, SEVENUS, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,12 +42,12 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1199회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', PURPLE KISS, JUNG HYE RIN, CHUNG HA, (G)I-DLE, YooA, WENDY, Kim Nam Joo, SEVENUS, EASTSHINE, THE NEW SIX, xikers, n.SSign, NCT WISH, TEMPEST, THE BOYZ, CRAVITY, DAY6, JUNG DONG HA, HIGHLIGHT</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "848회",
     "musictime": "15:21KST",
