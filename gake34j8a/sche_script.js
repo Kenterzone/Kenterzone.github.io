@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "834회",
+    "musicEP": "835회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, VVUP, PURPLE KISS, YooA, CHUNG HA, (G)I-DLE, Kim Nam Joo, WENDY, THE NEW SIX, xikers, NCT WISH, n.SSign, THE BOYZ, DAY6, LUN8, BAE173, CRAVITY, TEMPEST, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,14 +40,14 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1199회",
+    "musicEP": "1200회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ICHILLIN', PURPLE KISS, JUNG HYE RIN, CHUNG HA, (G)I-DLE, YooA, WENDY, Kim Nam Joo, SEVENUS, EASTSHINE, THE NEW SIX, xikers, n.SSign, NCT WISH, TEMPEST, THE BOYZ, CRAVITY, DAY6, JUNG DONG HA, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "848회",
     "musictime": "15:21KST",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1220회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, VVUP, PURPLE KISS, (G)I-DLE, YooA, CHUNG HA, Kim Nam Joo, WENDY, n.SSign, LUN8, THE BOYZ, xikers, THE NEW SIX, NCT WISH, CRAVITY, TEMPEST, DAY6, HIGHLIGHT</font>`
   },  ////SP_GUIDE/////
 
 {
