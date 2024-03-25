@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "348회",
     "musictime": "18:00KST",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1220회",
+    "musicEP": "1221회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, VVUP, PURPLE KISS, (G)I-DLE, YooA, CHUNG HA, Kim Nam Joo, WENDY, n.SSign, LUN8, THE BOYZ, xikers, THE NEW SIX, NCT WISH, CRAVITY, TEMPEST, DAY6, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
