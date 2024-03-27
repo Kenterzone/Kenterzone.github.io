@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "511회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, fishingirls, PURPLE KISS, THE NEW SIX, HORI7ON, LUN8, NOMAD, n.SSign, TEMPEST, BAE173, M.O.N.T, JUNG DONG HA, HANEUM</font>`
   },
   {
     "mair": "nomal",
