@@ -10,9 +10,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "348회",
+    "musicEP": "349회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "511회",
+    "musicEP": "512회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, fishingirls, PURPLE KISS, THE NEW SIX, HORI7ON, LUN8, NOMAD, n.SSign, TEMPEST, BAE173, M.O.N.T, JUNG DONG HA, HANEUM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
