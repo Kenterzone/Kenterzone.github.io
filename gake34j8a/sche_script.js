@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "835회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, ILLIT, UNIS, YOUNG POSSE, PURPLE KISS, Kim Nam Joo, THE NEW SIX, THE BOYZ, LUN8, HunMinJayBit(Build Up), SEVENUS, AMPERS&ONE, n.SSign, TEMPEST, NCT DREAM, HANEUM</font>`
   },
 
   {
