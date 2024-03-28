@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1200회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON TAE HWA, RESCENE, UNIS, JUNG HYE RIN, Candy Shop, ILLIT, YOUNG POSSE, MINSEO, PURPLE KISS, BoA, TAN, THE NEW SIX, THE BOYZ, AMPERS&ONE, BAE173, LUN8, NCT DREAM</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "848회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, YOUNG POSSE, ILLIT, Candy Shop, PURPLE KISS, Kim Nam Joo, BoA, THE NEW SIX, TAN, AMPERS&ONE, NCT DREAM, LUN8, THE BOYZ, BAE173, SEVENUS</font>`
   },
 
   {
