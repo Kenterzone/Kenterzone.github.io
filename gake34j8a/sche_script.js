@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1221회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, ILLIT, Candy Shop, MINSEO, ICHILLIN', PURPLE KISS, Kim Nam Joo, BoA, TAN, AMPERS&ONE, THE NEW SIX, HORI7ON, THE BOYZ, BAE173, NCT DREAM</font>`
   },  ////SP_GUIDE/////
 
 {
