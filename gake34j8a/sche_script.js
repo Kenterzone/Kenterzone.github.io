@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "349회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, Candy Shop, ILLIT, YOUNG POSSE, MINSEO, PURPLE KISS, THE NEW SIX, XODIAC, AMPERS&ONE, TAN, Leni.M, n.SSign, LUN8, LUCAS, BAE173, JUNG DONG HA</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1200회",
+    "musicEP": "1201회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON TAE HWA, RESCENE, UNIS, JUNG HYE RIN, Candy Shop, ILLIT, YOUNG POSSE, MINSEO, PURPLE KISS, BoA, TAN, THE NEW SIX, THE BOYZ, AMPERS&ONE, BAE173, LUN8, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "848회",
+    "musicEP": "849회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, YOUNG POSSE, ILLIT, Candy Shop, PURPLE KISS, Kim Nam Joo, BoA, THE NEW SIX, TAN, AMPERS&ONE, NCT DREAM, LUN8, THE BOYZ, BAE173, SEVENUS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1221회",
+    "musicEP": "1222회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, ILLIT, Candy Shop, MINSEO, ICHILLIN', PURPLE KISS, Kim Nam Joo, BoA, TAN, AMPERS&ONE, THE NEW SIX, HORI7ON, THE BOYZ, BAE173, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
