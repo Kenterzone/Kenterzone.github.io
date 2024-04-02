@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "349회",
+    "musicEP": "350회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, Candy Shop, ILLIT, YOUNG POSSE, MINSEO, PURPLE KISS, THE NEW SIX, XODIAC, AMPERS&ONE, TAN, Leni.M, n.SSign, LUN8, LUCAS, BAE173, JUNG DONG HA</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "512회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, UNIS, ILLIT, YOUNG POSSE, MINSEO, PURPLE KISS, THE NEW SIX, AMPERS&ONE, BAE173, LUCAS, n.SSign, P1Harmony</font>`
   },
   {
     "mair": "nomal",
