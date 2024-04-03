@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "836회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, UNIS, ILLIT, YOUNG POSSE, I-LAND2 N/a, KISS OF LIFE, PURPLE KISS, NOWADAYS, THE NEW SIX, DRIPPIN, AMPERS&ONE, LUCAS, BAE173, xikers, TAN, NCT DREAM, TOMORROW X TOGETHER</font>`
   },
 
   {
