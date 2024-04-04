@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "512회",
+    "musicEP": "513회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, UNIS, ILLIT, YOUNG POSSE, MINSEO, PURPLE KISS, THE NEW SIX, AMPERS&ONE, BAE173, LUCAS, n.SSign, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "836회",
+    "musicEP": "837회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, UNIS, ILLIT, YOUNG POSSE, I-LAND2 N/a, KISS OF LIFE, PURPLE KISS, NOWADAYS, THE NEW SIX, DRIPPIN, AMPERS&ONE, LUCAS, BAE173, xikers, TAN, NCT DREAM, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1201회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, UNIS, VVUP, KISS OF LIFE, KyoungSeo, Hong Ji Yun, ILLIT, PURPLE KISS, NOWADAYS, THE NEW SIX, xikers, AMPERS&ONE, Catch The Young, TOXIC, DRIPPIN, n.SSign, NCT DREAM, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "849회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, YOUNG POSSE, KyoungSeo, KISS OF LIFE, ILLIT, ICHILLIN', PURPLE KISS, THE NEW SIX, AMPERS&ONE, DRIPPIN, TAN, xikers, NOWADAYS, BAE173, NCT DREAM, TOMORROW X TOGETHER</font>`
   },
 
   {
