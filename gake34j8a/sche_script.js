@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "837회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ME:I, UNIS, VVUP, ILLIT, KyoungSeo, KISS OF LIFE, BABYMONSTER, WOOAH, NOWADAYS, EPEX, B.D.U, xikers, AMPERS&ONE, DRIPPIN, LUCAS, KIM CHOWOL, ONF, CRAVITY, TOMORROW X TOGETHER</font>`
   },
 
   {
