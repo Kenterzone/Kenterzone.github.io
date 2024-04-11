@@ -12,27 +12,27 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "350회",
+    "musicEP": "351회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, YOUNG POSSE, UNIS, VVUP, ILLIT, KISS OF LIFE, RESCENE, SPIA, PURPLE KISS, SOYEON(LABOUM), NOWADAYS, SEVENUS, AMPERS&ONE, n.SSign, xikers, LUCAS, DRIPPIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "513회",
+    "musicEP": "514회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, UNIS, VVUP, ILLIT, KISS OF LIFE, PURPLE KISS, NOWADAYS, xikers, AMPERS&ONE, LUCAS, DRIPPIN, TAN, n.SSign, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "837회",
+    "musicEP": "838회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ME:I, UNIS, VVUP, ILLIT, KyoungSeo, KISS OF LIFE, BABYMONSTER, WOOAH, NOWADAYS, EPEX, B.D.U, xikers, AMPERS&ONE, DRIPPIN, LUCAS, KIM CHOWOL, ONF, CRAVITY, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1202회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, VVUP, RESCENE, KISS OF LIFE, UNIS, ILLIT, WOOAH, NOWADAYS, Leni.M, EPEX, TAN, AMPERS&ONE, SEVENUS, xikers, DRIPPIN, CRAVITY, BAE173, ONF, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "850회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, HAUBI, UNIS, KISS OF LIFE, ILLIT, WOOAH, AMPERS&ONE, NOWADAYS, Noh Ji Hoon, NCHIVE, xikers, EPEX, CRAVITY, DRIPPIN, BAE173, ONF, TOMORROW X TOGETHER</font>`
   },
 
   {
