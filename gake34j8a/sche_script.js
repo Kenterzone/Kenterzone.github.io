@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1202회",
+    "musicEP": "1203회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, VVUP, RESCENE, KISS OF LIFE, UNIS, ILLIT, WOOAH, NOWADAYS, Leni.M, EPEX, TAN, AMPERS&ONE, SEVENUS, xikers, DRIPPIN, CRAVITY, BAE173, ONF, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1223회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, UNIS, ILLIT, WOOAH, BABYMONSTER, xikers, AMPERS&ONE, NOWADAYS, ONF, EPEX, Kim Cho Wol, SEVENUS, Catch The Young, CRAVITY, DRIPPIN, BAE173, TOMORROW X TOGETHER</font>`
   },  ////SP_GUIDE/////
 
 {
