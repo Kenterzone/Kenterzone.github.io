@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "351회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, RESCENE, UNIS, KISS OF LIFE, NCHIVE, AMPERS&ONE, NOWADAYS, xikers, LUCAS, DRIPPIN, EPEX, HANEUM, ONF, CRAVITY</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "850회",
+    "musicEP": "851회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, HAUBI, UNIS, KISS OF LIFE, ILLIT, WOOAH, AMPERS&ONE, NOWADAYS, Noh Ji Hoon, NCHIVE, xikers, EPEX, CRAVITY, DRIPPIN, BAE173, ONF, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1223회",
+    "musicEP": "1224회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, UNIS, ILLIT, WOOAH, BABYMONSTER, xikers, AMPERS&ONE, NOWADAYS, ONF, EPEX, Kim Cho Wol, SEVENUS, Catch The Young, CRAVITY, DRIPPIN, BAE173, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
