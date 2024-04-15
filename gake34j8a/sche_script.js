@@ -12,7 +12,7 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "351회",
+    "musicEP": "349회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, RESCENE, UNIS, KISS OF LIFE, NCHIVE, AMPERS&ONE, NOWADAYS, xikers, LUCAS, DRIPPIN, EPEX, HANEUM, ONF, CRAVITY</font>`
   },
