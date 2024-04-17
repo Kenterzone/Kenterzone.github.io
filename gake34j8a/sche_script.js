@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "838회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ILLIT, KISS OF LIFE, Loossemble, BABYMONSTER, WOOAH, NOWADAYS, DRIPPIN, RIIZE, LAY ZHANG, xikers, ONF, ONEWE, EPEX, LUCAS, CRAVITY, BOYNEXTDOOR, SUPER JUNIOR-D&E</font>`
   },
 
   {
