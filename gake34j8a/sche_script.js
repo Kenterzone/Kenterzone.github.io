@@ -38,7 +38,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1203회",
     "musictime": "17:15KST",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "851회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, BEWAVE, Loossemble, KISS OF LIFE, ILLIT, WOOAH, LAY ZHANG, xikers, NOWADAYS, Catch The Young, Big Ocean, RIIZE, ONEWE, DRIPPIN, EPEX, CRAVITY, BOYNEXTDOOR, ONF</font>`
   },
 
   {
