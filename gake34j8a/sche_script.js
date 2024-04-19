@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "514회",
+    "musicEP": "515회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, RESCENE, KISS OF LIFE, Catch The Young, NOWADAYS, xikers, AMPERS&ONE, NCHIVE, DRIPPIN, EPEX, LUCAS, ONF, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "838회",
+    "musicEP": "839회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ILLIT, KISS OF LIFE, Loossemble, BABYMONSTER, WOOAH, NOWADAYS, DRIPPIN, RIIZE, LAY ZHANG, xikers, ONF, ONEWE, EPEX, LUCAS, CRAVITY, BOYNEXTDOOR, SUPER JUNIOR-D&E</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1224회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SPIA, Candy Shop, ILLIT, KISS OF LIFE, WOOAH, BABYMONSTER, EPEX, xikers, NOWADAYS, RIIZE, LAY ZHANG, ONEWE, BOYNEXTDOOR, CRAVITY, DRIPPIN, ONF</font>`
   },  ////SP_GUIDE/////
 
 {
