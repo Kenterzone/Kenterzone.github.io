@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "350회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, UNICODE, BYEOL EUN, ILLIT, Loossemble, Catch The Young, ONEWE, EPEX, NOWADAYS, NCHIVE, LEE CHAN WON, DRIPPIN, BOYNEXTDOOR</font>`
   },
   {
     "mair": "nomal",
@@ -38,7 +38,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1203회",
     "musictime": "17:15KST",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "851회",
+    "musicEP": "852회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, BEWAVE, Loossemble, KISS OF LIFE, ILLIT, WOOAH, LAY ZHANG, xikers, NOWADAYS, Catch The Young, Big Ocean, RIIZE, ONEWE, DRIPPIN, EPEX, CRAVITY, BOYNEXTDOOR, ONF</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1224회",
+    "musicEP": "1225회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SPIA, Candy Shop, ILLIT, KISS OF LIFE, WOOAH, BABYMONSTER, EPEX, xikers, NOWADAYS, RIIZE, LAY ZHANG, ONEWE, BOYNEXTDOOR, CRAVITY, DRIPPIN, ONF</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
