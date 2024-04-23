@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "515회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, BEWAVE, ILLIT, Loossemble, NCHIVE, ONEWE, Catch The Young, NOWADAYS, BOYNEXTDOOR, LAY ZHANG, DKZ, DRIPPIN, EPEX</font>`
   },
   {
     "mair": "nomal",
