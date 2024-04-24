@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "350회",
+    "musicEP": "351회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, UNICODE, BYEOL EUN, ILLIT, Loossemble, Catch The Young, ONEWE, EPEX, NOWADAYS, NCHIVE, LEE CHAN WON, DRIPPIN, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "515회",
+    "musicEP": "516회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, BEWAVE, ILLIT, Loossemble, NCHIVE, ONEWE, Catch The Young, NOWADAYS, BOYNEXTDOOR, LAY ZHANG, DKZ, DRIPPIN, EPEX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "839회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BABYMONSTER, WOOAH, Song Yuqi((G)I-DLE), BE'O, n.SSign, ONF, ONEWE, EPEX, ZEROBASEONE, Catch The Young, TIOT, RIIZE, KIMWOOJIN, NOWADAYS, DOYOUNG, DRIPPIN, BOYNEXTDOOR</font>`
   },
 
   {
