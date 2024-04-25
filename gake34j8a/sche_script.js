@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1203회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ViV, BEWAVE, ILLIT, WOOAH, DOYOUNG, LA POEM, BE'O, DRIPPIN, EPEX, n.SSign, RIIZE, TIOT, ZEROBASEONE, KIM CHOWOL, ONEWE, LEE JIN HYUK, LEE CHAN WON, PICKUS, BOYNEXTDOOR</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "852회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">WOOAH, YUQI((G)I-DLE), LA POEM, FANTASY BOYS, TIOT, ONEWE, EPEX, RIIZE, LEE CHAN WON, BE'O, DOYOUNG, n.SSign, NCHIVE, ZEROBASEONE, BOYNEXTDOOR</font>`
   },
 
   {
