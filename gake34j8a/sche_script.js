@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "351회",
     "musictime": "18:00KST",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "852회",
+    "musicEP": "853회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">WOOAH, YUQI((G)I-DLE), LA POEM, FANTASY BOYS, TIOT, ONEWE, EPEX, RIIZE, LEE CHAN WON, BE'O, DOYOUNG, n.SSign, NCHIVE, ZEROBASEONE, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1225회",
+    "musicEP": "1226회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Jo a seo, BABYMONSTER, WOOAH, YUQI((G)I-DLE), LEE CHAN WON, LEE JIN HYUK, BE'O, Pagaehun X KKANGBYEONGZ, KIM WOO JIN, BOYNEXTDOOR, RIIZE, ONEWE, DRIPPIN, n.SSign, NOWADAYS, DOYOUNG, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
