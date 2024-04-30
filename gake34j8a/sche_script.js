@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "516회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, UNICODE, RESCENE, EPEX, LAS, n.SSign, TIOT, Xdinary Heroes, KIMWOOJIN, NCHIVE, ONEWE, LEE JIN HYUK, BOYNEXTDOOR</font>`
   },
   {
     "mair": "nomal",
