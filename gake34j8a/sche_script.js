@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "516회",
+    "musicEP": "517회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, UNICODE, RESCENE, EPEX, LAS, n.SSign, TIOT, Xdinary Heroes, KIMWOOJIN, NCHIVE, ONEWE, LEE JIN HYUK, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "840회",
+    "musicEP": "841회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, YUQI((G)I-DLE), IVE, Solar, HyunA, 82MAJOR, Xdinary Heroes, YOUNITE, LEE JIN HYUK, KINO, TIOT, TOZ, FANTASY BOYS, The KingDom, DOYOUNG, BOYNEXTDOOR, SEVENTEEN</font>`
   },
 
   {
