@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "841회",
+    "musicEP": "842회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, YUQI((G)I-DLE), IVE, Solar, HyunA, 82MAJOR, Xdinary Heroes, YOUNITE, LEE JIN HYUK, KINO, TIOT, TOZ, FANTASY BOYS, The KingDom, DOYOUNG, BOYNEXTDOOR, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1205회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, BEWAVE, IVE, Solar, EASTSHINE, LEE JIN HYUK, LEE CHAN WON, TOZ, PICKUS, 82MAJOR, BOYNEXTDOOR, EPEX, FANTASY BOYS, The KingDom, TIOT, Xdinary Heroes, YOUNITE, DOYOUNG, SEVENTEEN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "853회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, YUQI((G)I-DLE), IVE, Solar, DOYOUNG, The KingDom, Xdinary Heroes, YOUNITE, 82MAJOR, LEE CHAN WON, BOYNEXTDOOR, LA POEM, FANTASY BOYS, EASTSHINE, SEVENTEEN</font>`
   },
 
   {
