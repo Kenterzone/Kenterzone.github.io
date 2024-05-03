@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1205회",
+    "musicEP": "1206회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, BEWAVE, IVE, Solar, EASTSHINE, LEE JIN HYUK, LEE CHAN WON, TOZ, PICKUS, 82MAJOR, BOYNEXTDOOR, EPEX, FANTASY BOYS, The KingDom, TIOT, Xdinary Heroes, YOUNITE, DOYOUNG, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1226회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, Jo Hye Ryeon, YUQI((G)I-DLE), IVE, Solar, The KingDom, LA POEM, 82MAJOR, TIOT, DOYOUNG, BOYNEXTDOOR, LEE CHAN WON, KIM WOO JIN, n.SSign, Catch The Young, Xdinary Heroes, YOUNITE, SEVENTEEN</font>`
   },  ////SP_GUIDE/////
 
 {
