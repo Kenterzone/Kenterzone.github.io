@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "351회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, UNICODE, Solar, 82MAJOR, BOYNEXTDOOR, FANTASY BOYS, LAS, The KingDom, TIOT, TOZ, YOUNITE, KIMWOOJIN, LEE JIN HYUK, KINO, KOONZO CREW</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "853회",
+    "musicEP": "854회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, YUQI((G)I-DLE), IVE, Solar, DOYOUNG, The KingDom, Xdinary Heroes, YOUNITE, 82MAJOR, LEE CHAN WON, BOYNEXTDOOR, LA POEM, FANTASY BOYS, EASTSHINE, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1226회",
+    "musicEP": "1227회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, Jo Hye Ryeon, YUQI((G)I-DLE), IVE, Solar, The KingDom, LA POEM, 82MAJOR, TIOT, DOYOUNG, BOYNEXTDOOR, LEE CHAN WON, KIM WOO JIN, n.SSign, Catch The Young, Xdinary Heroes, YOUNITE, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
