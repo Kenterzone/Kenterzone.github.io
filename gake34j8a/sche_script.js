@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "351회",
+    "musicEP": "352회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, UNICODE, Solar, 82MAJOR, BOYNEXTDOOR, FANTASY BOYS, LAS, The KingDom, TIOT, TOZ, YOUNITE, KIMWOOJIN, LEE JIN HYUK, KINO, KOONZO CREW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "842회",
     "musictime": "18:08KST",
