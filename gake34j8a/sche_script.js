@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1206회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, ViV, tripleS, IVE, Solar, 82MAJOR, FANTASY BOYS, LAS, MA1, The KingDom, Xdinary Heroes, KIM WOO JIN, KIM JAE HWAN, ASC2NT, YOOK SUNGJAE, Catch The Young, TOZ, LEO, SEVENTEEN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "854회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, tripleS, IVE, Solar, ASC2NT, Xdinary Heroes, The KingDom, FANTASY BOYS, 82MAJOR, KIM JAE HWAN, YAOCHEN, KIM WOO JIN, TOZ, LEO, YOOK SUNGJAE, SEVENTEEN</font>`
   },
 
   {
