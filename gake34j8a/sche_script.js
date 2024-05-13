@@ -14,12 +14,12 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "352회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, tripleS, 82MAJOR, KIMWOOJIN, KIM JAE HWAN, Na Tae Joo, LEO, ASC2NT, KINO, ASMRZ(TANAKA&NEEDMORECASH), E'LAST, FANTASY BOYS, The KingDom, TOZ, YOUNITE</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "517회",
     "musictime": "18:04KST",
@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "842회",
     "musictime": "18:08KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1206회",
+    "musicEP": "1207회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, ViV, tripleS, IVE, Solar, 82MAJOR, FANTASY BOYS, LAS, MA1, The KingDom, Xdinary Heroes, KIM WOO JIN, KIM JAE HWAN, ASC2NT, YOOK SUNGJAE, Catch The Young, TOZ, LEO, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "854회",
+    "musicEP": "855회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, tripleS, IVE, Solar, ASC2NT, Xdinary Heroes, The KingDom, FANTASY BOYS, 82MAJOR, KIM JAE HWAN, YAOCHEN, KIM WOO JIN, TOZ, LEO, YOOK SUNGJAE, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1227회",
+    "musicEP": "1228회",
     "musictime": "15:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
