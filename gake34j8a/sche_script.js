@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "842회",
+    "musicEP": "843회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, IVE, aespa, WHIB, NOWADAYS, DXMON, The Wind, LEO, SEVENTEEN, YAOCHEN, ASC2NT, Xdinary Heroes, FANTASY BOYS, KIM JAE HWAN, YOUNITE, ZEROBASEONE</font>`
   },
