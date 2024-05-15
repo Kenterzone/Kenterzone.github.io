@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "352회",
+    "musicEP": "353회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNICODE, tripleS, 82MAJOR, KIMWOOJIN, KIM JAE HWAN, Na Tae Joo, LEO, ASC2NT, KINO, ASMRZ(TANAKA&NEEDMORECASH), E'LAST, FANTASY BOYS, The KingDom, TOZ, YOUNITE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "842회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, IVE, aespa, WHIB, NOWADAYS, DXMON, The Wind, LEO, SEVENTEEN, YAOCHEN, ASC2NT, Xdinary Heroes, FANTASY BOYS, KIM JAE HWAN, YOUNITE, ZEROBASEONE</font>`
   },
 
   {
