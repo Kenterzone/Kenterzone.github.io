@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1207회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOU DAYEON, tripleS, We;Na, IVE, aespa, 82MAJOR, DXMON, ZEROBASEONE, KIM JAE HWAN, ASC2NT, EASTSHINE, TOZ, E'LAST, FANTASY BOYS, NOWADAYS, The KingDom, TIOT, Xdinary Heroes, YOUNITE</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "855회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOU DAYEON, SEOL HAYOON, CHO HYE LYUN, tripleS, IVE, aespa, DXMON, TIOT, NOWADAYS, Xdinary Heroes, ZEROBASEONE, YOUNITE, FANTASY BOYS, 82MAJOR, KIM JAE HWAN</font>`
   },
 
   {
