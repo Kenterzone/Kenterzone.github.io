@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1228회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOU DAYEON, tripleS, IVE, aespa, NOWADAYS, TOZ, 82MAJOR, TIOT, ASC2NT, ZEROBASEONE, FANTASY BOYS, WHIB, DXMON, E'LAST, Xdinary Heroes, The KingDom, YOUNITE, KIM JAE HWAN</font>`
   },  ////SP_GUIDE/////
 
 {
