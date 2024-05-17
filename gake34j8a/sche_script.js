@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "843회",
+    "musicEP": "844회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, IVE, aespa, WHIB, NOWADAYS, DXMON, The Wind, LEO, SEVENTEEN, YAOCHEN, ASC2NT, Xdinary Heroes, FANTASY BOYS, KIM JAE HWAN, YOUNITE, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1207회",
+    "musicEP": "1208회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOU DAYEON, tripleS, We;Na, IVE, aespa, 82MAJOR, DXMON, ZEROBASEONE, KIM JAE HWAN, ASC2NT, EASTSHINE, TOZ, E'LAST, FANTASY BOYS, NOWADAYS, The KingDom, TIOT, Xdinary Heroes, YOUNITE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
