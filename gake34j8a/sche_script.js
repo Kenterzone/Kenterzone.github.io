@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "353회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, tripleS, PARK JEUP, ASC2NT, 82MAJOR, DXMON, E'LAST, FANTASY BOYS, NOWADAYS, LEE DONG YEOL, The KingDom, KIM HONG NAM, WHIB, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "855회",
+    "musicEP": "856회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOU DAYEON, SEOL HAYOON, CHO HYE LYUN, tripleS, IVE, aespa, DXMON, TIOT, NOWADAYS, Xdinary Heroes, ZEROBASEONE, YOUNITE, FANTASY BOYS, 82MAJOR, KIM JAE HWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1228회",
+    "musicEP": "1229회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOU DAYEON, tripleS, IVE, aespa, NOWADAYS, TOZ, 82MAJOR, TIOT, ASC2NT, ZEROBASEONE, FANTASY BOYS, WHIB, DXMON, E'LAST, Xdinary Heroes, The KingDom, YOUNITE, KIM JAE HWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
