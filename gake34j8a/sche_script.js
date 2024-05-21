@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "353회",
+    "musicEP": "354회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, tripleS, PARK JEUP, ASC2NT, 82MAJOR, DXMON, E'LAST, FANTASY BOYS, NOWADAYS, LEE DONG YEOL, The KingDom, KIM HONG NAM, WHIB, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "517회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, tripleS, PARK JEUP, ASC2NT, NOWADAYS, The KingDom, WHIB, 82MAJOR, DXMON, LEO, LEE DONG YEOL, FANTASY BOYS, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
