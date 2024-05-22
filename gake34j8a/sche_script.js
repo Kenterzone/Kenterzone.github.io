@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "517회",
+    "musicEP": "518회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, tripleS, PARK JEUP, ASC2NT, NOWADAYS, The KingDom, WHIB, 82MAJOR, DXMON, LEO, LEE DONG YEOL, FANTASY BOYS, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "844회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, We;Na, YOU DAYEON, tripleS, aespa, NOWADAYS, NEXZ, DXMON, E'LAST, MCND, FANTASY BOYS, WHIB, ONEUS, EASTSHINE, JD1, JO1, ZEROBASEONE</font>`
   },
 
   {
