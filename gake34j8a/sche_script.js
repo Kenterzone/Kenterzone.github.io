@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1208회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, We;Na, tripleS, NewJeans, aespa, DXMON, E'LAST, ASC2NT, ONEUS, EASTSHINE, TROIKA, JD1, JO1, MCND, NEXZ, NOWADAYS, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "856회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Jung Hye Rin, CHO HYE LYUN, Kik5o, tripleS, aespa, JD1, MCND, JO1, NEXZ, E'LAST, FANTASY BOYS, WHIB, DXMON, NOWADAYS, ONEUS, ZEROBASEONE</font>`
   },
 
   {
