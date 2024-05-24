@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "844회",
+    "musicEP": "845회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, We;Na, YOU DAYEON, tripleS, aespa, NOWADAYS, NEXZ, DXMON, E'LAST, MCND, FANTASY BOYS, WHIB, ONEUS, EASTSHINE, JD1, JO1, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1208회",
+    "musicEP": "1209회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, We;Na, tripleS, NewJeans, aespa, DXMON, E'LAST, ASC2NT, ONEUS, EASTSHINE, TROIKA, JD1, JO1, MCND, NEXZ, NOWADAYS, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1229회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, JUNG HYE RIN, RESCENE, tripleS, NewJeans, aespa, JD1, NEXZ, LEO, JO1, MCND, DXMON, EASTSHINE, NOWADAYS, ONEUS, ZEROBASEONE</font>`
   },  ////SP_GUIDE/////
 
 {
