@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "354회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON CHAEWON, RESCENE, tripleS, DXMON, E'LAST, FANTASY BOYS, JO1, NND, WHIB, LEE DONG YEOL, TAEHO, ZEROBASEONE, ASC2NT, ONEUS, Yoo hwe seung(N.Flying)</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "856회",
+    "musicEP": "857회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Jung Hye Rin, CHO HYE LYUN, Kik5o, tripleS, aespa, JD1, MCND, JO1, NEXZ, E'LAST, FANTASY BOYS, WHIB, DXMON, NOWADAYS, ONEUS, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1229회",
+    "musicEP": "1230회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">We;Na, JUNG HYE RIN, RESCENE, tripleS, NewJeans, aespa, JD1, NEXZ, LEO, JO1, MCND, DXMON, EASTSHINE, NOWADAYS, ONEUS, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
