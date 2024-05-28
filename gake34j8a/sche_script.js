@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "354회",
+    "musicEP": "355회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON CHAEWON, RESCENE, tripleS, DXMON, E'LAST, FANTASY BOYS, JO1, NND, WHIB, LEE DONG YEOL, TAEHO, ZEROBASEONE, ASC2NT, ONEUS, Yoo hwe seung(N.Flying)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "518회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, GRANADA, SOOJIN, NEXZ, WHIB, ASC2NT, ONEUS, TAEHO, DXMON, E'LAST, FANTASY BOYS, JO1, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
