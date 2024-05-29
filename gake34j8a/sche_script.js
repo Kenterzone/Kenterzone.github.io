@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "845회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">APOKI, <I-LAND2 : N/a> Part.2 Participants, Kik5o, XG, Yves, aespa, NEXZ, DXMON, MCND, TREASURE, WATERFIRE, ONEUS, CHEN, Jay Park, ZEROBASEONE, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">APOKI, I-LAND2:N/a(Part.2 Participants), Kik5o, XG, Yves, aespa, NEXZ, DXMON, MCND, TREASURE, WATERFIRE, ONEUS, CHEN, Jay Park, ZEROBASEONE, ENHYPEN</font>`
   },
 
   {
