@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "518회",
+    "musicEP": "519회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, GRANADA, SOOJIN, NEXZ, WHIB, ASC2NT, ONEUS, TAEHO, DXMON, E'LAST, FANTASY BOYS, JO1, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "845회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">APOKI, <I-LAND2 : N/a> Part.2 Participants, Kik5o, XG, Yves, aespa, NEXZ, DXMON, MCND, TREASURE, WATERFIRE, ONEUS, CHEN, Jay Park, ZEROBASEONE, ENHYPEN</font>`
   },
 
   {
