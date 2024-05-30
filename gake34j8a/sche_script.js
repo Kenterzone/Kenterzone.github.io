@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1209회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTMS, YOU DAYEON, XG, KIMYUNA, NewJeans, Yves, aespa, JD1, MCND, NEXZ, ATEEZ, DXMON, ONEUS, CHEN, ZEROBASEONE, Jay Park</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "857회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIMYUNA, XG, ARTMS, Yves, aespa, JD1, E'LAST, DXMON, WHIB, NEXZ, ONEUS, MCND, CHEN, ATEEZ, ZEROBASEONE</font>`
   },
 
   {
