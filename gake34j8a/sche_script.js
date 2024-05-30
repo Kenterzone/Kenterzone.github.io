@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "845회",
+    "musicEP": "846회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">APOKI, I-LAND2:N/a(Part.2 Participants), Kik5o, XG, Yves, aespa, NEXZ, DXMON, MCND, TREASURE, WATERFIRE, ONEUS, CHEN, Jay Park, ZEROBASEONE, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,7 +40,7 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1209회",
+    "musicEP": "1208회",
     "musictime": "17:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">ARTMS, YOU DAYEON, XG, KIMYUNA, NewJeans, Yves, aespa, JD1, MCND, NEXZ, ATEEZ, DXMON, ONEUS, CHEN, ZEROBASEONE, Jay Park</font>`
   },
@@ -57,7 +57,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1230회",
     "musictime": "15:25KST",
