@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "519회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, XG, Yves, SOOJIN, ARTMS, HYNN, JD1, NEXZ, NND, WATERFIRE, DXMON, E'LAST, WayV</font>`
   },
   {
     "mair": "nomal",
