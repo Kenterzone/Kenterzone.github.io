@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "355회",
+    "musicEP": "356회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, XG, Yves, ARTMS, HYNN, JD1, WHIB, WATERFIRE, DXMON, WayV, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "519회",
+    "musicEP": "520회",
     "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, XG, Yves, SOOJIN, ARTMS, HYNN, JD1, NEXZ, NND, WATERFIRE, DXMON, E'LAST, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1209회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, BADVILLAIN, ARTMS, SPIA, XG, Kim Yonja, NewJeans, Kep1er, Nicole, JD1, TWS, WATERFIRE, SUHO, HAN SEUNG WOO, DXMON, ATEEZ, WayV</font>`
   },
   {
     "mair": "nomal",
