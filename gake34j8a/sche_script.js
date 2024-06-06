@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "858회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Yonja, ARTMS, XG, Kep1er, BADVILLAIN, HYNN, Nicole, NEXZ, TWS, DXMON, WayV, ATEEZ, SUHO, HAN SEUNG WOO</font>`
   },
 
   {
