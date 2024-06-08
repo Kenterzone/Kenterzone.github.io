@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1209회",
+    "musicEP": "1210회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, BADVILLAIN, ARTMS, SPIA, XG, Kim Yonja, NewJeans, Kep1er, Nicole, JD1, TWS, WATERFIRE, SUHO, HAN SEUNG WOO, DXMON, ATEEZ, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -58,10 +58,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo",
+    "musicname": "Inkigayo(K-WAVE CONCERT)",
     "musicEP": "1230회",
-    "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "13:50KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, XG, ILLIT, NewJeans, Kep1er, NMIXX, aespa, ITZY, SUHO, TWS, DXMON, NEXZ, ZEROBASEONE, MCND, ONEUS, TREASURE, Stray Kids, ATEEZ</font>`
   },  ////SP_GUIDE/////
 
 {
