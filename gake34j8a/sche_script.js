@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "356회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, SPIA, BADVILLAIN, Kep1er, cignature, EVERGLOW, Nicole, ONE PACT, TWS, WATERFIRE, WayV, HAN SEUNG WOO</font>`
   },
   {
     "mair": "nomal",
@@ -49,19 +49,19 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "858회",
+    "musicEP": "859회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Yonja, ARTMS, XG, Kep1er, BADVILLAIN, HYNN, Nicole, NEXZ, TWS, DXMON, WayV, ATEEZ, SUHO, HAN SEUNG WOO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo(K-WAVE CONCERT)",
-    "musicEP": "1230회",
+    "musicname": "Inkigayo",
+    "musicEP": "1231회",
     "musictime": "13:50KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, XG, ILLIT, NewJeans, Kep1er, NMIXX, aespa, ITZY, SUHO, TWS, DXMON, NEXZ, ZEROBASEONE, MCND, ONEUS, TREASURE, Stray Kids, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
