@@ -12,16 +12,16 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "356회",
+    "musicEP": "357회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CSR, SPIA, BADVILLAIN, Kep1er, cignature, EVERGLOW, Nicole, ONE PACT, TWS, WATERFIRE, WayV, HAN SEUNG WOO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "520회",
+    "musicEP": "521회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "846회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, Yves, Candy Shop, BADVILLAIN, BABYMONSTER, Kep1er, cignature, EVERGLOW, Nicole, SUNMI, ONE PACT, WHIB, MCND, TRENDZ, TREASURE, WayV</font>`
   },
 
   {
