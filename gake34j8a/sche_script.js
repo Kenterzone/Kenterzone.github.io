@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "846회",
+    "musicEP": "847회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, Yves, Candy Shop, BADVILLAIN, BABYMONSTER, Kep1er, cignature, EVERGLOW, Nicole, SUNMI, ONE PACT, WHIB, MCND, TRENDZ, TREASURE, WayV</font>`
   },
