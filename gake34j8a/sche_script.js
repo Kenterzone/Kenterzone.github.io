@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "847회",
+    "musicEP": "848회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, Yves, Candy Shop, BADVILLAIN, BABYMONSTER, Kep1er, cignature, EVERGLOW, Nicole, SUNMI, ONE PACT, WHIB, MCND, TRENDZ, TREASURE, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1210회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, Candy Shop, BADVILLAIN, ARTMS, cignature, Yves, Kep1er, EVERGLOW, HYNN, NewJeans, NAYEON(TWICE), Nicole, SUNMI, ONE PACT, WHIB, WATERFIRE, FANTASY BOYS, TRENDZ, WayV</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "859회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, BADVILLAIN, Yves, cignature, Kep1er, EVERGLOW, HYNN, SUNMI, Nicole, NAYEON(TWICE), Lubless, WHIB, TRENDZ, MCND, FANTASY BOYS, WayV, SUPER JUNIOR</font>`
   },
 
   {
