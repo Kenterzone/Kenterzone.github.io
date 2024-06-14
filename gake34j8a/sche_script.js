@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1231회",
     "musictime": "13:50KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, BADVILLAIN, KIM YONJA, Yves, ARTMS, Kep1er, cignature, NewJeans, EVERGLOW, NAYEON(TWICE), SUNMI, Nicole, TRENDZ, TREASURE, MCND, WayV, SUPER JUNIOR</font>`
   },  ////SP_GUIDE/////
 
 {
