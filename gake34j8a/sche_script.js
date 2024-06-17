@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "357회",
     "musictime": "18:00KST",
@@ -19,7 +19,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "521회",
     "musictime": "18:04KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1210회",
+    "musicEP": "1211회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, Candy Shop, BADVILLAIN, ARTMS, cignature, Yves, Kep1er, EVERGLOW, HYNN, NewJeans, NAYEON(TWICE), Nicole, SUNMI, ONE PACT, WHIB, WATERFIRE, FANTASY BOYS, TRENDZ, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "859회",
+    "musicEP": "860회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, BADVILLAIN, Yves, cignature, Kep1er, EVERGLOW, HYNN, SUNMI, Nicole, NAYEON(TWICE), Lubless, WHIB, TRENDZ, MCND, FANTASY BOYS, WayV, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1231회",
     "musictime": "15:22KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, BADVILLAIN, KIM YONJA, Yves, ARTMS, Kep1er, cignature, NewJeans, EVERGLOW, NAYEON(TWICE), SUNMI, Nicole, TRENDZ, TREASURE, MCND, WayV, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
