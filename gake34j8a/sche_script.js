@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1211회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, Yiseo Han, BADVILLAIN, Candy Shop, cignature, EVERGLOW, SPIA, H1-KEY, WOOAH, Kep1er, KWON EUNBI, NAYEON(TWICE), ONE PACT, RIIZE, EVNNE, TRENDZ, BLITZERS, BAE173, WayV</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "860회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON CHAEWON, BADVILLAIN, Candy Shop, cignature, EVERGLOW, WOOAH, H1-KEY, Kep1er, KWON EUNBI, NAYEON(TWICE), EVNNE, BLITZERS, TRENDZ, ONE PACT, RIIZE, BAE173</font>`
   },
 
   {
