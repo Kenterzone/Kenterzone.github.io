@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1231회",
     "musictime": "15:22KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, Candy Shop, BADVILLAIN, cignature, Kep1er, WOOAH, H1-KEY, EVERGLOW, KWON EUNBI, NAYEON(TWICE), EVNNE, RIIZE, BLITZERS, ONE PACT, Big Ocean, TRENDZ, BAE173</font>`
   },  ////SP_GUIDE/////
 
 {
