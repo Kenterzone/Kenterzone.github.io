@@ -19,9 +19,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "521회",
+    "musicEP": "522회",
     "musictime": "18:04KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "848회",
+    "musicEP": "850회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CRAXY, IS:SUE, Gyubin, WOOAH, Kep1er, H1-KEY, KWON EUNBI, Red Velvet, EVNNE, TWS, RIIZE, ROCKY, B.D.U, BAE173</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1211회",
+    "musicEP": "1212회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, Yiseo Han, BADVILLAIN, Candy Shop, cignature, EVERGLOW, SPIA, H1-KEY, WOOAH, Kep1er, KWON EUNBI, NAYEON(TWICE), ONE PACT, RIIZE, EVNNE, TRENDZ, BLITZERS, BAE173, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "860회",
+    "musicEP": "861회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON CHAEWON, BADVILLAIN, Candy Shop, cignature, EVERGLOW, WOOAH, H1-KEY, Kep1er, KWON EUNBI, NAYEON(TWICE), EVNNE, BLITZERS, TRENDZ, ONE PACT, RIIZE, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1231회",
+    "musicEP": "1232회",
     "musictime": "15:22KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SPIA, Candy Shop, BADVILLAIN, cignature, Kep1er, WOOAH, H1-KEY, EVERGLOW, KWON EUNBI, NAYEON(TWICE), EVNNE, RIIZE, BLITZERS, ONE PACT, Big Ocean, TRENDZ, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
