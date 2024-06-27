@@ -42,12 +42,12 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1212회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, Gyubin, CRAXY, OH YOOJIN, Lee JinE, cignature, H1-KEY, Kep1er, WOOAH, KWON EUNBI, Red Velvet, Jambino x toigo x HolyBang, TWS, BLITZERS, ONE PACT, RIIZE, ROCKY, TRENDZ, BAE173, EVNNE</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "861회",
     "musictime": "15:21KST",
