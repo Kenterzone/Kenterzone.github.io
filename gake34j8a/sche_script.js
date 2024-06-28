@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1232회",
-    "musictime": "15:22KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "14:53KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OH YOOJIN, Yiseo Han, Candy Shop, Kep1er, H1-KEY, WOOAH, CRAXY, KWON EUNBI, Red Velvet, Jambino x toigo x HolyBang, TWS, ROCKY, RIIZE, EVNNE, TRENDZ, BLITZERS, BAE173</font>`
   },  ////SP_GUIDE/////
 
 {
