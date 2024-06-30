@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "357회",
     "musictime": "18:00KST",
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "850회",
+    "musicEP": "851회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CRAXY, IS:SUE, Gyubin, WOOAH, Kep1er, H1-KEY, KWON EUNBI, Red Velvet, EVNNE, TWS, RIIZE, ROCKY, B.D.U, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,14 +40,14 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1212회",
+    "musicEP": "1213회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, Gyubin, CRAXY, OH YOOJIN, Lee JinE, cignature, H1-KEY, Kep1er, WOOAH, KWON EUNBI, Red Velvet, Jambino x toigo x HolyBang, TWS, BLITZERS, ONE PACT, RIIZE, ROCKY, TRENDZ, BAE173, EVNNE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "861회",
     "musictime": "15:21KST",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1232회",
+    "musicEP": "1233회",
     "musictime": "14:53KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">OH YOOJIN, Yiseo Han, Candy Shop, Kep1er, H1-KEY, WOOAH, CRAXY, KWON EUNBI, Red Velvet, Jambino x toigo x HolyBang, TWS, ROCKY, RIIZE, EVNNE, TRENDZ, BLITZERS, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
