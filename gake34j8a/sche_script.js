@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "357회",
+    "musicEP": "358회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OH YOOJIN, BLINGONE, CRAXY, PRIMROSE, Gyubin, CHUU, H1-KEY, WOOAH, PARK JEUP, BLITZERS, Big Ocean, JUNGMO, EVNNE, TWS</font>`
   },
   {
     "mair": "nomal",
